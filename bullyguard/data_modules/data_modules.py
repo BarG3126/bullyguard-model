@@ -5,6 +5,7 @@ from torch.utils.data import BatchSampler, DataLoader, Dataset, Sampler, default
 from transformers import BatchEncoding
 
 from bullyguard.data_modules.datasets import TextClassificationDataset
+from bullyguard.data_modules.transformations import HuggingFaceTokenizationTransformation
 
 
 class DataModule(LightningDataModule):
@@ -53,7 +54,7 @@ class TextClassificationDataModule(DataModule):
         train_df_path: str,
         dev_df_path: str,
         test_df_path: str,
-        transformation: Any,
+        transformation: HuggingFaceTokenizationTransformation,
         text_column_name: str,
         label_column_name: str,
         batch_size: int,

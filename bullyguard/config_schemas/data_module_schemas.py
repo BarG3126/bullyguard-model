@@ -1,7 +1,8 @@
 from dataclasses import dataclass
-from typing import Any
 from hydra.core.config_store import ConfigStore
 from omegaconf import MISSING
+
+from bullyguard.config_schemas import transformations_schemas
 
 
 @dataclass
@@ -21,12 +22,13 @@ class TextClassificationDataModuleConfig(DataModuleConfig):
     train_df_path: str = MISSING
     dev_df_path: str = MISSING
     test_df_path: str = MISSING
-    transformation: Any = MISSING
+    transformation: transformations_schemas.TransformationConfig = MISSING
     text_column_name: str = "cleaned_text"
     label_column_name: str = "label"
 
 
 def setup_config() -> None:
+    transformations_schemas.setup_config()
 
     cs = ConfigStore.instance()
     cs.store(
