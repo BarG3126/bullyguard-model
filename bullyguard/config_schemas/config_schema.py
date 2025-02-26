@@ -1,10 +1,12 @@
 from hydra.core.config_store import ConfigStore
 from pydantic.dataclasses import dataclass
 
+from bullyguard.config_schemas.infrastructure.infrastructure_schema import InfrastructureConfig
+
 
 @dataclass
 class Config:
-    hello: str = "world"
+    infrastructure: InfrastructureConfig = InfrastructureConfig()
 
 
 def setup_config() -> None:
