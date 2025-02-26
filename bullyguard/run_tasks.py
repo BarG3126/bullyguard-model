@@ -1,5 +1,5 @@
-from prod_project.config_schemas.config_schema import Config
-from prod_project.utils.config_utils import get_config
+from bullyguard.config_schemas.config_schema import Config
+from bullyguard.utils.config_utils import get_config
 
 
 @get_config(config_path="../configs", config_name="config")

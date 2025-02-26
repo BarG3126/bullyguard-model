@@ -2,9 +2,9 @@
 services:
   app:
     user: "${USER_ID:-1000}"
-    hostname: "${HOST_NAME:-prod_project}"
-    image: prod-project-template
-    container_name: prod-project-template-container
+    hostname: "${HOST_NAME:-bullyguard}"
+    image: bullyguard-model
+    container_name: bullyguard-model-container
     build:
       context: .
       dockerfile: ./docker/Dockerfile

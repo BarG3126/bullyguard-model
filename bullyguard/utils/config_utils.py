@@ -6,7 +6,7 @@ import logging.config
 from hydra.types import TaskFunction
 from omegaconf import DictConfig, OmegaConf
 
-from prod_project.config_schemas import config_schema
+from bullyguard.config_schemas import config_schema
 
 
 def get_config(config_path: str, config_name: str) -> TaskFunction:
@@ -29,6 +29,6 @@ def setup_config() -> None:
 
 
 def setup_logger() -> None:
-    with open("./prod_project/configs/hydra/job_logging/custom.yaml", "r") as stream:
+    with open("./bullyguard/configs/hydra/job_logging/custom.yaml", "r") as stream:
         config = yaml.load(stream, Loader=yaml.FullLoader)
     logging.config.dictConfig(config)

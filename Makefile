@@ -13,9 +13,9 @@ else
 endif
 
 SERVICE_NAME = app
-CONTAINER_NAME = prod-project-template-container
+CONTAINER_NAME = bullyguard-model-container
 
-DIRS_TO_VALIDATE = prod_project
+DIRS_TO_VALIDATE = bullyguard
 DOCKER_COMPOSR_RUN = ${DOCKER_COMPOSE_COMMAND}	 run --rm $(SERVICE_NAME)
 DOCKER_COMPOSE_EXEC = ${DOCKER_COMPOSE_COMMAND} exec $(SERVICE_NAME)
 
@@ -25,9 +25,9 @@ export
 guard-%:
 	@#$(or ${$*}, $(error $* is not set))
 
-## call entrypoint:
-entrypoint: up
-	$(DOCKER_COMPOSE_EXEC) python prod_project/entrypoint.py
+## Run tasks:
+local-run-tasks: up
+	$(DOCKER_COMPOSE_EXEC) python bullyguard/run_tasks.py
 
 ## starts jupyter notebook
 notebook: up
@@ -79,8 +79,8 @@ build-for-dependencies:
 
 ## lock dependencies with poetry
 lock-dependencies: build-for-dependencies
-	$(DOCKER_COMPOSE_RUN) bash -c "if [ -e /home/prod_project/poetry.lock.build ]; then \
-        cp /home/prod_project/poetry.lock.build ./poetry.lock; \
+	$(DOCKER_COMPOSE_RUN) bash -c "if [ -e /home/bullyguard/poetry.lock.build ]; then \
+        cp /home/bullyguard/poetry.lock.build ./poetry.lock; \
     else \
         poetry lock; \
     fi" 

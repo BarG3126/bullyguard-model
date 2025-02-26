@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "prod_project"
+name = "bullyguard"
 version = "0.1.0"
 description = ""
 authors = ["BarG3126 <bar3126@gmail.com>"]
 readme = "README.md"
 packages = [
-    { include = "prod_project" },
+    { include = "bullyguard" },
 ]
 
 [tool.poetry.dependencies]
@@ -37,7 +37,7 @@ ensure_newline_before_comments = true
 line_length = 120
 indent = 4
 lines_between_types = 1
-known_first_party = ["prod_project"]
+known_first_party = ["bullyguard"]
 default_section = "THIRDPARTY"
 sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FIRSTPARTY", "LOCALFOLDER"]
 
