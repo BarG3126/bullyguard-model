@@ -1,24 +1,53 @@
 
-services:
-  app:
-    user: "${USER_ID:-1000}"
-    hostname: "${HOST_NAME:-bullyguard}"
-    image: bullyguard-model
-    container_name: bullyguard-model-container
-    build:
-      context: .
-      dockerfile: ./docker/Dockerfile
-      args:
-        USER_NAME: "${USER_NAME:-bar3126}"
-        USER_ID: "${USER_ID:-1000}"
-    # env_file:
-    #  - .envs/.app
-    volumes:
-      - ./:/app/
-      - ~/.config/gcloud:${HOME}/.config/gcloud
-    ports:
-      - 8080:8080
+volumes:
+  postgresql-mlflow-data:
+  mlflow-artifact-store:
 
+x-app-template: &APP_TEMPLATE
+  user: "${USER_ID:-1000}"
+  hostname: "${HOST_NAME:-bullyguard}"
+  image: bullyguard-model
+  container_name: bullyguard-model-container
+  build:
+    context: .
+    dockerfile: ./docker/Dockerfile
+    args:
+      USER_NAME: "${USER_NAME:-bar3126}"
+      USER_ID: "${USER_ID:-1000}"
+  env_file:
+    - .envs/.postgres
+    - .envs/.mlflow-common
+    - .envs/.mlflow-dev
+  volumes:
+    - ./:/app/
+    - mlflow-artifact-store:/mlflow-artifact-store
+    - ~/.config/gcloud/:/home/${USER_NAME}/.config/gcloud
+  init: true
+  ipc: host
+
+
+
+services:
+  mlflow-db:
+    container_name: mlflow-backend-store
+    image: postgres:14
+    env_file:
+      - .envs/.mlflow-common
+      - .envs/.mlflow-dev
+      - .envs/.postgres
+    volumes:
+      - postgresql-mlflow-data:/var/lib/postgresql/data
+    ports:
+      - 5433:5432
+    profiles:
+      - dev
+
+  app-dev:
+    <<: *APP_TEMPLATE
+    container_name: bullyguard-model-dev-container
+    ports:
+      - ${LOCAL_DEV_MLFLOW_SERVER_PORT}:${LOCAL_DEV_MLFLOW_SERVER_PORT}
+      - 8080:8080
     deploy:
       resources:
         reservations:
@@ -26,7 +55,25 @@ services:
             - driver: nvidia
               count: all
               capabilities: [gpu]
+    profiles:
+      - dev
 
-    init: true
+  app-prod:
+    <<: *APP_TEMPLATE
+    container_name: bullyguard-model-prod-container
+    env_file:
+      - .envs/.mlflow-common
+      - .envs/.mlflow-prod
+    ports:
+      - ${PROD_MLFLOW_SERVER_PORT}:${PROD_MLFLOW_SERVER_PORT}
+    profiles:
+      - prod
 
-      
+  app-ci:
+    <<: *APP_TEMPLATE
+    container_name: bullyguard-model-ci-container
+    ports:
+      - ${LOCAL_DEV_MLFLOW_SERVER_PORT}:${LOCAL_DEV_MLFLOW_SERVER_PORT}
+    profiles:
+      - ci
+
