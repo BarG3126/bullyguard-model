@@ -1,0 +1,6 @@
+.
+
+!docker/
+!prod_project/
+!pyproject.toml
+!poetry.lock
