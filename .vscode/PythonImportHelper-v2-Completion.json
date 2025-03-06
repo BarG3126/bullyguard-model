@@ -1,17 +1,10 @@
 [
     {
-        "label": "dataclass",
+        "label": "dataclasses",
+        "kind": 6,
+        "isExtraImport": true,
         "importPath": "dataclasses",
         "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "field",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
         "detail": "dataclasses",
         "documentation": {}
     },
@@ -56,6 +49,30 @@
         "documentation": {}
     },
     {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
         "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
@@ -97,14 +114,6 @@
     },
     {
         "label": "field",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
         "isExtraImport": true,
@@ -360,14 +369,6 @@
         "documentation": {}
     },
     {
-        "label": "SI",
-        "importPath": "omegaconf",
-        "description": "omegaconf",
-        "isExtraImport": true,
-        "detail": "omegaconf",
-        "documentation": {}
-    },
-    {
         "label": "MISSING",
         "importPath": "omegaconf",
         "description": "omegaconf",
@@ -377,30 +378,6 @@
     },
     {
         "label": "SI",
-        "importPath": "omegaconf",
-        "description": "omegaconf",
-        "isExtraImport": true,
-        "detail": "omegaconf",
-        "documentation": {}
-    },
-    {
-        "label": "MISSING",
-        "importPath": "omegaconf",
-        "description": "omegaconf",
-        "isExtraImport": true,
-        "detail": "omegaconf",
-        "documentation": {}
-    },
-    {
-        "label": "MISSING",
-        "importPath": "omegaconf",
-        "description": "omegaconf",
-        "isExtraImport": true,
-        "detail": "omegaconf",
-        "documentation": {}
-    },
-    {
-        "label": "MISSING",
         "importPath": "omegaconf",
         "description": "omegaconf",
         "isExtraImport": true,
@@ -448,6 +425,14 @@
         "documentation": {}
     },
     {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
         "label": "SI",
         "importPath": "omegaconf",
         "description": "omegaconf",
@@ -457,6 +442,30 @@
     },
     {
         "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
         "importPath": "omegaconf",
         "description": "omegaconf",
         "isExtraImport": true,
@@ -473,6 +482,14 @@
     },
     {
         "label": "OmegaConf",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "DictConfig",
         "importPath": "omegaconf",
         "description": "omegaconf",
         "isExtraImport": true,
@@ -848,6 +865,22 @@
         "documentation": {}
     },
     {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Any",
         "importPath": "typing",
         "description": "typing",
@@ -864,7 +897,23 @@
         "documentation": {}
     },
     {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -888,19 +937,123 @@
         "documentation": {}
     },
     {
-        "label": "CustomHuggingFaceTokenizationTransformationConfig",
-        "importPath": "bullyguard.config_schemas.transformations_schemas",
-        "description": "bullyguard.config_schemas.transformations_schemas",
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
         "isExtraImport": true,
-        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoggableParamsMixin",
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "CustomHuggingFaceTokenizationTransformationConfig",
+        "importPath": "bullyguard.config_schemas.models.transformation_schemas",
+        "description": "bullyguard.config_schemas.models.transformation_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models.transformation_schemas",
         "documentation": {}
     },
     {
         "label": "TransformationConfig",
-        "importPath": "bullyguard.config_schemas.transformations_schemas",
-        "description": "bullyguard.config_schemas.transformations_schemas",
+        "importPath": "bullyguard.config_schemas.models.transformation_schemas",
+        "description": "bullyguard.config_schemas.models.transformation_schemas",
         "isExtraImport": true,
-        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "detail": "bullyguard.config_schemas.models.transformation_schemas",
         "documentation": {}
     },
     {
@@ -921,6 +1074,14 @@
     },
     {
         "label": "head_schemas",
+        "importPath": "bullyguard.config_schemas.models",
+        "description": "bullyguard.config_schemas.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models",
+        "documentation": {}
+    },
+    {
+        "label": "transformation_schemas",
         "importPath": "bullyguard.config_schemas.models",
         "description": "bullyguard.config_schemas.models",
         "isExtraImport": true,
@@ -1009,14 +1170,6 @@
     },
     {
         "label": "data_module_schemas",
-        "importPath": "bullyguard.config_schemas",
-        "description": "bullyguard.config_schemas",
-        "isExtraImport": true,
-        "detail": "bullyguard.config_schemas",
-        "documentation": {}
-    },
-    {
-        "label": "transformations_schemas",
         "importPath": "bullyguard.config_schemas",
         "description": "bullyguard.config_schemas",
         "isExtraImport": true,
@@ -1821,6 +1974,14 @@
         "documentation": {}
     },
     {
+        "label": "log_training_hparams",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
         "label": "_LRScheduler",
         "importPath": "torch.optim.lr_scheduler",
         "description": "torch.optim.lr_scheduler",
@@ -1966,7 +2127,7 @@
         "documentation": {}
     },
     {
-        "label": "get_config",
+        "label": "get_config_and_dict_config",
         "importPath": "bullyguard.utils.config_utils",
         "description": "bullyguard.utils.config_utils",
         "isExtraImport": true,
@@ -2072,7 +2233,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.adapter_schemas",
         "description": "bullyguard.config_schemas.models.adapter_schemas",
-        "peekOfCode": "class AdapterConfig:\n    _target_: str = MISSING\n@dataclass\nclass MLPWithPoolingConfig(AdapterConfig):\n    _target_: str = \"bullyguard.models.adapters.MLPWithPooling\"\n    output_feature_sizes: list[int] = MISSING\n    biases: Optional[list[bool]] = None\n    activation_fns: Optional[list[Optional[str]]] = None\n    dropout_drop_probs: Optional[list[float]] = None\n    batch_norms: Optional[list[bool]] = None",
+        "peekOfCode": "class AdapterConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass MLPWithPoolingConfig(AdapterConfig):\n    _target_: str = \"bullyguard.models.adapters.MLPWithPooling\"\n    output_feature_sizes: list[int] = MISSING\n    biases: Optional[list[bool]] = None\n    activation_fns: Optional[list[Optional[str]]] = None",
         "detail": "bullyguard.config_schemas.models.adapter_schemas",
         "documentation": {}
     },
@@ -2108,7 +2269,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.backbone_schemas",
         "description": "bullyguard.config_schemas.models.backbone_schemas",
-        "peekOfCode": "class BackboneConfig:\n    _target_: str = MISSING\n    transformation: TransformationConfig = MISSING\n@dataclass\nclass HuggingFaceBackboneConfig(BackboneConfig):\n    _target_: str = \"bullyguard.models.backbones.HuggingFaceBackbone\"\n    pretrained_model_name_or_path: str = MISSING\n    pretrained: bool = False\n@dataclass\nclass BertTinyHuggingFaceBackboneConfig(HuggingFaceBackboneConfig):",
+        "peekOfCode": "class BackboneConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    transformation: TransformationConfig = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass HuggingFaceBackboneConfig(BackboneConfig):\n    _target_: str = \"bullyguard.models.backbones.HuggingFaceBackbone\"\n    pretrained_model_name_or_path: str = MISSING\n    pretrained: bool = False",
         "detail": "bullyguard.config_schemas.models.backbone_schemas",
         "documentation": {}
     },
@@ -2117,7 +2278,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.backbone_schemas",
         "description": "bullyguard.config_schemas.models.backbone_schemas",
-        "peekOfCode": "class HuggingFaceBackboneConfig(BackboneConfig):\n    _target_: str = \"bullyguard.models.backbones.HuggingFaceBackbone\"\n    pretrained_model_name_or_path: str = MISSING\n    pretrained: bool = False\n@dataclass\nclass BertTinyHuggingFaceBackboneConfig(HuggingFaceBackboneConfig):\n    pretrained_model_name_or_path: str = \"prajjwal1/bert-tiny\"\n    transformation: TransformationConfig = CustomHuggingFaceTokenizationTransformationConfig()\ndef setup_config() -> None:\n    cs = ConfigStore.instance()",
+        "peekOfCode": "class HuggingFaceBackboneConfig(BackboneConfig):\n    _target_: str = \"bullyguard.models.backbones.HuggingFaceBackbone\"\n    pretrained_model_name_or_path: str = MISSING\n    pretrained: bool = False\n    def loggable_params(self) -> list[str]:\n        return super().loggable_params() + [\"pretrained_model_name_or_path\", \"pretrained\"]\n@dataclass\nclass BertTinyHuggingFaceBackboneConfig(HuggingFaceBackboneConfig):\n    pretrained_model_name_or_path: str = \"prajjwal1/bert-tiny\"\n    transformation: TransformationConfig = CustomHuggingFaceTokenizationTransformationConfig()",
         "detail": "bullyguard.config_schemas.models.backbone_schemas",
         "documentation": {}
     },
@@ -2144,7 +2305,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.head_schemas",
         "description": "bullyguard.config_schemas.models.head_schemas",
-        "peekOfCode": "class HeadConfig:\n    _target_: str = MISSING\n@dataclass\nclass SigmoidHeadConfig(HeadConfig):\n    _target_: str = \"bullyguard.models.heads.SigmoidHead\"\n    in_features: int = MISSING\n    out_features: int = MISSING\n@dataclass\nclass BinaryClassificationSigmoidHead(SigmoidHeadConfig):\n    in_features: int = 128",
+        "peekOfCode": "class HeadConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass SigmoidHeadConfig(HeadConfig):\n    _target_: str = \"bullyguard.models.heads.SigmoidHead\"\n    in_features: int = MISSING\n    out_features: int = MISSING\n@dataclass",
         "detail": "bullyguard.config_schemas.models.head_schemas",
         "documentation": {}
     },
@@ -2180,7 +2341,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.model_schemas",
         "description": "bullyguard.config_schemas.models.model_schemas",
-        "peekOfCode": "class ModelConfig:\n    _target_: str = MISSING\n@dataclass\nclass BinaryTextClassificationModelConfig(ModelConfig):\n    _target_: str = \"bullyguard.models.models.BinaryTextClassificationModel\"\n    backbone: backbone_schemas.BackboneConfig = MISSING\n    adapter: Optional[adapter_schemas.AdapterConfig] = None\n    head: head_schemas.HeadConfig = MISSING\n@dataclass\nclass BertTinyBinaryTextClassificationModelConfig(BinaryTextClassificationModelConfig):",
+        "peekOfCode": "class ModelConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass BinaryTextClassificationModelConfig(ModelConfig):\n    _target_: str = \"bullyguard.models.models.BinaryTextClassificationModel\"\n    backbone: backbone_schemas.BackboneConfig = MISSING\n    adapter: Optional[adapter_schemas.AdapterConfig] = None\n    head: head_schemas.HeadConfig = MISSING",
         "detail": "bullyguard.config_schemas.models.model_schemas",
         "documentation": {}
     },
@@ -2209,6 +2370,42 @@
         "description": "bullyguard.config_schemas.models.model_schemas",
         "peekOfCode": "def setup_config() -> None:\n    backbone_schemas.setup_config()\n    adapter_schemas.setup_config()\n    head_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"binary_text_classification_model_schema\",\n        group=\"tasks/lightning_module/model\",\n        node=BinaryTextClassificationModelConfig,\n    )",
         "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TransformationConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.transformation_schemas",
+        "description": "bullyguard.config_schemas.models.transformation_schemas",
+        "peekOfCode": "class TransformationConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n    def loggable_params(self) -> list[str]:",
+        "detail": "bullyguard.config_schemas.models.transformation_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceTokenizationTransformationConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.transformation_schemas",
+        "description": "bullyguard.config_schemas.models.transformation_schemas",
+        "peekOfCode": "class HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n    def loggable_params(self) -> list[str]:\n        return super().loggable_params() + [\"pretrained_tokenizer_name_or_path\", \"max_sequence_length\"]\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200",
+        "detail": "bullyguard.config_schemas.models.transformation_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CustomHuggingFaceTokenizationTransformationConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.transformation_schemas",
+        "description": "bullyguard.config_schemas.models.transformation_schemas",
+        "peekOfCode": "class CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module/transformation\",\n        node=HuggingFaceTokenizationTransformationConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.transformation_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.models.transformation_schemas",
+        "description": "bullyguard.config_schemas.models.transformation_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module/transformation\",\n        node=HuggingFaceTokenizationTransformationConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.transformation_schemas",
         "documentation": {}
     },
     {
@@ -2306,7 +2503,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.trainer.trainer_schemas",
         "description": "bullyguard.config_schemas.trainer.trainer_schemas",
-        "peekOfCode": "class TrainerConfig:\n    _target_: str = \"lightning.pytorch.trainer.trainer.Trainer\"\n    accelerator: str = \"auto\"\n    strategy: str = \"ddp_find_unused_parameters_true\"\n    devices: str = \"auto\"\n    num_nodes: int = 1  # SI(\"${}\")\n    precision: str = \"16-mixed\"\n    logger: Optional[list[logger_schemas.LoggerConfig]] = field(default_factory=lambda: [])  # type: ignore\n    callbacks: Optional[list[callbacks_schemas.CallbackConfig]] = field(default_factory=lambda: [])  # type: ignore\n    fast_dev_run: bool = False",
+        "peekOfCode": "class TrainerConfig(LoggableParamsMixin):\n    _target_: str = \"lightning.pytorch.trainer.trainer.Trainer\"\n    accelerator: str = \"auto\"\n    strategy: str = \"ddp_find_unused_parameters_true\"\n    devices: str = \"auto\"\n    num_nodes: int = 1  # SI(\"${}\")\n    precision: str = \"16-mixed\"\n    logger: Optional[list[logger_schemas.LoggerConfig]] = field(default_factory=lambda: [])  # type: ignore\n    callbacks: Optional[list[callbacks_schemas.CallbackConfig]] = field(default_factory=lambda: [])  # type: ignore\n    fast_dev_run: bool = False",
         "detail": "bullyguard.config_schemas.trainer.trainer_schemas",
         "documentation": {}
     },
@@ -2333,7 +2530,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.loss_schemas",
         "description": "bullyguard.config_schemas.training.loss_schemas",
-        "peekOfCode": "class LossFunctionConfig:\n    _target_: str = MISSING\n@dataclass\nclass BCEWithLogitsLossConfig(LossFunctionConfig):\n    _target_: str = \"bullyguard.training.loss_functions.BCEWithLogitsLoss\"\n    reduction: str = \"mean\"\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"bce_with_logits_loss_schema\",",
+        "peekOfCode": "class LossFunctionConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass BCEWithLogitsLossConfig(LossFunctionConfig):\n    _target_: str = \"bullyguard.training.loss_functions.BCEWithLogitsLoss\"\n    reduction: str = \"mean\"\ndef setup_config() -> None:\n    cs = ConfigStore.instance()",
         "detail": "bullyguard.config_schemas.training.loss_schemas",
         "documentation": {}
     },
@@ -2360,7 +2557,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.optimizer_schemas",
         "description": "bullyguard.config_schemas.training.optimizer_schemas",
-        "peekOfCode": "class OptimizerConfig:\n    _target_: str = MISSING\n    _partial_: bool = True\n    lr: float = MISSING\n@dataclass\nclass AdamOptimizerConfig(OptimizerConfig):\n    _target_: str = \"torch.optim.Adam\"\n    lr: float = 5e-3\n    betas: tuple[float, float] = (0.9, 0.999)\n    eps: float = 1e-8",
+        "peekOfCode": "class OptimizerConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    _partial_: bool = True\n    lr: float = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\", \"lr\"]\n@dataclass\nclass AdamOptimizerConfig(OptimizerConfig):\n    _target_: str = \"torch.optim.Adam\"\n    lr: float = 5e-3",
         "detail": "bullyguard.config_schemas.training.optimizer_schemas",
         "documentation": {}
     },
@@ -2396,7 +2593,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
         "description": "bullyguard.config_schemas.training.scheduler_schemas",
-        "peekOfCode": "class SchedulerConfig:\n    _target_: str = MISSING\n    _partial_: bool = True\n@dataclass\nclass ReduceLROnPlateauSchedulerConfig(SchedulerConfig):\n    _target_: str = \"torch.optim.lr_scheduler.ReduceLROnPlateau\"\n    mode: str = \"max\"\n    factor: float = 0.1\n    patience: int = 10\n    threshold: float = 1e-4",
+        "peekOfCode": "class SchedulerConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    _partial_: bool = True\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass ReduceLROnPlateauSchedulerConfig(SchedulerConfig):\n    _target_: str = \"torch.optim.lr_scheduler.ReduceLROnPlateau\"\n    mode: str = \"max\"\n    factor: float = 0.1",
         "detail": "bullyguard.config_schemas.training.scheduler_schemas",
         "documentation": {}
     },
@@ -2450,7 +2647,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.training_lightning_module_schemas",
         "description": "bullyguard.config_schemas.training.training_lightning_module_schemas",
-        "peekOfCode": "class TrainingLightningModuleConfig(LightningModuleConfig):\n    _target_: str = MISSING\n    model: ModelConfig = MISSING\n    loss: loss_schemas.LossFunctionConfig = MISSING\n    optimizer: optimizer_schemas.OptimizerConfig = MISSING\n    scheduler: Optional[scheduler_schemas.LightningSchedulerConfig] = None\n@dataclass\nclass BinaryTextClassificationTrainingLightningModuleConfig(TrainingLightningModuleConfig):\n    _target_: str = \"bullyguard.training.lightning_modules.binary_text_classification.BinaryTextClassificationTrainingLightningModule\"\n@dataclass",
+        "peekOfCode": "class TrainingLightningModuleConfig(LightningModuleConfig, LoggableParamsMixin):\n    _target_: str = MISSING\n    model: ModelConfig = MISSING\n    loss: loss_schemas.LossFunctionConfig = MISSING\n    optimizer: optimizer_schemas.OptimizerConfig = MISSING\n    scheduler: Optional[scheduler_schemas.LightningSchedulerConfig] = None\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass BinaryTextClassificationTrainingLightningModuleConfig(TrainingLightningModuleConfig):",
         "detail": "bullyguard.config_schemas.training.training_lightning_module_schemas",
         "documentation": {}
     },
@@ -2522,7 +2719,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.base_schemas",
         "description": "bullyguard.config_schemas.base_schemas",
-        "peekOfCode": "class LightningModuleConfig:\n    _target_: str = MISSING\n@dataclass\nclass TaskConfig:\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING",
+        "peekOfCode": "class LightningModuleConfig:\n    _target_: str = MISSING\n@dataclass\nclass TaskConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING\n    def loggable_params(self) -> list[str]:",
         "detail": "bullyguard.config_schemas.base_schemas",
         "documentation": {}
     },
@@ -2531,7 +2728,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.base_schemas",
         "description": "bullyguard.config_schemas.base_schemas",
-        "peekOfCode": "class TaskConfig:\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING",
+        "peekOfCode": "class TaskConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]",
         "detail": "bullyguard.config_schemas.base_schemas",
         "documentation": {}
     },
@@ -2558,7 +2755,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.data_module_schemas",
         "description": "bullyguard.config_schemas.data_module_schemas",
-        "peekOfCode": "class DataModuleConfig:\n    _target_: str = MISSING\n    batch_size: int = MISSING\n    shuffle: bool = False\n    num_workers: int = 8\n    pin_memory: bool = True\n    drop_last: bool = True\n    persistent_workers: bool = False\n@dataclass\nclass TextClassificationDataModuleConfig(DataModuleConfig):",
+        "peekOfCode": "class DataModuleConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    batch_size: int = MISSING\n    shuffle: bool = False\n    num_workers: int = 8\n    pin_memory: bool = True\n    drop_last: bool = True\n    persistent_workers: bool = False\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\", \"batch_size\"]",
         "detail": "bullyguard.config_schemas.data_module_schemas",
         "documentation": {}
     },
@@ -2567,7 +2764,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.data_module_schemas",
         "description": "bullyguard.config_schemas.data_module_schemas",
-        "peekOfCode": "class TextClassificationDataModuleConfig(DataModuleConfig):\n    _target_: str = \"bullyguard.data_modules.data_modules.TextClassificationDataModule\"\n    train_df_path: str = MISSING\n    dev_df_path: str = MISSING\n    test_df_path: str = MISSING\n    transformation: transformations_schemas.TransformationConfig = MISSING\n    text_column_name: str = \"cleaned_text\"\n    label_column_name: str = \"label\"\n@dataclass\nclass ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModuleConfig):",
+        "peekOfCode": "class TextClassificationDataModuleConfig(DataModuleConfig):\n    _target_: str = \"bullyguard.data_modules.data_modules.TextClassificationDataModule\"\n    train_df_path: str = MISSING\n    dev_df_path: str = MISSING\n    test_df_path: str = MISSING\n    transformation: transformation_schemas.TransformationConfig = MISSING\n    text_column_name: str = \"cleaned_text\"\n    label_column_name: str = \"label\"\n@dataclass\nclass ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModuleConfig):",
         "detail": "bullyguard.config_schemas.data_module_schemas",
         "documentation": {}
     },
@@ -2576,7 +2773,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.data_module_schemas",
         "description": "bullyguard.config_schemas.data_module_schemas",
-        "peekOfCode": "class ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModuleConfig):\n    batch_size: int = 64\n    train_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/train.parquet\"\n    dev_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/dev.parquet\"\n    test_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/test.parquet\"\n    transformation: transformations_schemas.TransformationConfig = SI(\n        \"${..lightning_module.model.backbone.transformation}\"\n    )\ndef setup_config() -> None:\n    transformations_schemas.setup_config()",
+        "peekOfCode": "class ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModuleConfig):\n    batch_size: int = 64\n    train_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/train.parquet\"\n    dev_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/dev.parquet\"\n    test_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/test.parquet\"\n    transformation: transformation_schemas.TransformationConfig = SI(\n        \"${..lightning_module.model.backbone.transformation}\"\n    )\ndef setup_config() -> None:\n    transformation_schemas.setup_config()",
         "detail": "bullyguard.config_schemas.data_module_schemas",
         "documentation": {}
     },
@@ -2585,44 +2782,8 @@
         "kind": 2,
         "importPath": "bullyguard.config_schemas.data_module_schemas",
         "description": "bullyguard.config_schemas.data_module_schemas",
-        "peekOfCode": "def setup_config() -> None:\n    transformations_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module\",\n        node=TextClassificationDataModuleConfig,\n    )",
+        "peekOfCode": "def setup_config() -> None:\n    transformation_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module\",\n        node=TextClassificationDataModuleConfig,\n    )",
         "detail": "bullyguard.config_schemas.data_module_schemas",
-        "documentation": {}
-    },
-    {
-        "label": "TransformationConfig",
-        "kind": 6,
-        "importPath": "bullyguard.config_schemas.transformations_schemas",
-        "description": "bullyguard.config_schemas.transformations_schemas",
-        "peekOfCode": "class TransformationConfig:\n    _target_: str = MISSING\n@dataclass\nclass HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"",
-        "detail": "bullyguard.config_schemas.transformations_schemas",
-        "documentation": {}
-    },
-    {
-        "label": "HuggingFaceTokenizationTransformationConfig",
-        "kind": 6,
-        "importPath": "bullyguard.config_schemas.transformations_schemas",
-        "description": "bullyguard.config_schemas.transformations_schemas",
-        "peekOfCode": "class HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200\ndef setup_config() -> None:\n    cs = ConfigStore.instance()",
-        "detail": "bullyguard.config_schemas.transformations_schemas",
-        "documentation": {}
-    },
-    {
-        "label": "CustomHuggingFaceTokenizationTransformationConfig",
-        "kind": 6,
-        "importPath": "bullyguard.config_schemas.transformations_schemas",
-        "description": "bullyguard.config_schemas.transformations_schemas",
-        "peekOfCode": "class CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module/transformation\",\n        node=HuggingFaceTokenizationTransformationConfig,\n    )",
-        "detail": "bullyguard.config_schemas.transformations_schemas",
-        "documentation": {}
-    },
-    {
-        "label": "setup_config",
-        "kind": 2,
-        "importPath": "bullyguard.config_schemas.transformations_schemas",
-        "description": "bullyguard.config_schemas.transformations_schemas",
-        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module/transformation\",\n        node=HuggingFaceTokenizationTransformationConfig,\n    )",
-        "detail": "bullyguard.config_schemas.transformations_schemas",
         "documentation": {}
     },
     {
@@ -2905,11 +3066,20 @@
         "documentation": {}
     },
     {
+        "label": "get_config_and_dict_config",
+        "kind": 2,
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "peekOfCode": "def get_config_and_dict_config(config_path: str, config_name: str) -> Any:\n    setup_config()\n    setup_logger()\n    def main_decorator(task_function: Any) -> Any:\n        @hydra.main(config_path=config_path, config_name=config_name, version_base=None)\n        def decorated_main(dict_config: Optional[DictConfig] = None) -> Any:\n            config = OmegaConf.to_object(dict_config)\n            return task_function(config, dict_config)\n        return decorated_main\n    return main_decorator",
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
         "label": "setup_config",
         "kind": 2,
         "importPath": "bullyguard.utils.config_utils",
         "description": "bullyguard.utils.config_utils",
-        "peekOfCode": "def setup_config() -> None:\n    config_schema.setup_config()\ndef setup_logger() -> None:\n    with open(\"./bullyguard/configs/hydra/job_logging/custom.yaml\", \"r\") as stream:\n        config = yaml.load(stream, Loader=yaml.FullLoader)\n    logging.config.dictConfig(config)\ndef save_config_as_yaml(config: \"Config\", save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [",
+        "peekOfCode": "def setup_config() -> None:\n    config_schema.setup_config()\ndef setup_logger() -> None:\n    with open(\"./bullyguard/configs/hydra/job_logging/custom.yaml\", \"r\") as stream:\n        config = yaml.load(stream, Loader=yaml.FullLoader)\n    logging.config.dictConfig(config)\ndef save_config_as_yaml(config: Union[\"Config\", DictConfig], save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [",
         "detail": "bullyguard.utils.config_utils",
         "documentation": {}
     },
@@ -2918,7 +3088,7 @@
         "kind": 2,
         "importPath": "bullyguard.utils.config_utils",
         "description": "bullyguard.utils.config_utils",
-        "peekOfCode": "def setup_logger() -> None:\n    with open(\"./bullyguard/configs/hydra/job_logging/custom.yaml\", \"r\") as stream:\n        config = yaml.load(stream, Loader=yaml.FullLoader)\n    logging.config.dictConfig(config)\ndef save_config_as_yaml(config: \"Config\", save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [\n            f\"# Do not edit this file. It is automatically generated by {sys.argv[0]}.\\n\",\n            \"# If you want to modify configuration, edit source files in cybulde/configs directory.\\n\",",
+        "peekOfCode": "def setup_logger() -> None:\n    with open(\"./bullyguard/configs/hydra/job_logging/custom.yaml\", \"r\") as stream:\n        config = yaml.load(stream, Loader=yaml.FullLoader)\n    logging.config.dictConfig(config)\ndef save_config_as_yaml(config: Union[\"Config\", DictConfig], save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [\n            f\"# Do not edit this file. It is automatically generated by {sys.argv[0]}.\\n\",\n            \"# If you want to modify configuration, edit source files in cybulde/configs directory.\\n\",",
         "detail": "bullyguard.utils.config_utils",
         "documentation": {}
     },
@@ -2927,7 +3097,7 @@
         "kind": 2,
         "importPath": "bullyguard.utils.config_utils",
         "description": "bullyguard.utils.config_utils",
-        "peekOfCode": "def save_config_as_yaml(config: \"Config\", save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [\n            f\"# Do not edit this file. It is automatically generated by {sys.argv[0]}.\\n\",\n            \"# If you want to modify configuration, edit source files in cybulde/configs directory.\\n\",\n            \"\\n\",\n        ]\n    )\n    config_header = load_config_header()",
+        "peekOfCode": "def save_config_as_yaml(config: Union[\"Config\", DictConfig], save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [\n            f\"# Do not edit this file. It is automatically generated by {sys.argv[0]}.\\n\",\n            \"# If you want to modify configuration, edit source files in cybulde/configs directory.\\n\",\n            \"\\n\",\n        ]\n    )\n    config_header = load_config_header()",
         "detail": "bullyguard.utils.config_utils",
         "documentation": {}
     },
@@ -3058,6 +3228,15 @@
         "documentation": {}
     },
     {
+        "label": "LoggableParamsMixin",
+        "kind": 6,
+        "importPath": "bullyguard.utils.mixins",
+        "description": "bullyguard.utils.mixins",
+        "peekOfCode": "class LoggableParamsMixin:\n    def loggable_params(self) -> list[str]:\n        return []",
+        "detail": "bullyguard.utils.mixins",
+        "documentation": {}
+    },
+    {
         "label": "activate_mlflow",
         "kind": 2,
         "importPath": "bullyguard.utils.mlflow_utils",
@@ -3080,7 +3259,16 @@
         "kind": 2,
         "importPath": "bullyguard.utils.mlflow_utils",
         "description": "bullyguard.utils.mlflow_utils",
-        "peekOfCode": "def log_artifacts_for_reproducibility() -> None:\n    locations_to_store = [\"./bullyguard\", \"./docker\", \"./pyproject.toml\", \"./poetry.lock\"]\n    for location_to_store in locations_to_store:\n        mlflow.log_artifact(location_to_store, \"reproduction\")",
+        "peekOfCode": "def log_artifacts_for_reproducibility() -> None:\n    locations_to_store = [\"./bullyguard\", \"./docker\", \"./pyproject.toml\", \"./poetry.lock\"]\n    for location_to_store in locations_to_store:\n        mlflow.log_artifact(location_to_store, \"reproduction\")\ndef log_training_hparams(config: \"Config\") -> None:\n    logged_nodes = set()\n    def loggable_params(node: Any, path: list[str]) -> Generator[tuple[str, Any], None, None]:\n        if isinstance(node, LoggableParamsMixin) and id(node) not in logged_nodes:\n            for param_name in node.loggable_params():\n                yield \".\".join(path + [param_name]), getattr(node, param_name)",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_training_hparams",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def log_training_hparams(config: \"Config\") -> None:\n    logged_nodes = set()\n    def loggable_params(node: Any, path: list[str]) -> Generator[tuple[str, Any], None, None]:\n        if isinstance(node, LoggableParamsMixin) and id(node) not in logged_nodes:\n            for param_name in node.loggable_params():\n                yield \".\".join(path + [param_name]), getattr(node, param_name)\n            logged_nodes.add(id(node))\n        children = None\n        if isinstance(node, dict):\n            children = node.items()",
         "detail": "bullyguard.utils.mlflow_utils",
         "documentation": {}
     },
@@ -3089,7 +3277,7 @@
         "kind": 5,
         "importPath": "bullyguard.utils.mlflow_utils",
         "description": "bullyguard.utils.mlflow_utils",
-        "peekOfCode": "MLFLOW_TRACKING_URI = os.getenv(\"MLFLOW_TRACKING_URI\")\n@contextmanager  # type: ignore\ndef activate_mlflow(\n    experiment_name: Optional[str] = None,\n    run_id: Optional[str] = None,\n    run_name: Optional[str] = None,\n) -> Iterable[mlflow.ActiveRun]:\n    set_experiment(experiment_name)\n    with mlflow.start_run(run_name=run_name, run_id=run_id) as run:\n        yield run",
+        "peekOfCode": "MLFLOW_TRACKING_URI = os.getenv(\"MLFLOW_TRACKING_URI\")\nif TYPE_CHECKING:\n    from bullyguard.config_schemas.config_schema import Config\n@contextmanager  # type: ignore\ndef activate_mlflow(\n    experiment_name: Optional[str] = None,\n    run_id: Optional[str] = None,\n    run_name: Optional[str] = None,\n) -> Iterable[mlflow.ActiveRun]:\n    set_experiment(experiment_name)",
         "detail": "bullyguard.utils.mlflow_utils",
         "documentation": {}
     },
@@ -3125,7 +3313,7 @@
         "kind": 2,
         "importPath": "bullyguard.generate_final_config",
         "description": "bullyguard.generate_final_config",
-        "peekOfCode": "def generate_final_config(config: \"Config\") -> None:\n    with activate_mlflow(\n        config.infrastructure.mlflow.experiment_name,\n        run_id=config.infrastructure.mlflow.run_id,\n        run_name=config.infrastructure.mlflow.run_name,\n    ) as run:\n        run_id: str = run.info.run_id\n        experiment_id: str = run.info.experiment_id\n        artifact_uri: str = run.info.artifact_uri\n        config.infrastructure.mlflow.artifact_uri = artifact_uri",
+        "peekOfCode": "def generate_final_config(config: \"Config\", dict_config: DictConfig) -> None:\n    with activate_mlflow(\n        config.infrastructure.mlflow.experiment_name,\n        run_id=config.infrastructure.mlflow.run_id,\n        run_name=config.infrastructure.mlflow.run_name,\n    ) as run:\n        run_id: str = run.info.run_id\n        experiment_id: str = run.info.experiment_id\n        artifact_uri: str = run.info.artifact_uri\n        dict_config.infrastructure.mlflow.artifact_uri = artifact_uri",
         "detail": "bullyguard.generate_final_config",
         "documentation": {}
     },

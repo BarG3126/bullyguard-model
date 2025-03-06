@@ -3,16 +3,20 @@ from dataclasses import dataclass
 from hydra.core.config_store import ConfigStore
 from omegaconf import MISSING
 
-from bullyguard.config_schemas.transformations_schemas import (
+from bullyguard.config_schemas.models.transformation_schemas import (
     CustomHuggingFaceTokenizationTransformationConfig,
     TransformationConfig,
 )
+from bullyguard.utils.mixins import LoggableParamsMixin
 
 
 @dataclass
-class BackboneConfig:
+class BackboneConfig(LoggableParamsMixin):
     _target_: str = MISSING
     transformation: TransformationConfig = MISSING
+
+    def loggable_params(self) -> list[str]:
+        return ["_target_"]
 
 
 @dataclass
@@ -20,6 +24,9 @@ class HuggingFaceBackboneConfig(BackboneConfig):
     _target_: str = "bullyguard.models.backbones.HuggingFaceBackbone"
     pretrained_model_name_or_path: str = MISSING
     pretrained: bool = False
+
+    def loggable_params(self) -> list[str]:
+        return super().loggable_params() + ["pretrained_model_name_or_path", "pretrained"]
 
 
 @dataclass

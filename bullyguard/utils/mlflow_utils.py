@@ -1,11 +1,17 @@
+import dataclasses
 import os
 
 from contextlib import contextmanager
-from typing import Iterable, Optional
+from typing import Any, Iterable, Generator, Optional, TYPE_CHECKING
 
 import mlflow
 
+from bullyguard.utils.mixins import LoggableParamsMixin
+
 MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI")
+
+if TYPE_CHECKING:
+    from bullyguard.config_schemas.config_schema import Config
 
 
 @contextmanager  # type: ignore
@@ -37,3 +43,27 @@ def log_artifacts_for_reproducibility() -> None:
 
     for location_to_store in locations_to_store:
         mlflow.log_artifact(location_to_store, "reproduction")
+
+
+def log_training_hparams(config: "Config") -> None:
+    logged_nodes = set()
+
+    def loggable_params(node: Any, path: list[str]) -> Generator[tuple[str, Any], None, None]:
+        if isinstance(node, LoggableParamsMixin) and id(node) not in logged_nodes:
+            for param_name in node.loggable_params():
+                yield ".".join(path + [param_name]), getattr(node, param_name)
+            logged_nodes.add(id(node))
+        children = None
+        if isinstance(node, dict):
+            children = node.items()
+        if dataclasses.is_dataclass(node):
+            children = ((f.name, getattr(node, f.name)) for f in dataclasses.fields(node))  # type: ignore
+
+        if children is None:
+            return
+        for key, val in children:
+            for item in loggable_params(val, path + [key]):
+                yield item
+
+    params = dict(loggable_params(config, []))
+    mlflow.log_params(params)

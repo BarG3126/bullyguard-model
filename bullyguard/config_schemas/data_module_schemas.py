@@ -3,11 +3,12 @@ from dataclasses import dataclass
 from hydra.core.config_store import ConfigStore
 from omegaconf import MISSING, SI
 
-from bullyguard.config_schemas import transformations_schemas
+from bullyguard.config_schemas.models import transformation_schemas
+from bullyguard.utils.mixins import LoggableParamsMixin
 
 
 @dataclass
-class DataModuleConfig:
+class DataModuleConfig(LoggableParamsMixin):
     _target_: str = MISSING
     batch_size: int = MISSING
     shuffle: bool = False
@@ -16,6 +17,9 @@ class DataModuleConfig:
     drop_last: bool = True
     persistent_workers: bool = False
 
+    def loggable_params(self) -> list[str]:
+        return ["_target_", "batch_size"]
+
 
 @dataclass
 class TextClassificationDataModuleConfig(DataModuleConfig):
@@ -23,7 +27,7 @@ class TextClassificationDataModuleConfig(DataModuleConfig):
     train_df_path: str = MISSING
     dev_df_path: str = MISSING
     test_df_path: str = MISSING
-    transformation: transformations_schemas.TransformationConfig = MISSING
+    transformation: transformation_schemas.TransformationConfig = MISSING
     text_column_name: str = "cleaned_text"
     label_column_name: str = "label"
 
@@ -34,13 +38,13 @@ class ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModul
     train_df_path: str = "gs://bullyguard/data/processed/rebalanced_splits/train.parquet"
     dev_df_path: str = "gs://bullyguard/data/processed/rebalanced_splits/dev.parquet"
     test_df_path: str = "gs://bullyguard/data/processed/rebalanced_splits/test.parquet"
-    transformation: transformations_schemas.TransformationConfig = SI(
+    transformation: transformation_schemas.TransformationConfig = SI(
         "${..lightning_module.model.backbone.transformation}"
     )
 
 
 def setup_config() -> None:
-    transformations_schemas.setup_config()
+    transformation_schemas.setup_config()
 
     cs = ConfigStore.instance()
     cs.store(

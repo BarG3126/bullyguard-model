@@ -5,11 +5,15 @@ from hydra.core.config_store import ConfigStore
 from omegaconf import MISSING
 
 from bullyguard.config_schemas.models import adapter_schemas, backbone_schemas, head_schemas
+from bullyguard.utils.mixins import LoggableParamsMixin
 
 
 @dataclass
-class ModelConfig:
+class ModelConfig(LoggableParamsMixin):
     _target_: str = MISSING
+
+    def loggable_params(self) -> list[str]:
+        return ["_target_"]
 
 
 @dataclass

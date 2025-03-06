@@ -21,10 +21,10 @@ infrastructure:
     mlflow_internal_tracking_uri: http://127.0.0.1:6101
     experiment_name: Default
     run_name: null
-    run_id: 50ac646f3e9a424b9584b43a11e02f96
+    run_id: 3951f7f750514180a3bc458228592859
     experiment_id: '0'
-    experiment_url: http://127.0.0.1:6101/#/experiments/0/runs/50ac646f3e9a424b9584b43a11e02f96
-    artifact_uri: /mlflow-artifact-store/0/50ac646f3e9a424b9584b43a11e02f96/artifacts
+    experiment_url: http://127.0.0.1:6101/#/experiments/0/runs/3951f7f750514180a3bc458228592859
+    artifact_uri: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts
 save_last_checkpoint_every_n_train_steps: 500
 seed: 1234
 tasks:
@@ -127,10 +127,10 @@ tasks:
         save_dir: null
         prefix: ''
         artifact_location: null
-        run_id: 50ac646f3e9a424b9584b43a11e02f96
+        run_id: 3951f7f750514180a3bc458228592859
       callbacks:
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/50ac646f3e9a424b9584b43a11e02f96/artifacts/best-checkpoints/
+        dirpath: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/best-checkpoints/
         filename: null
         monitor: validation_f1_score
         verbose: false
@@ -144,7 +144,7 @@ tasks:
         every_n_epochs: null
         save_on_train_epoch_end: null
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/50ac646f3e9a424b9584b43a11e02f96/artifacts/last-checkpoints/
+        dirpath: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/last-checkpoints/
         filename: checkpoint-{epoch}
         monitor: null
         verbose: false
@@ -189,5 +189,5 @@ tasks:
       sync_batchnorm: true
       reload_dataloaders_every_n_epochs: 0
       default_root_dir: ./data/pytorch-lightning
-    best_training_checkpoint: /mlflow-artifact-store/0/50ac646f3e9a424b9584b43a11e02f96/artifacts/best-checkpoints/best.ckpt
-    last_training_checkpoint: /mlflow-artifact-store/0/50ac646f3e9a424b9584b43a11e02f96/artifacts/last-checkpoints/last.ckpt
+    best_training_checkpoint: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/best-checkpoints/best.ckpt
+    last_training_checkpoint: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/last-checkpoints/last.ckpt

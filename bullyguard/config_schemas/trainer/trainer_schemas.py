@@ -4,10 +4,11 @@ from typing import Optional
 from hydra.core.config_store import ConfigStore
 
 from bullyguard.config_schemas.trainer import callbacks_schemas, logger_schemas
+from bullyguard.utils.mixins import LoggableParamsMixin
 
 
 @dataclass
-class TrainerConfig:
+class TrainerConfig(LoggableParamsMixin):
     _target_: str = "lightning.pytorch.trainer.trainer.Trainer"
     accelerator: str = "auto"
     strategy: str = "ddp_find_unused_parameters_true"
@@ -46,6 +47,9 @@ class TrainerConfig:
     sync_batchnorm: bool = True
     reload_dataloaders_every_n_epochs: int = 0
     default_root_dir: Optional[str] = "./data/pytorch-lightning"
+
+    def loggable_params(self) -> list[str]:
+        return ["max_epochs", "max_steps", "strategy", "precision"]
 
 
 @dataclass

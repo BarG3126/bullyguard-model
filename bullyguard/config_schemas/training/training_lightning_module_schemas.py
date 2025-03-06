@@ -7,15 +7,19 @@ from omegaconf import MISSING
 from bullyguard.config_schemas.base_schemas import LightningModuleConfig
 from bullyguard.config_schemas.models.model_schemas import BertTinyBinaryTextClassificationModelConfig, ModelConfig
 from bullyguard.config_schemas.training import loss_schemas, optimizer_schemas, scheduler_schemas
+from bullyguard.utils.mixins import LoggableParamsMixin
 
 
 @dataclass
-class TrainingLightningModuleConfig(LightningModuleConfig):
+class TrainingLightningModuleConfig(LightningModuleConfig, LoggableParamsMixin):
     _target_: str = MISSING
     model: ModelConfig = MISSING
     loss: loss_schemas.LossFunctionConfig = MISSING
     optimizer: optimizer_schemas.OptimizerConfig = MISSING
     scheduler: Optional[scheduler_schemas.LightningSchedulerConfig] = None
+
+    def loggable_params(self) -> list[str]:
+        return ["_target_"]
 
 
 @dataclass
