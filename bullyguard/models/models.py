@@ -1,15 +1,19 @@
+from abc import abstractmethod
 from typing import Optional
 
 from torch import Tensor, nn
 from transformers import BatchEncoding
 
+from bullyguard.data_modules.transformations import Transformation
 from bullyguard.models.adapters import Adapter
 from bullyguard.models.backbones import Backbone
 from bullyguard.models.heads import Head
 
 
 class Model(nn.Module):
-    pass
+    @abstractmethod
+    def get_transformation(self) -> Transformation:
+        ...
 
 
 class BinaryTextClassificationModel(Model):
@@ -26,3 +30,6 @@ class BinaryTextClassificationModel(Model):
         output = self.head(output)
         assert isinstance(output, Tensor)
         return output
+
+    def get_transformation(self) -> Transformation:
+        return self.backbone.get_transformation()

@@ -16,6 +16,12 @@ class HuggingFaceTokenizationTransformationConfig(TransformationConfig):
     max_sequence_length: int = MISSING
 
 
+@dataclass
+class CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):
+    pretrained_tokenizer_name_or_path: str = "gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer"
+    max_sequence_length: int = 200
+
+
 def setup_config() -> None:
     cs = ConfigStore.instance()
     cs.store(

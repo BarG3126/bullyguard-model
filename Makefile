@@ -52,8 +52,8 @@ local-generate-final-config: up
 	@$(DOCKER_COMPOSE_EXEC) python bullyguard/generate_final_config.py ${OVERRIDES}
 
 ## Run tasks:
-local-run-tasks: up
-	$(DOCKER_COMPOSE_EXEC) python bullyguard/run_tasks.py
+local-run-tasks: local-generate-final-config
+	$(DOCKER_COMPOSE_EXEC) torchrun bullyguard/run_tasks.py
 
 ## starts jupyter notebook
 notebook: up

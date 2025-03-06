@@ -20,6 +20,13 @@ class BinaryTextClassificationModelConfig(ModelConfig):
     head: head_schemas.HeadConfig = MISSING
 
 
+@dataclass
+class BertTinyBinaryTextClassificationModelConfig(BinaryTextClassificationModelConfig):
+    backbone: backbone_schemas.BackboneConfig = backbone_schemas.BertTinyHuggingFaceBackboneConfig()
+    adapter: Optional[adapter_schemas.AdapterConfig] = adapter_schemas.PoolerOutputAdapterConfig()
+    head: head_schemas.HeadConfig = head_schemas.BinaryClassificationSigmoidHead()
+
+
 def setup_config() -> None:
     backbone_schemas.setup_config()
     adapter_schemas.setup_config()
@@ -30,4 +37,9 @@ def setup_config() -> None:
         name="binary_text_classification_model_schema",
         group="tasks/lightning_module/model",
         node=BinaryTextClassificationModelConfig,
+    )
+
+    cs.store(
+        name="test_model_config",
+        node=BertTinyBinaryTextClassificationModelConfig,
     )

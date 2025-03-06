@@ -1,0 +1,3150 @@
+[
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "OmegaConf",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "DictConfig",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "OmegaConf",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "DictConfig",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "OmegaConf",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "TaskConfig",
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.base_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LightningModuleConfig",
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.base_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TaskConfig",
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.base_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TaskConfig",
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.base_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "bullyguard.config_schemas.config_schema",
+        "description": "bullyguard.config_schemas.config_schema",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.config_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "bullyguard.config_schemas.config_schema",
+        "description": "bullyguard.config_schemas.config_schema",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.config_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultCommonTrainingTaskConfig",
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "CustomHuggingFaceTokenizationTransformationConfig",
+        "importPath": "bullyguard.config_schemas.transformations_schemas",
+        "description": "bullyguard.config_schemas.transformations_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TransformationConfig",
+        "importPath": "bullyguard.config_schemas.transformations_schemas",
+        "description": "bullyguard.config_schemas.transformations_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "adapter_schemas",
+        "importPath": "bullyguard.config_schemas.models",
+        "description": "bullyguard.config_schemas.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models",
+        "documentation": {}
+    },
+    {
+        "label": "backbone_schemas",
+        "importPath": "bullyguard.config_schemas.models",
+        "description": "bullyguard.config_schemas.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models",
+        "documentation": {}
+    },
+    {
+        "label": "head_schemas",
+        "importPath": "bullyguard.config_schemas.models",
+        "description": "bullyguard.config_schemas.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models",
+        "documentation": {}
+    },
+    {
+        "label": "callbacks_schemas",
+        "importPath": "bullyguard.config_schemas.trainer",
+        "description": "bullyguard.config_schemas.trainer",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "logger_schemas",
+        "importPath": "bullyguard.config_schemas.trainer",
+        "description": "bullyguard.config_schemas.trainer",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "trainer_schemas",
+        "importPath": "bullyguard.config_schemas.trainer",
+        "description": "bullyguard.config_schemas.trainer",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "BertTinyBinaryTextClassificationModelConfig",
+        "importPath": "bullyguard.config_schemas.models.model_schemas",
+        "description": "bullyguard.config_schemas.models.model_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "importPath": "bullyguard.config_schemas.models.model_schemas",
+        "description": "bullyguard.config_schemas.models.model_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "loss_schemas",
+        "importPath": "bullyguard.config_schemas.training",
+        "description": "bullyguard.config_schemas.training",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer_schemas",
+        "importPath": "bullyguard.config_schemas.training",
+        "description": "bullyguard.config_schemas.training",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training",
+        "documentation": {}
+    },
+    {
+        "label": "scheduler_schemas",
+        "importPath": "bullyguard.config_schemas.training",
+        "description": "bullyguard.config_schemas.training",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training",
+        "documentation": {}
+    },
+    {
+        "label": "training_lightning_module_schemas",
+        "importPath": "bullyguard.config_schemas.training",
+        "description": "bullyguard.config_schemas.training",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training",
+        "documentation": {}
+    },
+    {
+        "label": "training_task_schemas",
+        "importPath": "bullyguard.config_schemas.training",
+        "description": "bullyguard.config_schemas.training",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.training",
+        "documentation": {}
+    },
+    {
+        "label": "data_module_schemas",
+        "importPath": "bullyguard.config_schemas",
+        "description": "bullyguard.config_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "transformations_schemas",
+        "importPath": "bullyguard.config_schemas",
+        "description": "bullyguard.config_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "config_schema",
+        "importPath": "bullyguard.config_schemas",
+        "description": "bullyguard.config_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DataModuleConfig",
+        "importPath": "bullyguard.config_schemas.data_module_schemas",
+        "description": "bullyguard.config_schemas.data_module_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.data_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerConfig",
+        "importPath": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "description": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "pydantic.dataclasses",
+        "description": "pydantic.dataclasses",
+        "isExtraImport": true,
+        "detail": "pydantic.dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "infrastructure_schema",
+        "importPath": "bullyguard.config_schemas.infrastructure",
+        "description": "bullyguard.config_schemas.infrastructure",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.infrastructure",
+        "documentation": {}
+    },
+    {
+        "label": "LightningDataModule",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "LightningModule",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "BatchSampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Sampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "default_collate",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "PreTrainedTokenizerBase",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoConfig",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TextClassificationDataset",
+        "importPath": "bullyguard.data_modules.datasets",
+        "description": "bullyguard.data_modules.datasets",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceTokenizationTransformation",
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "is_dir",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "translate_gcs_dir_to_local",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "translate_gcs_dir_to_local",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "attrgetter",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModelOutputWithPooling",
+        "importPath": "transformers.modeling_outputs",
+        "description": "transformers.modeling_outputs",
+        "isExtraImport": true,
+        "detail": "transformers.modeling_outputs",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModelOutputWithPooling",
+        "importPath": "transformers.modeling_outputs",
+        "description": "transformers.modeling_outputs",
+        "isExtraImport": true,
+        "detail": "transformers.modeling_outputs",
+        "documentation": {}
+    },
+    {
+        "label": "Adapter",
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "Backbone",
+        "importPath": "bullyguard.models.backbones",
+        "description": "bullyguard.models.backbones",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.backbones",
+        "documentation": {}
+    },
+    {
+        "label": "Head",
+        "importPath": "bullyguard.models.heads",
+        "description": "bullyguard.models.heads",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.heads",
+        "documentation": {}
+    },
+    {
+        "label": "Optimizer",
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "isExtraImport": true,
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "Optimizer",
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "isExtraImport": true,
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "LossFunction",
+        "importPath": "bullyguard.training.loss_functions",
+        "description": "bullyguard.training.loss_functions",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.loss_functions",
+        "documentation": {}
+    },
+    {
+        "label": "LossFunction",
+        "importPath": "bullyguard.training.loss_functions",
+        "description": "bullyguard.training.loss_functions",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.loss_functions",
+        "documentation": {}
+    },
+    {
+        "label": "LightningScheduler",
+        "importPath": "bullyguard.training.schedulers",
+        "description": "bullyguard.training.schedulers",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.schedulers",
+        "documentation": {}
+    },
+    {
+        "label": "LightningScheduler",
+        "importPath": "bullyguard.training.schedulers",
+        "description": "bullyguard.training.schedulers",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.schedulers",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow",
+        "description": "mlflow",
+        "detail": "mlflow",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryAccuracy",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryConfusionMatrix",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryF1Score",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "PartialOptimizerType",
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingLightningModule",
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingLightningModule",
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingLightningModule",
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_local_rank",
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingTask",
+        "importPath": "bullyguard.training.tasks.bases",
+        "description": "bullyguard.training.tasks.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_artifacts_for_reproducibility",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "_LRScheduler",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "logging.config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "hydra",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hydra",
+        "description": "hydra",
+        "detail": "hydra",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "TaskFunction",
+        "importPath": "hydra.types",
+        "description": "hydra.types",
+        "isExtraImport": true,
+        "detail": "hydra.types",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractFileSystem",
+        "importPath": "fsspec",
+        "description": "fsspec",
+        "isExtraImport": true,
+        "detail": "fsspec",
+        "documentation": {}
+    },
+    {
+        "label": "filesystem",
+        "importPath": "fsspec",
+        "description": "fsspec",
+        "isExtraImport": true,
+        "detail": "fsspec",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "figure",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_config",
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_config_as_yaml",
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_config",
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
+        "isExtraImport": true,
+        "detail": "hydra.utils",
+        "documentation": {}
+    },
+    {
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
+        "isExtraImport": true,
+        "detail": "hydra.utils",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "lightning",
+        "description": "lightning",
+        "isExtraImport": true,
+        "detail": "lightning",
+        "documentation": {}
+    },
+    {
+        "label": "LocalBertExperiment",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "description": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "peekOfCode": "class LocalBertExperiment(Config):\n    tasks: dict[str, TaskConfig] = field(\n        default_factory=lambda: {\n            \"binary_text_classification_task\": DefaultCommonTrainingTaskConfig(),\n        }\n    )\nFinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([]),\n)",
+        "detail": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "documentation": {}
+    },
+    {
+        "label": "FinalLocalBertExperiment",
+        "kind": 5,
+        "importPath": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "description": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "peekOfCode": "FinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([]),\n)\ncs = ConfigStore.instance()\ncs.store(name=\"local_bert\", group=\"experiment/bert\", node=FinalLocalBertExperiment, package=\"_global_\")",
+        "detail": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "documentation": {}
+    },
+    {
+        "label": "cs",
+        "kind": 5,
+        "importPath": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "description": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "peekOfCode": "cs = ConfigStore.instance()\ncs.store(name=\"local_bert\", group=\"experiment/bert\", node=FinalLocalBertExperiment, package=\"_global_\")",
+        "detail": "bullyguard.config_schemas.experiment.bert.local_bert",
+        "documentation": {}
+    },
+    {
+        "label": "MLFlowConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "description": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "peekOfCode": "class MLFlowConfig:\n    mlflow_external_tracking_uri: str = SI(\"${oc.env:MLFLOW_TRACKING_URI,localhost:6101}\")\n    mlflow_internal_tracking_uri: str = SI(\"${oc.env:MLFLOW_INTERNAL_TRACKING_URI,localhost:6101}\")\n    experiment_name: str = \"Default\"\n    run_name: Optional[str] = None\n    run_id: Optional[str] = None\n    experiment_id: Optional[str] = None\n    experiment_url: str = SI(\"${.mlflow_external_tracking_uri}/#/experiments/${.experiment_id}/runs/${.run_id}\")\n    artifact_uri: Optional[str] = None\n@dataclass",
+        "detail": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "documentation": {}
+    },
+    {
+        "label": "InfrastructureConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "description": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "peekOfCode": "class InfrastructureConfig:\n    project_id: str = \"ml-project-447013\"\n    zone: str = \"europe-west4-a\"\n    # instance_group_creator: InstanceGroupCreatorConfig = field(default_factory= lambda: InstanceGroupCreatorConfig())\n    mlflow: MLFlowConfig = field(default_factory=lambda: MLFlowConfig())\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"infrastructure_schema\",\n        group=\"infrastructure\",",
+        "detail": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "description": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"infrastructure_schema\",\n        group=\"infrastructure\",\n        node=InfrastructureConfig,\n    )",
+        "detail": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AdapterConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.adapter_schemas",
+        "description": "bullyguard.config_schemas.models.adapter_schemas",
+        "peekOfCode": "class AdapterConfig:\n    _target_: str = MISSING\n@dataclass\nclass MLPWithPoolingConfig(AdapterConfig):\n    _target_: str = \"bullyguard.models.adapters.MLPWithPooling\"\n    output_feature_sizes: list[int] = MISSING\n    biases: Optional[list[bool]] = None\n    activation_fns: Optional[list[Optional[str]]] = None\n    dropout_drop_probs: Optional[list[float]] = None\n    batch_norms: Optional[list[bool]] = None",
+        "detail": "bullyguard.config_schemas.models.adapter_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "MLPWithPoolingConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.adapter_schemas",
+        "description": "bullyguard.config_schemas.models.adapter_schemas",
+        "peekOfCode": "class MLPWithPoolingConfig(AdapterConfig):\n    _target_: str = \"bullyguard.models.adapters.MLPWithPooling\"\n    output_feature_sizes: list[int] = MISSING\n    biases: Optional[list[bool]] = None\n    activation_fns: Optional[list[Optional[str]]] = None\n    dropout_drop_probs: Optional[list[float]] = None\n    batch_norms: Optional[list[bool]] = None\n    order: str = \"LABDN\"\n    standardize_input: bool = True\n    pooling_method: Optional[str] = None",
+        "detail": "bullyguard.config_schemas.models.adapter_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PoolerOutputAdapterConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.adapter_schemas",
+        "description": "bullyguard.config_schemas.models.adapter_schemas",
+        "peekOfCode": "class PoolerOutputAdapterConfig(MLPWithPoolingConfig):\n    output_feature_sizes: list[int] = field(default_factory=lambda: [-1])\n    output_attribute_to_use: str = \"pooler_output\"\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"mlp_with_pooling_schema\",\n        group=\"tasks/lightning_module/model/adapter\",\n        node=MLPWithPoolingConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.adapter_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.models.adapter_schemas",
+        "description": "bullyguard.config_schemas.models.adapter_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"mlp_with_pooling_schema\",\n        group=\"tasks/lightning_module/model/adapter\",\n        node=MLPWithPoolingConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.adapter_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BackboneConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.backbone_schemas",
+        "description": "bullyguard.config_schemas.models.backbone_schemas",
+        "peekOfCode": "class BackboneConfig:\n    _target_: str = MISSING\n    transformation: TransformationConfig = MISSING\n@dataclass\nclass HuggingFaceBackboneConfig(BackboneConfig):\n    _target_: str = \"bullyguard.models.backbones.HuggingFaceBackbone\"\n    pretrained_model_name_or_path: str = MISSING\n    pretrained: bool = False\n@dataclass\nclass BertTinyHuggingFaceBackboneConfig(HuggingFaceBackboneConfig):",
+        "detail": "bullyguard.config_schemas.models.backbone_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceBackboneConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.backbone_schemas",
+        "description": "bullyguard.config_schemas.models.backbone_schemas",
+        "peekOfCode": "class HuggingFaceBackboneConfig(BackboneConfig):\n    _target_: str = \"bullyguard.models.backbones.HuggingFaceBackbone\"\n    pretrained_model_name_or_path: str = MISSING\n    pretrained: bool = False\n@dataclass\nclass BertTinyHuggingFaceBackboneConfig(HuggingFaceBackboneConfig):\n    pretrained_model_name_or_path: str = \"prajjwal1/bert-tiny\"\n    transformation: TransformationConfig = CustomHuggingFaceTokenizationTransformationConfig()\ndef setup_config() -> None:\n    cs = ConfigStore.instance()",
+        "detail": "bullyguard.config_schemas.models.backbone_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BertTinyHuggingFaceBackboneConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.backbone_schemas",
+        "description": "bullyguard.config_schemas.models.backbone_schemas",
+        "peekOfCode": "class BertTinyHuggingFaceBackboneConfig(HuggingFaceBackboneConfig):\n    pretrained_model_name_or_path: str = \"prajjwal1/bert-tiny\"\n    transformation: TransformationConfig = CustomHuggingFaceTokenizationTransformationConfig()\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"hugging_face_backbone_schema\",\n        group=\"tasks/lightning_module/model/backbone\",\n        node=HuggingFaceBackboneConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.backbone_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.models.backbone_schemas",
+        "description": "bullyguard.config_schemas.models.backbone_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"hugging_face_backbone_schema\",\n        group=\"tasks/lightning_module/model/backbone\",\n        node=HuggingFaceBackboneConfig,\n    )\n    cs.store(\n        name=\"test_backbone_config\",\n        node=BertTinyHuggingFaceBackboneConfig,",
+        "detail": "bullyguard.config_schemas.models.backbone_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HeadConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.head_schemas",
+        "description": "bullyguard.config_schemas.models.head_schemas",
+        "peekOfCode": "class HeadConfig:\n    _target_: str = MISSING\n@dataclass\nclass SigmoidHeadConfig(HeadConfig):\n    _target_: str = \"bullyguard.models.heads.SigmoidHead\"\n    in_features: int = MISSING\n    out_features: int = MISSING\n@dataclass\nclass BinaryClassificationSigmoidHead(SigmoidHeadConfig):\n    in_features: int = 128",
+        "detail": "bullyguard.config_schemas.models.head_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SigmoidHeadConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.head_schemas",
+        "description": "bullyguard.config_schemas.models.head_schemas",
+        "peekOfCode": "class SigmoidHeadConfig(HeadConfig):\n    _target_: str = \"bullyguard.models.heads.SigmoidHead\"\n    in_features: int = MISSING\n    out_features: int = MISSING\n@dataclass\nclass BinaryClassificationSigmoidHead(SigmoidHeadConfig):\n    in_features: int = 128\n    out_features: int = 1\ndef setup_config() -> None:\n    cs = ConfigStore.instance()",
+        "detail": "bullyguard.config_schemas.models.head_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryClassificationSigmoidHead",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.head_schemas",
+        "description": "bullyguard.config_schemas.models.head_schemas",
+        "peekOfCode": "class BinaryClassificationSigmoidHead(SigmoidHeadConfig):\n    in_features: int = 128\n    out_features: int = 1\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"sigmoid_head_schema\",\n        group=\"tasks/lightning_module/model/head\",\n        node=SigmoidHeadConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.head_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.models.head_schemas",
+        "description": "bullyguard.config_schemas.models.head_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"sigmoid_head_schema\",\n        group=\"tasks/lightning_module/model/head\",\n        node=SigmoidHeadConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.head_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.model_schemas",
+        "description": "bullyguard.config_schemas.models.model_schemas",
+        "peekOfCode": "class ModelConfig:\n    _target_: str = MISSING\n@dataclass\nclass BinaryTextClassificationModelConfig(ModelConfig):\n    _target_: str = \"bullyguard.models.models.BinaryTextClassificationModel\"\n    backbone: backbone_schemas.BackboneConfig = MISSING\n    adapter: Optional[adapter_schemas.AdapterConfig] = None\n    head: head_schemas.HeadConfig = MISSING\n@dataclass\nclass BertTinyBinaryTextClassificationModelConfig(BinaryTextClassificationModelConfig):",
+        "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryTextClassificationModelConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.model_schemas",
+        "description": "bullyguard.config_schemas.models.model_schemas",
+        "peekOfCode": "class BinaryTextClassificationModelConfig(ModelConfig):\n    _target_: str = \"bullyguard.models.models.BinaryTextClassificationModel\"\n    backbone: backbone_schemas.BackboneConfig = MISSING\n    adapter: Optional[adapter_schemas.AdapterConfig] = None\n    head: head_schemas.HeadConfig = MISSING\n@dataclass\nclass BertTinyBinaryTextClassificationModelConfig(BinaryTextClassificationModelConfig):\n    backbone: backbone_schemas.BackboneConfig = backbone_schemas.BertTinyHuggingFaceBackboneConfig()\n    adapter: Optional[adapter_schemas.AdapterConfig] = adapter_schemas.PoolerOutputAdapterConfig()\n    head: head_schemas.HeadConfig = head_schemas.BinaryClassificationSigmoidHead()",
+        "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BertTinyBinaryTextClassificationModelConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.models.model_schemas",
+        "description": "bullyguard.config_schemas.models.model_schemas",
+        "peekOfCode": "class BertTinyBinaryTextClassificationModelConfig(BinaryTextClassificationModelConfig):\n    backbone: backbone_schemas.BackboneConfig = backbone_schemas.BertTinyHuggingFaceBackboneConfig()\n    adapter: Optional[adapter_schemas.AdapterConfig] = adapter_schemas.PoolerOutputAdapterConfig()\n    head: head_schemas.HeadConfig = head_schemas.BinaryClassificationSigmoidHead()\ndef setup_config() -> None:\n    backbone_schemas.setup_config()\n    adapter_schemas.setup_config()\n    head_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(",
+        "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.models.model_schemas",
+        "description": "bullyguard.config_schemas.models.model_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    backbone_schemas.setup_config()\n    adapter_schemas.setup_config()\n    head_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"binary_text_classification_model_schema\",\n        group=\"tasks/lightning_module/model\",\n        node=BinaryTextClassificationModelConfig,\n    )",
+        "detail": "bullyguard.config_schemas.models.model_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "class CallbackConfig:\n    _target_: str = MISSING\n@dataclass\nclass ModelCheckpointConfig(CallbackConfig):\n    _target_: str = \"lightning.pytorch.callbacks.ModelCheckpoint\"\n    dirpath: Optional[str] = \"./data/pytorch-lightning\"\n    filename: Optional[str] = None\n    monitor: Optional[str] = None\n    verbose: bool = False\n    save_last: Optional[bool] = None",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ModelCheckpointConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "class ModelCheckpointConfig(CallbackConfig):\n    _target_: str = \"lightning.pytorch.callbacks.ModelCheckpoint\"\n    dirpath: Optional[str] = \"./data/pytorch-lightning\"\n    filename: Optional[str] = None\n    monitor: Optional[str] = None\n    verbose: bool = False\n    save_last: Optional[bool] = None\n    save_top_k: int = 1\n    mode: str = \"min\"\n    auto_insert_metric_name: bool = False",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BestModelCheckpointConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "class BestModelCheckpointConfig(ModelCheckpointConfig):\n    dirpath: Optional[str] = SI(\"${infrastructure.mlflow.artifact_uri}/best-checkpoints/\")\n    monitor: str = MISSING\n    save_last: Optional[bool] = True\n    save_top_k: int = 2\n    mode: str = MISSING\n@dataclass\nclass ValidationF1ScoreBestModelCheckpointConfig(BestModelCheckpointConfig):\n    monitor: str = \"validation_f1_score\"\n    mode: str = \"max\"",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationF1ScoreBestModelCheckpointConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "class ValidationF1ScoreBestModelCheckpointConfig(BestModelCheckpointConfig):\n    monitor: str = \"validation_f1_score\"\n    mode: str = \"max\"\n@dataclass\nclass LastModelCheckpointConfig(ModelCheckpointConfig):\n    dirpath: Optional[str] = SI(\"${infrastructure.mlflow.artifact_uri}/last-checkpoints/\")\n    every_n_train_steps: int = SI(\"${save_last_checkpoint_every_n_train_steps}\")\n    save_last: Optional[bool] = True\n    filename: Optional[str] = \"checkpoint-{epoch}\"\n    save_top_k: int = -1",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LastModelCheckpointConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "class LastModelCheckpointConfig(ModelCheckpointConfig):\n    dirpath: Optional[str] = SI(\"${infrastructure.mlflow.artifact_uri}/last-checkpoints/\")\n    every_n_train_steps: int = SI(\"${save_last_checkpoint_every_n_train_steps}\")\n    save_last: Optional[bool] = True\n    filename: Optional[str] = \"checkpoint-{epoch}\"\n    save_top_k: int = -1\n@dataclass\nclass LearningRateMonitorConfig(CallbackConfig):\n    _target_: str = \"lightning.pytorch.callbacks.LearningRateMonitor\"\n    logging_interval: str = \"step\"",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LearningRateMonitorConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "class LearningRateMonitorConfig(CallbackConfig):\n    _target_: str = \"lightning.pytorch.callbacks.LearningRateMonitor\"\n    logging_interval: str = \"step\"\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(name=\"best_model_checkpoint_schema\", group=\"tasks/trainer/callbacks\", node=BestModelCheckpointConfig)\n    cs.store(name=\"last_model_checkpoint_schema\", group=\"tasks/trainer/callbacks\", node=LastModelCheckpointConfig)\n    cs.store(name=\"learning_rate_monitor_schema\", group=\"tasks/trainer/callbacks\", node=LearningRateMonitorConfig)",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "description": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(name=\"best_model_checkpoint_schema\", group=\"tasks/trainer/callbacks\", node=BestModelCheckpointConfig)\n    cs.store(name=\"last_model_checkpoint_schema\", group=\"tasks/trainer/callbacks\", node=LastModelCheckpointConfig)\n    cs.store(name=\"learning_rate_monitor_schema\", group=\"tasks/trainer/callbacks\", node=LearningRateMonitorConfig)",
+        "detail": "bullyguard.config_schemas.trainer.callbacks_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LoggerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.logger_schemas",
+        "description": "bullyguard.config_schemas.trainer.logger_schemas",
+        "peekOfCode": "class LoggerConfig:\n    _target_: str = MISSING\n@dataclass\nclass MLFlowLoggerConfig(LoggerConfig):\n    _target_: str = \"lightning.pytorch.loggers.mlflow.MLFlowLogger\"\n    experiment_name: str = SI(\"${infrastructure.mlflow.experiment_name}\")\n    run_name: Optional[str] = SI(\"${infrastructure.mlflow.run_name}\")\n    tracking_uri: Optional[str] = SI(\"${infrastructure.mlflow.mlflow_internal_tracking_uri}\")\n    tags: Optional[dict[str, Any]] = None\n    save_dir: Optional[str] = None",
+        "detail": "bullyguard.config_schemas.trainer.logger_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "MLFlowLoggerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.logger_schemas",
+        "description": "bullyguard.config_schemas.trainer.logger_schemas",
+        "peekOfCode": "class MLFlowLoggerConfig(LoggerConfig):\n    _target_: str = \"lightning.pytorch.loggers.mlflow.MLFlowLogger\"\n    experiment_name: str = SI(\"${infrastructure.mlflow.experiment_name}\")\n    run_name: Optional[str] = SI(\"${infrastructure.mlflow.run_name}\")\n    tracking_uri: Optional[str] = SI(\"${infrastructure.mlflow.mlflow_internal_tracking_uri}\")\n    tags: Optional[dict[str, Any]] = None\n    save_dir: Optional[str] = None\n    prefix: str = \"\"\n    artifact_location: Optional[str] = None\n    run_id: Optional[str] = SI(\"${infrastructure.mlflow.run_id}\")",
+        "detail": "bullyguard.config_schemas.trainer.logger_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.trainer.logger_schemas",
+        "description": "bullyguard.config_schemas.trainer.logger_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(name=\"mlflow_logger_schema\", group=\"tasks/trainer/logger\", node=MLFlowLoggerConfig)",
+        "detail": "bullyguard.config_schemas.trainer.logger_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "description": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "peekOfCode": "class TrainerConfig:\n    _target_: str = \"lightning.pytorch.trainer.trainer.Trainer\"\n    accelerator: str = \"auto\"\n    strategy: str = \"ddp_find_unused_parameters_true\"\n    devices: str = \"auto\"\n    num_nodes: int = 1  # SI(\"${}\")\n    precision: str = \"16-mixed\"\n    logger: Optional[list[logger_schemas.LoggerConfig]] = field(default_factory=lambda: [])  # type: ignore\n    callbacks: Optional[list[callbacks_schemas.CallbackConfig]] = field(default_factory=lambda: [])  # type: ignore\n    fast_dev_run: bool = False",
+        "detail": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GPUDev",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "description": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "peekOfCode": "class GPUDev(TrainerConfig):\n    max_epochs: int = 3\n    accelerator: str = \"gpu\"\n    log_every_n_steps: int = 1\n    limit_train_batches: float = 0.01\n    limit_val_batches: float = 0.01\n    limit_test_batches: float = 0.01\n    logger: Optional[list[logger_schemas.LoggerConfig]] = field(\n        default_factory=lambda: [logger_schemas.MLFlowLoggerConfig()]\n    )  # type: ignore",
+        "detail": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "description": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    logger_schemas.setup_config()\n    callbacks_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(name=\"trainer_schema\", group=\"tasks/trainer\", node=TrainerConfig)",
+        "detail": "bullyguard.config_schemas.trainer.trainer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LossFunctionConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.loss_schemas",
+        "description": "bullyguard.config_schemas.training.loss_schemas",
+        "peekOfCode": "class LossFunctionConfig:\n    _target_: str = MISSING\n@dataclass\nclass BCEWithLogitsLossConfig(LossFunctionConfig):\n    _target_: str = \"bullyguard.training.loss_functions.BCEWithLogitsLoss\"\n    reduction: str = \"mean\"\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"bce_with_logits_loss_schema\",",
+        "detail": "bullyguard.config_schemas.training.loss_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BCEWithLogitsLossConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.loss_schemas",
+        "description": "bullyguard.config_schemas.training.loss_schemas",
+        "peekOfCode": "class BCEWithLogitsLossConfig(LossFunctionConfig):\n    _target_: str = \"bullyguard.training.loss_functions.BCEWithLogitsLoss\"\n    reduction: str = \"mean\"\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"bce_with_logits_loss_schema\",\n        group=\"tasks/lightning_module/loss\",\n        node=BCEWithLogitsLossConfig,\n    )",
+        "detail": "bullyguard.config_schemas.training.loss_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.training.loss_schemas",
+        "description": "bullyguard.config_schemas.training.loss_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"bce_with_logits_loss_schema\",\n        group=\"tasks/lightning_module/loss\",\n        node=BCEWithLogitsLossConfig,\n    )",
+        "detail": "bullyguard.config_schemas.training.loss_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OptimizerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.optimizer_schemas",
+        "description": "bullyguard.config_schemas.training.optimizer_schemas",
+        "peekOfCode": "class OptimizerConfig:\n    _target_: str = MISSING\n    _partial_: bool = True\n    lr: float = MISSING\n@dataclass\nclass AdamOptimizerConfig(OptimizerConfig):\n    _target_: str = \"torch.optim.Adam\"\n    lr: float = 5e-3\n    betas: tuple[float, float] = (0.9, 0.999)\n    eps: float = 1e-8",
+        "detail": "bullyguard.config_schemas.training.optimizer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AdamOptimizerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.optimizer_schemas",
+        "description": "bullyguard.config_schemas.training.optimizer_schemas",
+        "peekOfCode": "class AdamOptimizerConfig(OptimizerConfig):\n    _target_: str = \"torch.optim.Adam\"\n    lr: float = 5e-3\n    betas: tuple[float, float] = (0.9, 0.999)\n    eps: float = 1e-8\n    weight_decay: float = 0.0\n    amsgrad: bool = False\n    foreach: Optional[bool] = None\n    maximize: bool = False\n    capturable: bool = False",
+        "detail": "bullyguard.config_schemas.training.optimizer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AdamWOptimizerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.optimizer_schemas",
+        "description": "bullyguard.config_schemas.training.optimizer_schemas",
+        "peekOfCode": "class AdamWOptimizerConfig(AdamOptimizerConfig):\n    _target_: str = \"torch.optim.AdamW\"\n    lr: float = 5e-5\n    weight_decay: float = 1e-3\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"adam_optimizer_schema\",\n        group=\"tasks/lightning_module/optimizer\",\n        node=AdamOptimizerConfig,",
+        "detail": "bullyguard.config_schemas.training.optimizer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.training.optimizer_schemas",
+        "description": "bullyguard.config_schemas.training.optimizer_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"adam_optimizer_schema\",\n        group=\"tasks/lightning_module/optimizer\",\n        node=AdamOptimizerConfig,\n    )\n    cs.store(\n        name=\"adamw_optimizer_schema\",\n        group=\"tasks/lightning_module/optimizer\",",
+        "detail": "bullyguard.config_schemas.training.optimizer_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SchedulerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
+        "description": "bullyguard.config_schemas.training.scheduler_schemas",
+        "peekOfCode": "class SchedulerConfig:\n    _target_: str = MISSING\n    _partial_: bool = True\n@dataclass\nclass ReduceLROnPlateauSchedulerConfig(SchedulerConfig):\n    _target_: str = \"torch.optim.lr_scheduler.ReduceLROnPlateau\"\n    mode: str = \"max\"\n    factor: float = 0.1\n    patience: int = 10\n    threshold: float = 1e-4",
+        "detail": "bullyguard.config_schemas.training.scheduler_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ReduceLROnPlateauSchedulerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
+        "description": "bullyguard.config_schemas.training.scheduler_schemas",
+        "peekOfCode": "class ReduceLROnPlateauSchedulerConfig(SchedulerConfig):\n    _target_: str = \"torch.optim.lr_scheduler.ReduceLROnPlateau\"\n    mode: str = \"max\"\n    factor: float = 0.1\n    patience: int = 10\n    threshold: float = 1e-4\n    threshold_mode: str = \"rel\"\n    cooldown: int = 0\n    min_lr: float = 0\n    eps: float = 1e-8",
+        "detail": "bullyguard.config_schemas.training.scheduler_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LightningSchedulerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
+        "description": "bullyguard.config_schemas.training.scheduler_schemas",
+        "peekOfCode": "class LightningSchedulerConfig:\n    _target_: str = MISSING\n    scheduler: SchedulerConfig = MISSING\n    interval: str = \"epoch\"\n    frequency: int = 1\n    monitor: str = \"validation_f1_score\"\n    strict: bool = True\n    name: Optional[str] = None\n@dataclass\nclass CommonLightningSchedulerConfig(LightningSchedulerConfig):",
+        "detail": "bullyguard.config_schemas.training.scheduler_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CommonLightningSchedulerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
+        "description": "bullyguard.config_schemas.training.scheduler_schemas",
+        "peekOfCode": "class CommonLightningSchedulerConfig(LightningSchedulerConfig):\n    _target_: str = \"bullyguard.training.schedulers.CommonLightningScheduler\"\n@dataclass\nclass ReduceLROnPlateauLightningSchedulerConfig(CommonLightningSchedulerConfig):\n    scheduler: SchedulerConfig = ReduceLROnPlateauSchedulerConfig(patience=5)\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"reduce_lr_on_plateau_scheduler_schema\",\n        group=\"tasks/lightning_module/scheduler\",",
+        "detail": "bullyguard.config_schemas.training.scheduler_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ReduceLROnPlateauLightningSchedulerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
+        "description": "bullyguard.config_schemas.training.scheduler_schemas",
+        "peekOfCode": "class ReduceLROnPlateauLightningSchedulerConfig(CommonLightningSchedulerConfig):\n    scheduler: SchedulerConfig = ReduceLROnPlateauSchedulerConfig(patience=5)\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"reduce_lr_on_plateau_scheduler_schema\",\n        group=\"tasks/lightning_module/scheduler\",\n        node=ReduceLROnPlateauLightningSchedulerConfig,\n    )",
+        "detail": "bullyguard.config_schemas.training.scheduler_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.training.scheduler_schemas",
+        "description": "bullyguard.config_schemas.training.scheduler_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"reduce_lr_on_plateau_scheduler_schema\",\n        group=\"tasks/lightning_module/scheduler\",\n        node=ReduceLROnPlateauLightningSchedulerConfig,\n    )",
+        "detail": "bullyguard.config_schemas.training.scheduler_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingLightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "peekOfCode": "class TrainingLightningModuleConfig(LightningModuleConfig):\n    _target_: str = MISSING\n    model: ModelConfig = MISSING\n    loss: loss_schemas.LossFunctionConfig = MISSING\n    optimizer: optimizer_schemas.OptimizerConfig = MISSING\n    scheduler: Optional[scheduler_schemas.LightningSchedulerConfig] = None\n@dataclass\nclass BinaryTextClassificationTrainingLightningModuleConfig(TrainingLightningModuleConfig):\n    _target_: str = \"bullyguard.training.lightning_modules.binary_text_classification.BinaryTextClassificationTrainingLightningModule\"\n@dataclass",
+        "detail": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryTextClassificationTrainingLightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "peekOfCode": "class BinaryTextClassificationTrainingLightningModuleConfig(TrainingLightningModuleConfig):\n    _target_: str = \"bullyguard.training.lightning_modules.binary_text_classification.BinaryTextClassificationTrainingLightningModule\"\n@dataclass\nclass BullyguardBinaryTextClassificationTrainingLightningModuleConfig(\n    BinaryTextClassificationTrainingLightningModuleConfig\n):\n    model: ModelConfig = BertTinyBinaryTextClassificationModelConfig()\n    loss: loss_schemas.LossFunctionConfig = loss_schemas.BCEWithLogitsLossConfig()\n    optimizer: optimizer_schemas.OptimizerConfig = optimizer_schemas.AdamWOptimizerConfig()\n    scheduler: Optional[",
+        "detail": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BullyguardBinaryTextClassificationTrainingLightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "peekOfCode": "class BullyguardBinaryTextClassificationTrainingLightningModuleConfig(\n    BinaryTextClassificationTrainingLightningModuleConfig\n):\n    model: ModelConfig = BertTinyBinaryTextClassificationModelConfig()\n    loss: loss_schemas.LossFunctionConfig = loss_schemas.BCEWithLogitsLossConfig()\n    optimizer: optimizer_schemas.OptimizerConfig = optimizer_schemas.AdamWOptimizerConfig()\n    scheduler: Optional[\n        scheduler_schemas.LightningSchedulerConfig\n    ] = scheduler_schemas.ReduceLROnPlateauLightningSchedulerConfig()\ndef setup_config() -> None:",
+        "detail": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"binary_text_classification_training_lightning_module_schema\",\n        group=\"tasks/lightning_module\",\n        node=BinaryTextClassificationTrainingLightningModuleConfig,\n    )",
+        "detail": "bullyguard.config_schemas.training.training_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "peekOfCode": "class TrainingTaskConfig(TaskConfig):\n    best_training_checkpoint: str = SI(\"${infrastructure.mlflow.artifact_uri}/best-checkpoints/best.ckpt\")\n    last_training_checkpoint: str = SI(\"${infrastructure.mlflow.artifact_uri}/last-checkpoints/last.ckpt\")\n@dataclass\nclass CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass\nclass DefaultCommonTrainingTaskConfig(CommonTrainingTaskConfig):\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (",
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CommonTrainingTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "peekOfCode": "class CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass\nclass DefaultCommonTrainingTaskConfig(CommonTrainingTaskConfig):\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (\n        data_module_schemas.ScrappedDataTextClassificationDataModuleConfig()\n    )\n    lightning_module: training_lightning_module_schemas.TrainingLightningModuleConfig = (\n        training_lightning_module_schemas.BullyguardBinaryTextClassificationTrainingLightningModuleConfig()",
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultCommonTrainingTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "peekOfCode": "class DefaultCommonTrainingTaskConfig(CommonTrainingTaskConfig):\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (\n        data_module_schemas.ScrappedDataTextClassificationDataModuleConfig()\n    )\n    lightning_module: training_lightning_module_schemas.TrainingLightningModuleConfig = (\n        training_lightning_module_schemas.BullyguardBinaryTextClassificationTrainingLightningModuleConfig()\n    )\n    trainer: trainer_schemas.TrainerConfig = trainer_schemas.GPUDev()\ndef setup_config() -> None:",
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    data_module_schemas.setup_config()\n    training_lightning_module_schemas.setup_config()\n    trainer_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"common_training_task_schema\",\n        group=\"tasks\",\n        node=CommonTrainingTaskConfig,\n    )",
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
+        "peekOfCode": "class LightningModuleConfig:\n    _target_: str = MISSING\n@dataclass\nclass TaskConfig:\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING",
+        "detail": "bullyguard.config_schemas.base_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
+        "peekOfCode": "class TaskConfig:\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING",
+        "detail": "bullyguard.config_schemas.base_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.config_schema",
+        "description": "bullyguard.config_schemas.config_schema",
+        "peekOfCode": "class Config:\n    infrastructure: infrastructure_schema.InfrastructureConfig = infrastructure_schema.InfrastructureConfig()\n    save_last_checkpoint_every_n_train_steps: int = 500\n    seed: int = 1234\n    tasks: dict[str, TaskConfig] = MISSING\ndef setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(name=\"config_schema\", node=Config)",
+        "detail": "bullyguard.config_schemas.config_schema",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.config_schema",
+        "description": "bullyguard.config_schemas.config_schema",
+        "peekOfCode": "def setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(name=\"config_schema\", node=Config)",
+        "detail": "bullyguard.config_schemas.config_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DataModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.data_module_schemas",
+        "description": "bullyguard.config_schemas.data_module_schemas",
+        "peekOfCode": "class DataModuleConfig:\n    _target_: str = MISSING\n    batch_size: int = MISSING\n    shuffle: bool = False\n    num_workers: int = 8\n    pin_memory: bool = True\n    drop_last: bool = True\n    persistent_workers: bool = False\n@dataclass\nclass TextClassificationDataModuleConfig(DataModuleConfig):",
+        "detail": "bullyguard.config_schemas.data_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TextClassificationDataModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.data_module_schemas",
+        "description": "bullyguard.config_schemas.data_module_schemas",
+        "peekOfCode": "class TextClassificationDataModuleConfig(DataModuleConfig):\n    _target_: str = \"bullyguard.data_modules.data_modules.TextClassificationDataModule\"\n    train_df_path: str = MISSING\n    dev_df_path: str = MISSING\n    test_df_path: str = MISSING\n    transformation: transformations_schemas.TransformationConfig = MISSING\n    text_column_name: str = \"cleaned_text\"\n    label_column_name: str = \"label\"\n@dataclass\nclass ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModuleConfig):",
+        "detail": "bullyguard.config_schemas.data_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ScrappedDataTextClassificationDataModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.data_module_schemas",
+        "description": "bullyguard.config_schemas.data_module_schemas",
+        "peekOfCode": "class ScrappedDataTextClassificationDataModuleConfig(TextClassificationDataModuleConfig):\n    batch_size: int = 64\n    train_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/train.parquet\"\n    dev_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/dev.parquet\"\n    test_df_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/test.parquet\"\n    transformation: transformations_schemas.TransformationConfig = SI(\n        \"${..lightning_module.model.backbone.transformation}\"\n    )\ndef setup_config() -> None:\n    transformations_schemas.setup_config()",
+        "detail": "bullyguard.config_schemas.data_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.data_module_schemas",
+        "description": "bullyguard.config_schemas.data_module_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    transformations_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module\",\n        node=TextClassificationDataModuleConfig,\n    )",
+        "detail": "bullyguard.config_schemas.data_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TransformationConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.transformations_schemas",
+        "description": "bullyguard.config_schemas.transformations_schemas",
+        "peekOfCode": "class TransformationConfig:\n    _target_: str = MISSING\n@dataclass\nclass HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"",
+        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceTokenizationTransformationConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.transformations_schemas",
+        "description": "bullyguard.config_schemas.transformations_schemas",
+        "peekOfCode": "class HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200\ndef setup_config() -> None:\n    cs = ConfigStore.instance()",
+        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CustomHuggingFaceTokenizationTransformationConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.transformations_schemas",
+        "description": "bullyguard.config_schemas.transformations_schemas",
+        "peekOfCode": "class CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module/transformation\",\n        node=HuggingFaceTokenizationTransformationConfig,\n    )",
+        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.transformations_schemas",
+        "description": "bullyguard.config_schemas.transformations_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(\n        name=\"text_classification_data_module_schema\",\n        group=\"tasks/data_module/transformation\",\n        node=HuggingFaceTokenizationTransformationConfig,\n    )",
+        "detail": "bullyguard.config_schemas.transformations_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "kind": 6,
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "peekOfCode": "class DataModule(LightningDataModule):\n    def __init__(\n        self,\n        batch_size: int,\n        shuffle: bool = False,\n        sampler: Optional[Sampler] = None,\n        batch_sampler: Optional[BatchSampler] = None,\n        num_workers: int = 0,\n        collate_fn: Optional[Callable[[Any], Any]] = None,\n        pin_memory: bool = False,",
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "kind": 6,
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "peekOfCode": "class PartialDataModuleType(Protocol):\n    def __call__(self, transformation: HuggingFaceTokenizationTransformation) -> DataModule:\n        ...\nclass TextClassificationDataModule(DataModule):\n    def __init__(\n        self,\n        train_df_path: str,\n        dev_df_path: str,\n        test_df_path: str,\n        transformation: HuggingFaceTokenizationTransformation,",
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "TextClassificationDataModule",
+        "kind": 6,
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "peekOfCode": "class TextClassificationDataModule(DataModule):\n    def __init__(\n        self,\n        train_df_path: str,\n        dev_df_path: str,\n        test_df_path: str,\n        transformation: HuggingFaceTokenizationTransformation,\n        text_column_name: str,\n        label_column_name: str,\n        batch_size: int,",
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "TextClassificationDataset",
+        "kind": 6,
+        "importPath": "bullyguard.data_modules.datasets",
+        "description": "bullyguard.data_modules.datasets",
+        "peekOfCode": "class TextClassificationDataset(Dataset):\n    def __init__(self, df_path: str, text_column_name: str, label_column_name: str) -> None:\n        super().__init__()\n        self.df = pd.read_parquet(df_path)\n        self.text_column_name = text_column_name\n        self.label_column_name = label_column_name\n    def __getitem__(self, idx: int) -> tuple[str, Tensor]:\n        row = self.df.iloc[idx]\n        text = row[self.text_column_name]\n        label = row[self.label_column_name]",
+        "detail": "bullyguard.data_modules.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "kind": 6,
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "peekOfCode": "class Transformation(ABC):\n    @abstractmethod\n    def __call__(self, texts: list[str]) -> BatchEncoding:\n        ...\nclass HuggingFaceTokenizationTransformation(Transformation):\n    def __init__(self, pretrained_tokenizer_name_or_path: str, max_sequence_length: int) -> None:\n        super().__init__()\n        self.max_sequence_length = max_sequence_length\n        self.tokenizer = self.get_tokenizer(pretrained_tokenizer_name_or_path)\n    def __call__(self, texts: list[str]) -> BatchEncoding:",
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceTokenizationTransformation",
+        "kind": 6,
+        "importPath": "bullyguard.data_modules.transformations",
+        "description": "bullyguard.data_modules.transformations",
+        "peekOfCode": "class HuggingFaceTokenizationTransformation(Transformation):\n    def __init__(self, pretrained_tokenizer_name_or_path: str, max_sequence_length: int) -> None:\n        super().__init__()\n        self.max_sequence_length = max_sequence_length\n        self.tokenizer = self.get_tokenizer(pretrained_tokenizer_name_or_path)\n    def __call__(self, texts: list[str]) -> BatchEncoding:\n        output: BatchEncoding = self.tokenizer.batch_encode_plus(\n            texts, truncation=True, padding=True, return_tensors=\"pt\", max_length=self.max_sequence_length\n        )\n        return output",
+        "detail": "bullyguard.data_modules.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Adapter",
+        "kind": 6,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "class Adapter(nn.Module):\n    pass\nclass Normalization(nn.Module):\n    def __init__(self, p: float = 2.0) -> None:\n        super().__init__()\n        self.p = p\n    def forward(self, x: Tensor) -> Tensor:\n        return F.normalize(x, p=self.p, dim=1)\nclass FCLayer(Adapter):\n    def __init__(",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "Normalization",
+        "kind": 6,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "class Normalization(nn.Module):\n    def __init__(self, p: float = 2.0) -> None:\n        super().__init__()\n        self.p = p\n    def forward(self, x: Tensor) -> Tensor:\n        return F.normalize(x, p=self.p, dim=1)\nclass FCLayer(Adapter):\n    def __init__(\n        self,\n        in_features: int,",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "FCLayer",
+        "kind": 6,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "class FCLayer(Adapter):\n    def __init__(\n        self,\n        in_features: int,\n        out_features: int,\n        bias: bool,\n        activation_fn: Optional[nn.Module] = None,\n        dropout: float = 0.0,\n        batch_norm: bool = False,\n        order: str = \"LABDN\",",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "MLPLayer",
+        "kind": 6,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "class MLPLayer(Adapter):\n    def __init__(\n        self,\n        output_feature_sizes: list[\n            int\n        ],  # i.g [1024, 512, 256] : backbone output: 1024, adapter: 1024 ->> 512 , adapter 512 ->> 256, adapter output: 256\n        biases: Optional[list[bool]] = None,\n        activation_fns: Optional[list[Optional[str]]] = None,\n        dropout_drop_probs: Optional[list[float]] = None,\n        batch_norms: Optional[list[bool]] = None,",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "MLPWithPooling",
+        "kind": 6,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "class MLPWithPooling(Adapter):\n    def __init__(\n        self,\n        output_feature_sizes: list[int],\n        biases: Optional[list[bool]] = None,\n        activation_fns: Optional[list[Optional[str]]] = None,\n        dropout_drop_probs: Optional[list[float]] = None,\n        batch_norms: Optional[list[bool]] = None,\n        order: str = \"LABDN\",\n        standardize_input: bool = True,",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "mean_pool_tokens",
+        "kind": 2,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "def mean_pool_tokens(tensor: Tensor) -> Tensor:\n    dims = len(tensor.shape)\n    if dims != 3:\n        raise ValueError(f\"Tokens pooling expects exactly 3 dimensional tensor, got: {dims}\")\n    return torch.mean(tensor, dim=1)\ndef cls_pool_tokens(tensor: Tensor) -> Tensor:\n    dims = len(tensor.shape)\n    if dims != 3:\n        raise ValueError(f\"Tokens pooling expects exactly 3 dimensional tensor, got: {dims}\")\n    return tensor[:, 0, :]",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "cls_pool_tokens",
+        "kind": 2,
+        "importPath": "bullyguard.models.adapters",
+        "description": "bullyguard.models.adapters",
+        "peekOfCode": "def cls_pool_tokens(tensor: Tensor) -> Tensor:\n    dims = len(tensor.shape)\n    if dims != 3:\n        raise ValueError(f\"Tokens pooling expects exactly 3 dimensional tensor, got: {dims}\")\n    return tensor[:, 0, :]",
+        "detail": "bullyguard.models.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "Backbone",
+        "kind": 6,
+        "importPath": "bullyguard.models.backbones",
+        "description": "bullyguard.models.backbones",
+        "peekOfCode": "class Backbone(nn.Module):\n    def __init__(self, transformation: Transformation) -> None:\n        super().__init__()\n        self.transformation = transformation\n    def get_transformation(self) -> Transformation:\n        return self.transformation\nclass HuggingFaceBackbone(Backbone):\n    def __init__(\n        self, pretrained_model_name_or_path: str, transformation: Transformation, pretrained: bool = False\n    ) -> None:",
+        "detail": "bullyguard.models.backbones",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceBackbone",
+        "kind": 6,
+        "importPath": "bullyguard.models.backbones",
+        "description": "bullyguard.models.backbones",
+        "peekOfCode": "class HuggingFaceBackbone(Backbone):\n    def __init__(\n        self, pretrained_model_name_or_path: str, transformation: Transformation, pretrained: bool = False\n    ) -> None:\n        super().__init__(transformation)\n        self.backbone = self.get_backbone(pretrained_model_name_or_path, pretrained)\n    def forward(self, encodings: BatchEncoding) -> BaseModelOutputWithPooling:\n        output: BaseModelOutputWithPooling = self.backbone(**encodings)\n        return output\n    def get_backbone(self, pretrained_model_name_or_path: str, pretrained: bool) -> nn.Module:",
+        "detail": "bullyguard.models.backbones",
+        "documentation": {}
+    },
+    {
+        "label": "Head",
+        "kind": 6,
+        "importPath": "bullyguard.models.heads",
+        "description": "bullyguard.models.heads",
+        "peekOfCode": "class Head(nn.Module):\n    pass\nclass SoftmaxHead(Head):\n    def __init__(self, in_features: int, out_features: int, dim: int = 1) -> None:\n        super().__init__()\n        self.head = nn.Sequential(nn.Linear(in_features, out_features), nn.Softmax(dim=dim))\n    def forward(self, x: Tensor) -> Tensor:\n        output: Tensor = self.head(x)\n        return output\nclass SigmoidHead(Head):",
+        "detail": "bullyguard.models.heads",
+        "documentation": {}
+    },
+    {
+        "label": "SoftmaxHead",
+        "kind": 6,
+        "importPath": "bullyguard.models.heads",
+        "description": "bullyguard.models.heads",
+        "peekOfCode": "class SoftmaxHead(Head):\n    def __init__(self, in_features: int, out_features: int, dim: int = 1) -> None:\n        super().__init__()\n        self.head = nn.Sequential(nn.Linear(in_features, out_features), nn.Softmax(dim=dim))\n    def forward(self, x: Tensor) -> Tensor:\n        output: Tensor = self.head(x)\n        return output\nclass SigmoidHead(Head):\n    def __init__(self, in_features: int, out_features: int) -> None:\n        super().__init__()",
+        "detail": "bullyguard.models.heads",
+        "documentation": {}
+    },
+    {
+        "label": "SigmoidHead",
+        "kind": 6,
+        "importPath": "bullyguard.models.heads",
+        "description": "bullyguard.models.heads",
+        "peekOfCode": "class SigmoidHead(Head):\n    def __init__(self, in_features: int, out_features: int) -> None:\n        super().__init__()\n        self.head = nn.Sequential(nn.Linear(in_features, out_features), nn.Sigmoid())\n    def forward(self, x: Tensor) -> Tensor:\n        output: Tensor = self.head(x)\n        return output",
+        "detail": "bullyguard.models.heads",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 6,
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "peekOfCode": "class Model(nn.Module):\n    @abstractmethod\n    def get_transformation(self) -> Transformation:\n        ...\nclass BinaryTextClassificationModel(Model):\n    def __init__(self, backbone: Backbone, head: Head, adapter: Optional[Adapter]) -> None:\n        super().__init__()\n        self.backbone = backbone\n        self.adapter = adapter\n        self.head = head",
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryTextClassificationModel",
+        "kind": 6,
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "peekOfCode": "class BinaryTextClassificationModel(Model):\n    def __init__(self, backbone: Backbone, head: Head, adapter: Optional[Adapter]) -> None:\n        super().__init__()\n        self.backbone = backbone\n        self.adapter = adapter\n        self.head = head\n    def forward(self, encodings: BatchEncoding) -> Tensor:\n        output = self.backbone(encodings)\n        if self.adapter is not None:\n            output = self.adapter(output)",
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingLightningModule",
+        "kind": 6,
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "peekOfCode": "class TrainingLightningModule(LightningModule):\n    def __init__(\n        self,\n        model: Model,\n        loss: LossFunction,\n        optimizer: PartialOptimizerType,\n        scheduler: Optional[LightningScheduler] = None,\n    ) -> None:\n        super().__init__()\n        self.model = model",
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "PartialOptimizerType",
+        "kind": 5,
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "peekOfCode": "PartialOptimizerType = Callable[[Union[Iterable[Tensor], dict[str, Iterable[Tensor]]]], Optimizer]\nclass TrainingLightningModule(LightningModule):\n    def __init__(\n        self,\n        model: Model,\n        loss: LossFunction,\n        optimizer: PartialOptimizerType,\n        scheduler: Optional[LightningScheduler] = None,\n    ) -> None:\n        super().__init__()",
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryTextClassificationTrainingLightningModule",
+        "kind": 6,
+        "importPath": "bullyguard.training.lightning_modules.binary_text_classification",
+        "description": "bullyguard.training.lightning_modules.binary_text_classification",
+        "peekOfCode": "class BinaryTextClassificationTrainingLightningModule(TrainingLightningModule):\n    def __init__(\n        self,\n        model: Model,\n        loss: LossFunction,\n        optimizer: PartialOptimizerType,\n        scheduler: Optional[LightningScheduler] = None,\n    ) -> None:\n        super().__init__(model=model, loss=loss, optimizer=optimizer, scheduler=scheduler)\n        self.training_accuracy = BinaryAccuracy()",
+        "detail": "bullyguard.training.lightning_modules.binary_text_classification",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingTask",
+        "kind": 6,
+        "importPath": "bullyguard.training.tasks.bases",
+        "description": "bullyguard.training.tasks.bases",
+        "peekOfCode": "class TrainingTask(ABC):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: TrainingLightningModule,\n        trainer: Trainer,\n        best_training_checkpoint: str,\n        last_training_checkpoint: str,\n    ) -> None:",
+        "detail": "bullyguard.training.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "CommonTrainingTask",
+        "kind": 6,
+        "importPath": "bullyguard.training.tasks.common_training_task",
+        "description": "bullyguard.training.tasks.common_training_task",
+        "peekOfCode": "class CommonTrainingTask(TrainingTask):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: TrainingLightningModule,\n        trainer: Trainer,\n        best_training_checkpoint: str,\n        last_training_checkpoint: str,\n    ) -> None:",
+        "detail": "bullyguard.training.tasks.common_training_task",
+        "documentation": {}
+    },
+    {
+        "label": "LossFunction",
+        "kind": 6,
+        "importPath": "bullyguard.training.loss_functions",
+        "description": "bullyguard.training.loss_functions",
+        "peekOfCode": "class LossFunction(nn.Module):\n    pass\nclass BCEWithLogitsLoss(LossFunction):\n    def __init__(self, reduction: str = \"mean\") -> None:\n        super().__init__()\n        self.reduction = reduction\n    def forward(self, x: Tensor, target: Tensor, pos_weight: Optional[Tensor] = None) -> Tensor:\n        return F.binary_cross_entropy_with_logits(x, target, reduction=self.reduction, pos_weight=pos_weight)",
+        "detail": "bullyguard.training.loss_functions",
+        "documentation": {}
+    },
+    {
+        "label": "BCEWithLogitsLoss",
+        "kind": 6,
+        "importPath": "bullyguard.training.loss_functions",
+        "description": "bullyguard.training.loss_functions",
+        "peekOfCode": "class BCEWithLogitsLoss(LossFunction):\n    def __init__(self, reduction: str = \"mean\") -> None:\n        super().__init__()\n        self.reduction = reduction\n    def forward(self, x: Tensor, target: Tensor, pos_weight: Optional[Tensor] = None) -> Tensor:\n        return F.binary_cross_entropy_with_logits(x, target, reduction=self.reduction, pos_weight=pos_weight)",
+        "detail": "bullyguard.training.loss_functions",
+        "documentation": {}
+    },
+    {
+        "label": "PartialSchedulerType",
+        "kind": 6,
+        "importPath": "bullyguard.training.schedulers",
+        "description": "bullyguard.training.schedulers",
+        "peekOfCode": "class PartialSchedulerType(Protocol):\n    def __call__(\n        self, optimizer: Optimizer, estimated_stepping_batches: Optional[Union[int, float]] = None\n    ) -> _LRScheduler:\n        ...\nclass LightningScheduler(ABC):\n    def __init__(\n        self,\n        scheduler: PartialSchedulerType,\n        interval: Literal[\"epoch\", \"step\"] = \"epoch\",",
+        "detail": "bullyguard.training.schedulers",
+        "documentation": {}
+    },
+    {
+        "label": "LightningScheduler",
+        "kind": 6,
+        "importPath": "bullyguard.training.schedulers",
+        "description": "bullyguard.training.schedulers",
+        "peekOfCode": "class LightningScheduler(ABC):\n    def __init__(\n        self,\n        scheduler: PartialSchedulerType,\n        interval: Literal[\"epoch\", \"step\"] = \"epoch\",\n        frequency: int = 1,\n        monitor: str = \"val_loss\",\n        strict: bool = True,\n        name: Optional[str] = None,\n    ) -> None:",
+        "detail": "bullyguard.training.schedulers",
+        "documentation": {}
+    },
+    {
+        "label": "CommonLightningScheduler",
+        "kind": 6,
+        "importPath": "bullyguard.training.schedulers",
+        "description": "bullyguard.training.schedulers",
+        "peekOfCode": "class CommonLightningScheduler(LightningScheduler):\n    def configure_scheduler(\n        self, optimizer: Optimizer, estimated_stepping_batches: Union[int, float]\n    ) -> dict[str, Any]:\n        return {\n            \"scheduler\": self.scheduler(optimizer),\n            \"interval\": self.interval,\n            \"frequency\": self.frequency,\n            \"monitor\": self.monitor,\n            \"strict\": self.strict,",
+        "detail": "bullyguard.training.schedulers",
+        "documentation": {}
+    },
+    {
+        "label": "get_config",
+        "kind": 2,
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "peekOfCode": "def get_config(\n    config_path: str, config_name: str, to_object: bool = True, return_dict_config: bool = False\n) -> TaskFunction:\n    setup_config()\n    setup_logger()\n    def main_decorator(task_function: TaskFunction) -> Any:\n        @hydra.main(config_path=config_path, config_name=config_name, version_base=None)\n        def decorated_main(dict_config: Optional[DictConfig] = None) -> Any:\n            if to_object:\n                config = OmegaConf.to_object(dict_config)",
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "peekOfCode": "def setup_config() -> None:\n    config_schema.setup_config()\ndef setup_logger() -> None:\n    with open(\"./bullyguard/configs/hydra/job_logging/custom.yaml\", \"r\") as stream:\n        config = yaml.load(stream, Loader=yaml.FullLoader)\n    logging.config.dictConfig(config)\ndef save_config_as_yaml(config: \"Config\", save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [",
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logger",
+        "kind": 2,
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "peekOfCode": "def setup_logger() -> None:\n    with open(\"./bullyguard/configs/hydra/job_logging/custom.yaml\", \"r\") as stream:\n        config = yaml.load(stream, Loader=yaml.FullLoader)\n    logging.config.dictConfig(config)\ndef save_config_as_yaml(config: \"Config\", save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [\n            f\"# Do not edit this file. It is automatically generated by {sys.argv[0]}.\\n\",\n            \"# If you want to modify configuration, edit source files in cybulde/configs directory.\\n\",",
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_config_as_yaml",
+        "kind": 2,
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "peekOfCode": "def save_config_as_yaml(config: \"Config\", save_path: str) -> None:\n    text_io = StringIO()\n    text_io.writelines(\n        [\n            f\"# Do not edit this file. It is automatically generated by {sys.argv[0]}.\\n\",\n            \"# If you want to modify configuration, edit source files in cybulde/configs directory.\\n\",\n            \"\\n\",\n        ]\n    )\n    config_header = load_config_header()",
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config_header",
+        "kind": 2,
+        "importPath": "bullyguard.utils.config_utils",
+        "description": "bullyguard.utils.config_utils",
+        "peekOfCode": "def load_config_header() -> str:\n    with open(\"./bullyguard/configs/automatically_generated/full_config_header.yaml\", \"r\") as f:\n        return f.read()",
+        "detail": "bullyguard.utils.config_utils",
+        "documentation": {}
+    },
+    {
+        "label": "choose_file_system",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_dir: bool = file_system.isdir(path)\n    return is_dir",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_yaml_file",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_dir: bool = file_system.isdir(path)\n    return is_dir\ndef is_file(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_file: bool = file_system.isfile(path)",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_dir",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_dir: bool = file_system.isdir(path)\n    return is_dir\ndef is_file(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_file: bool = file_system.isfile(path)\n    return is_file\ndef make_dirs(path: str) -> None:\n    file_system = choose_file_system(path)",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def is_file(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_file: bool = file_system.isfile(path)\n    return is_file\ndef make_dirs(path: str) -> None:\n    file_system = choose_file_system(path)\n    file_system.makedirs(path, exist_ok=True)\ndef list_paths(path: str) -> list[str]:\n    file_system = choose_file_system(path)\n    if not is_dir(path):",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_dirs",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def make_dirs(path: str) -> None:\n    file_system = choose_file_system(path)\n    file_system.makedirs(path, exist_ok=True)\ndef list_paths(path: str) -> list[str]:\n    file_system = choose_file_system(path)\n    if not is_dir(path):\n        return []\n    paths: list[str] = file_system.ls(path)\n    if GCS_FILE_SYSTEM_NAME in file_system.protocol:\n        gs_paths: list[str] = [f\"{GCS_PREFIX}{path}\" for path in paths]",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "list_paths",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def list_paths(path: str) -> list[str]:\n    file_system = choose_file_system(path)\n    if not is_dir(path):\n        return []\n    paths: list[str] = file_system.ls(path)\n    if GCS_FILE_SYSTEM_NAME in file_system.protocol:\n        gs_paths: list[str] = [f\"{GCS_PREFIX}{path}\" for path in paths]\n        return gs_paths\n    return paths\ndef copy_dir(source_dir: str, target_dir: str) -> None:",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "copy_dir",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def copy_dir(source_dir: str, target_dir: str) -> None:\n    if not is_dir(target_dir):\n        make_dirs(target_dir)\n    source_files = list_paths(source_dir)\n    for source_file in source_files:\n        target_file = os.path.join(target_dir, os.path.basename(source_file))\n        if is_file(source_file):\n            with open_file(source_file, mode=\"rb\") as source, open_file(target_file, mode=\"wb\") as target:\n                content = source.read()\n                target.write(content)",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "translate_gcs_dir_to_local",
+        "kind": 2,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "def translate_gcs_dir_to_local(path: str) -> str:\n    if path.startswith(GCS_PREFIX):\n        path = path.rstrip(\"/\")\n        local_path = os.path.join(TMP_FILE_PATH, os.path.split(path)[-1])\n        os.makedirs(local_path, exist_ok=True)\n        copy_dir(path, local_path)\n        return local_path\n    return path",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "GCS_PREFIX",
+        "kind": 5,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "GCS_PREFIX = \"gs://\"\nGCS_FILE_SYSTEM_NAME = \"gcs\"\nLOCAL_FILE_SYSTEM_NAME = \"file\"\nTMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "GCS_FILE_SYSTEM_NAME",
+        "kind": 5,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "GCS_FILE_SYSTEM_NAME = \"gcs\"\nLOCAL_FILE_SYSTEM_NAME = \"file\"\nTMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "LOCAL_FILE_SYSTEM_NAME",
+        "kind": 5,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "LOCAL_FILE_SYSTEM_NAME = \"file\"\nTMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TMP_FILE_PATH",
+        "kind": 5,
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "peekOfCode": "TMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:",
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def activate_mlflow(\n    experiment_name: Optional[str] = None,\n    run_id: Optional[str] = None,\n    run_name: Optional[str] = None,\n) -> Iterable[mlflow.ActiveRun]:\n    set_experiment(experiment_name)\n    with mlflow.start_run(run_name=run_name, run_id=run_id) as run:\n        yield run\ndef set_experiment(experiment_name: Optional[str] = None) -> None:\n    if experiment_name is None:",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_experiment",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def set_experiment(experiment_name: Optional[str] = None) -> None:\n    if experiment_name is None:\n        experiment_name = \"Default\"\n    try:\n        mlflow.create_experiment(experiment_name)\n    except mlflow.exceptions.RestException:\n        pass\n    mlflow.set_experiment(experiment_name)\ndef log_artifacts_for_reproducibility() -> None:\n    locations_to_store = [\"./bullyguard\", \"./docker\", \"./pyproject.toml\", \"./poetry.lock\"]",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_artifacts_for_reproducibility",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def log_artifacts_for_reproducibility() -> None:\n    locations_to_store = [\"./bullyguard\", \"./docker\", \"./pyproject.toml\", \"./poetry.lock\"]\n    for location_to_store in locations_to_store:\n        mlflow.log_artifact(location_to_store, \"reproduction\")",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "MLFLOW_TRACKING_URI",
+        "kind": 5,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "MLFLOW_TRACKING_URI = os.getenv(\"MLFLOW_TRACKING_URI\")\n@contextmanager  # type: ignore\ndef activate_mlflow(\n    experiment_name: Optional[str] = None,\n    run_id: Optional[str] = None,\n    run_name: Optional[str] = None,\n) -> Iterable[mlflow.ActiveRun]:\n    set_experiment(experiment_name)\n    with mlflow.start_run(run_name=run_name, run_id=run_id) as run:\n        yield run",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "kind": 2,
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "peekOfCode": "def plot_confusion_matrix(confusion_matrix: Tensor, class_names: list[str]) -> Any:\n    confusion_matrix_np = confusion_matrix.cpu().detach().numpy()\n    figure(num=None, figsize=(16, 12), dpi=60, facecolor=\"w\", edgecolor=\"k\")\n    plt.imshow(confusion_matrix_np, interpolation=\"nearest\", cmap=plt.cm.Purples)  # type: ignore\n    plt.colorbar()\n    tick_marks = np.arange(len(class_names))\n    plt.xticks(tick_marks, class_names, rotation=90, fontsize=20)\n    plt.yticks(tick_marks, class_names, fontsize=20)\n    fmt = \"d\"\n    thresh = confusion_matrix_np.max() / 2.0",
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_local_rank",
+        "kind": 2,
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "peekOfCode": "def get_local_rank() -> int:\n    return int(os.getenv(\"LOCAL_RANK\", -1))",
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "peekOfCode": "def get_logger(name: str) -> logging.Logger:\n    return logging.getLogger(f\"[{socket.gethostname()}] {name}\")",
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_final_config",
+        "kind": 2,
+        "importPath": "bullyguard.generate_final_config",
+        "description": "bullyguard.generate_final_config",
+        "peekOfCode": "def generate_final_config(config: \"Config\") -> None:\n    with activate_mlflow(\n        config.infrastructure.mlflow.experiment_name,\n        run_id=config.infrastructure.mlflow.run_id,\n        run_name=config.infrastructure.mlflow.run_name,\n    ) as run:\n        run_id: str = run.info.run_id\n        experiment_id: str = run.info.experiment_id\n        artifact_uri: str = run.info.artifact_uri\n        config.infrastructure.mlflow.artifact_uri = artifact_uri",
+        "detail": "bullyguard.generate_final_config",
+        "documentation": {}
+    },
+    {
+        "label": "run_tasks",
+        "kind": 2,
+        "importPath": "bullyguard.run_tasks",
+        "description": "bullyguard.run_tasks",
+        "peekOfCode": "def run_tasks(config: Config) -> None:\n    logger = get_logger(__file__)\n    assert config.infrastructure.mlflow.run_id is not None, \"Run id has to be set for running tasks\"\n    backend = \"gloo\"\n    if torch.cuda.is_available():\n        torch.cuda.set_device(f\"cuda:{get_local_rank()}\")\n        backend = \"nccl\"\n    torch.distributed.init_process_group(backend=backend)\n    seed_everything(seed=config.seed, workers=True)\n    for task_name, task_config in config.tasks.items():",
+        "detail": "bullyguard.run_tasks",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "bullyguard.tests",
+        "description": "bullyguard.tests",
+        "peekOfCode": "def main(config: DictConfig) -> None:\n    print(60 * \"#\")\n    print(OmegaConf.to_yaml(config))\n    print(60 * \"#\")\n    # model = instantiate(config)\n    # print(model)\n    # texts = [\"hello, how are you?\"]\n    # encodings = model.backbone.transformation(texts)\n    # output = model(encodings)\n    # print(f\"{output.shape=}\")",
+        "detail": "bullyguard.tests",
+        "documentation": {}
+    }
+]

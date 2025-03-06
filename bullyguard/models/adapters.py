@@ -69,7 +69,9 @@ class FCLayer(Adapter):
 class MLPLayer(Adapter):
     def __init__(
         self,
-        output_feature_sizes: list[int],  # i.g [1024, 512, 256] : backbone output: 1024, adapter: 1024 ->> 512 , adapter 512 ->> 256, adapter output: 256
+        output_feature_sizes: list[
+            int
+        ],  # i.g [1024, 512, 256] : backbone output: 1024, adapter: 1024 ->> 512 , adapter 512 ->> 256, adapter output: 256
         biases: Optional[list[bool]] = None,
         activation_fns: Optional[list[Optional[str]]] = None,
         dropout_drop_probs: Optional[list[float]] = None,

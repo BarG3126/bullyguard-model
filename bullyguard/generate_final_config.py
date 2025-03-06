@@ -1,23 +1,21 @@
-from bullyguard.utils.mlflow_utils import activate_mlflow
-from bullyguard.utils.config_utils import get_config, save_config_as_yaml
 from pathlib import Path
 from typing import TYPE_CHECKING
 
 import mlflow
 
+from bullyguard.utils.config_utils import get_config, save_config_as_yaml
+from bullyguard.utils.mlflow_utils import activate_mlflow
 
 if TYPE_CHECKING:
     from bullyguard.config_schemas.config_schema import Config
 
 
-@get_config(config_path="../configs", config_name="config")
+@get_config(config_path="../configs", config_name="config", to_object=False, return_dict_config=True)
 def generate_final_config(config: "Config") -> None:
-    # print(OmegaConf.to_yaml(config))
-
     with activate_mlflow(
         config.infrastructure.mlflow.experiment_name,
         run_id=config.infrastructure.mlflow.run_id,
-        run_name=config.infrastructure.mlflow.run_name
+        run_name=config.infrastructure.mlflow.run_name,
     ) as run:
         run_id: str = run.info.run_id
         experiment_id: str = run.info.experiment_id

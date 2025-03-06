@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Optional
 
 from hydra.core.config_store import ConfigStore
@@ -22,6 +22,12 @@ class MLPWithPoolingConfig(AdapterConfig):
     standardize_input: bool = True
     pooling_method: Optional[str] = None
     output_attribute_to_use: Optional[str] = None
+
+
+@dataclass
+class PoolerOutputAdapterConfig(MLPWithPoolingConfig):
+    output_feature_sizes: list[int] = field(default_factory=lambda: [-1])
+    output_attribute_to_use: str = "pooler_output"
 
 
 def setup_config() -> None:

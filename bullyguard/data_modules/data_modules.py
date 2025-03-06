@@ -1,4 +1,5 @@
-from typing import Optional, Callable, Any
+from typing import Any, Callable, Optional, Protocol
+
 from lightning.pytorch import LightningDataModule
 from torch import Tensor
 from torch.utils.data import BatchSampler, DataLoader, Dataset, Sampler, default_collate
@@ -48,6 +49,11 @@ class DataModule(LightningDataModule):
         )
 
 
+class PartialDataModuleType(Protocol):
+    def __call__(self, transformation: HuggingFaceTokenizationTransformation) -> DataModule:
+        ...
+
+
 class TextClassificationDataModule(DataModule):
     def __init__(
         self,
@@ -66,7 +72,6 @@ class TextClassificationDataModule(DataModule):
         drop_last: bool = False,
         persistent_workers: bool = False,
     ) -> None:
-
         def tokenization_collate_fn(batch: list[tuple[str, int]]) -> tuple[BatchEncoding, Tensor]:
             texts, labels = default_collate(batch)
             encodings = transformation(texts)
