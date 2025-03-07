@@ -8,15 +8,16 @@ from torch import Tensor
 from torchmetrics.classification import BinaryAccuracy, BinaryConfusionMatrix, BinaryF1Score
 from transformers import BatchEncoding
 
-from bullyguard.data_modules.transformations import Transformation
+from bullyguard.models.transformations import Transformation
 from bullyguard.models.models import Model
-from bullyguard.training.lightning_modules.bases import PartialOptimizerType, TrainingLightningModule
+from bullyguard.training.lightning_modules.bases import (
+    ModelStateDictExportingTrainingLightningModule, PartialOptimizerType)
 from bullyguard.training.loss_functions import LossFunction
 from bullyguard.training.schedulers import LightningScheduler
 from bullyguard.utils.torch_utils import plot_confusion_matrix
 
 
-class BinaryTextClassificationTrainingLightningModule(TrainingLightningModule):
+class BinaryTextClassificationTrainingLightningModule(ModelStateDictExportingTrainingLightningModule):
     def __init__(
         self,
         model: Model,
@@ -101,3 +102,6 @@ class BinaryTextClassificationTrainingLightningModule(TrainingLightningModule):
 
     def get_transformation(self) -> Transformation:
         return self.model.get_transformation()
+
+    def export_model_state_dict(self, checkpoint_path: str) -> str:
+        return self.common_export_model_state_dict(checkpoint_path)

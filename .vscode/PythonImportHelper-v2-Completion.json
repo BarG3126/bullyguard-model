@@ -465,7 +465,31 @@
         "documentation": {}
     },
     {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
         "label": "SI",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "DictConfig",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "OmegaConf",
         "importPath": "omegaconf",
         "description": "omegaconf",
         "isExtraImport": true,
@@ -689,6 +713,30 @@
         "documentation": {}
     },
     {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Literal",
         "importPath": "typing",
         "description": "typing",
@@ -754,6 +802,22 @@
     },
     {
         "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -1249,6 +1313,14 @@
         "documentation": {}
     },
     {
+        "label": "Trainer",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
         "label": "torch",
         "kind": 6,
         "isExtraImport": true,
@@ -1426,30 +1498,6 @@
         "documentation": {}
     },
     {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "BatchEncoding",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "PreTrainedTokenizerBase",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
         "label": "AutoConfig",
         "importPath": "transformers",
         "description": "transformers",
@@ -1482,6 +1530,30 @@
         "documentation": {}
     },
     {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "PreTrainedTokenizerBase",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
         "label": "BatchEncoding",
         "importPath": "transformers",
         "description": "transformers",
@@ -1499,42 +1571,42 @@
     },
     {
         "label": "HuggingFaceTokenizationTransformation",
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
         "isExtraImport": true,
-        "detail": "bullyguard.data_modules.transformations",
+        "detail": "bullyguard.models.transformations",
         "documentation": {}
     },
     {
         "label": "Transformation",
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
         "isExtraImport": true,
-        "detail": "bullyguard.data_modules.transformations",
+        "detail": "bullyguard.models.transformations",
         "documentation": {}
     },
     {
         "label": "Transformation",
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
         "isExtraImport": true,
-        "detail": "bullyguard.data_modules.transformations",
+        "detail": "bullyguard.models.transformations",
         "documentation": {}
     },
     {
         "label": "Transformation",
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
         "isExtraImport": true,
-        "detail": "bullyguard.data_modules.transformations",
+        "detail": "bullyguard.models.transformations",
         "documentation": {}
     },
     {
         "label": "Transformation",
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
         "isExtraImport": true,
-        "detail": "bullyguard.data_modules.transformations",
+        "detail": "bullyguard.models.transformations",
         "documentation": {}
     },
     {
@@ -1556,115 +1628,191 @@
         "documentation": {}
     },
     {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "sys",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "abc",
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "tarfile",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "abc",
+        "importPath": "tarfile",
+        "description": "tarfile",
+        "detail": "tarfile",
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "tempfile",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "abc",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
         "isExtraImport": true,
-        "detail": "abc",
+        "detail": "hydra.utils",
         "documentation": {}
     },
     {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
         "isExtraImport": true,
-        "detail": "abc",
+        "detail": "hydra.utils",
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
         "isExtraImport": true,
-        "detail": "abc",
+        "detail": "hydra.utils",
         "documentation": {}
     },
     {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "cache_gcs_resource_locally",
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
         "isExtraImport": true,
-        "detail": "abc",
+        "detail": "bullyguard.models.common.io_utils",
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "copy_file",
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
         "isExtraImport": true,
-        "detail": "abc",
+        "detail": "bullyguard.models.common.io_utils",
         "documentation": {}
     },
     {
-        "label": "is_dir",
-        "importPath": "bullyguard.utils.io_utils",
-        "description": "bullyguard.utils.io_utils",
+        "label": "get_global_rank",
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
         "isExtraImport": true,
-        "detail": "bullyguard.utils.io_utils",
+        "detail": "bullyguard.models.common.utils",
         "documentation": {}
     },
     {
-        "label": "is_file",
-        "importPath": "bullyguard.utils.io_utils",
-        "description": "bullyguard.utils.io_utils",
+        "label": "get_local_rank",
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
         "isExtraImport": true,
-        "detail": "bullyguard.utils.io_utils",
+        "detail": "bullyguard.models.common.utils",
         "documentation": {}
     },
     {
-        "label": "translate_gcs_dir_to_local",
-        "importPath": "bullyguard.utils.io_utils",
-        "description": "bullyguard.utils.io_utils",
+        "label": "global_rank_zero_first",
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
         "isExtraImport": true,
-        "detail": "bullyguard.utils.io_utils",
+        "detail": "bullyguard.models.common.utils",
         "documentation": {}
     },
     {
-        "label": "translate_gcs_dir_to_local",
-        "importPath": "bullyguard.utils.io_utils",
-        "description": "bullyguard.utils.io_utils",
+        "label": "local_rank_zero_first",
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
         "isExtraImport": true,
-        "detail": "bullyguard.utils.io_utils",
+        "detail": "bullyguard.models.common.utils",
         "documentation": {}
     },
     {
-        "label": "is_file",
-        "importPath": "bullyguard.utils.io_utils",
-        "description": "bullyguard.utils.io_utils",
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
         "isExtraImport": true,
-        "detail": "bullyguard.utils.io_utils",
+        "detail": "bullyguard.utils.utils",
         "documentation": {}
     },
     {
-        "label": "open_file",
-        "importPath": "bullyguard.utils.io_utils",
-        "description": "bullyguard.utils.io_utils",
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
         "isExtraImport": true,
-        "detail": "bullyguard.utils.io_utils",
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractFileSystem",
+        "importPath": "fsspec",
+        "description": "fsspec",
+        "isExtraImport": true,
+        "detail": "fsspec",
+        "documentation": {}
+    },
+    {
+        "label": "filesystem",
+        "importPath": "fsspec",
+        "description": "fsspec",
+        "isExtraImport": true,
+        "detail": "fsspec",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractFileSystem",
+        "importPath": "fsspec",
+        "description": "fsspec",
+        "isExtraImport": true,
+        "detail": "fsspec",
+        "documentation": {}
+    },
+    {
+        "label": "filesystem",
+        "importPath": "fsspec",
+        "description": "fsspec",
+        "isExtraImport": true,
+        "detail": "fsspec",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
         "documentation": {}
     },
     {
@@ -1698,6 +1846,134 @@
         "description": "transformers.modeling_outputs",
         "isExtraImport": true,
         "detail": "transformers.modeling_outputs",
+        "documentation": {}
+    },
+    {
+        "label": "translate_gcs_dir_to_local",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_dir",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "translate_gcs_dir_to_local",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "importPath": "bullyguard.utils.io_utils",
+        "description": "bullyguard.utils.io_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
         "documentation": {}
     },
     {
@@ -1789,30 +2065,6 @@
         "documentation": {}
     },
     {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
-        "documentation": {}
-    },
-    {
         "label": "defaultdict",
         "importPath": "collections",
         "description": "collections",
@@ -1854,6 +2106,14 @@
         "documentation": {}
     },
     {
+        "label": "ModelStateDictExportingTrainingLightningModule",
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
         "label": "PartialOptimizerType",
         "importPath": "bullyguard.training.lightning_modules.bases",
         "description": "bullyguard.training.lightning_modules.bases",
@@ -1878,7 +2138,7 @@
         "documentation": {}
     },
     {
-        "label": "TrainingLightningModule",
+        "label": "ModelStateDictExportingTrainingLightningModule",
         "importPath": "bullyguard.training.lightning_modules.bases",
         "description": "bullyguard.training.lightning_modules.bases",
         "isExtraImport": true,
@@ -1942,11 +2202,51 @@
         "documentation": {}
     },
     {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
         "label": "TrainingTask",
         "importPath": "bullyguard.training.tasks.bases",
         "description": "bullyguard.training.tasks.bases",
         "isExtraImport": true,
         "detail": "bullyguard.training.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingTask",
+        "importPath": "bullyguard.training.tasks.bases",
+        "description": "bullyguard.training.tasks.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.training.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_artifacts_for_reproducibility",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
         "documentation": {}
     },
     {
@@ -1982,6 +2282,14 @@
         "documentation": {}
     },
     {
+        "label": "TarModelExporter",
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
         "label": "_LRScheduler",
         "importPath": "torch.optim.lr_scheduler",
         "description": "torch.optim.lr_scheduler",
@@ -2008,15 +2316,6 @@
         "documentation": {}
     },
     {
-        "label": "sys",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "sys",
-        "description": "sys",
-        "detail": "sys",
-        "documentation": {}
-    },
-    {
         "label": "StringIO",
         "importPath": "io",
         "description": "io",
@@ -2034,44 +2333,11 @@
         "documentation": {}
     },
     {
-        "label": "yaml",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "yaml",
-        "description": "yaml",
-        "detail": "yaml",
-        "documentation": {}
-    },
-    {
         "label": "TaskFunction",
         "importPath": "hydra.types",
         "description": "hydra.types",
         "isExtraImport": true,
         "detail": "hydra.types",
-        "documentation": {}
-    },
-    {
-        "label": "AbstractFileSystem",
-        "importPath": "fsspec",
-        "description": "fsspec",
-        "isExtraImport": true,
-        "detail": "fsspec",
-        "documentation": {}
-    },
-    {
-        "label": "filesystem",
-        "importPath": "fsspec",
-        "description": "fsspec",
-        "isExtraImport": true,
-        "detail": "fsspec",
-        "documentation": {}
-    },
-    {
-        "label": "contextmanager",
-        "importPath": "contextlib",
-        "description": "contextlib",
-        "isExtraImport": true,
-        "detail": "contextlib",
         "documentation": {}
     },
     {
@@ -2148,22 +2414,6 @@
         "description": "bullyguard.utils.config_utils",
         "isExtraImport": true,
         "detail": "bullyguard.utils.config_utils",
-        "documentation": {}
-    },
-    {
-        "label": "instantiate",
-        "importPath": "hydra.utils",
-        "description": "hydra.utils",
-        "isExtraImport": true,
-        "detail": "hydra.utils",
-        "documentation": {}
-    },
-    {
-        "label": "instantiate",
-        "importPath": "hydra.utils",
-        "description": "hydra.utils",
-        "isExtraImport": true,
-        "detail": "hydra.utils",
         "documentation": {}
     },
     {
@@ -2377,7 +2627,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.transformation_schemas",
         "description": "bullyguard.config_schemas.models.transformation_schemas",
-        "peekOfCode": "class TransformationConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n    def loggable_params(self) -> list[str]:",
+        "peekOfCode": "class TransformationConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.models.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n    def loggable_params(self) -> list[str]:",
         "detail": "bullyguard.config_schemas.models.transformation_schemas",
         "documentation": {}
     },
@@ -2386,7 +2636,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.models.transformation_schemas",
         "description": "bullyguard.config_schemas.models.transformation_schemas",
-        "peekOfCode": "class HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n    def loggable_params(self) -> list[str]:\n        return super().loggable_params() + [\"pretrained_tokenizer_name_or_path\", \"max_sequence_length\"]\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200",
+        "peekOfCode": "class HuggingFaceTokenizationTransformationConfig(TransformationConfig):\n    _target_: str = \"bullyguard.models.transformations.HuggingFaceTokenizationTransformation\"\n    pretrained_tokenizer_name_or_path: str = MISSING\n    max_sequence_length: int = MISSING\n    def loggable_params(self) -> list[str]:\n        return super().loggable_params() + [\"pretrained_tokenizer_name_or_path\", \"max_sequence_length\"]\n@dataclass\nclass CustomHuggingFaceTokenizationTransformationConfig(HuggingFaceTokenizationTransformationConfig):\n    pretrained_tokenizer_name_or_path: str = \"gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer\"\n    max_sequence_length: int = 200",
         "detail": "bullyguard.config_schemas.models.transformation_schemas",
         "documentation": {}
     },
@@ -2683,7 +2933,16 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.training_task_schemas",
         "description": "bullyguard.config_schemas.training.training_task_schemas",
-        "peekOfCode": "class TrainingTaskConfig(TaskConfig):\n    best_training_checkpoint: str = SI(\"${infrastructure.mlflow.artifact_uri}/best-checkpoints/best.ckpt\")\n    last_training_checkpoint: str = SI(\"${infrastructure.mlflow.artifact_uri}/last-checkpoints/last.ckpt\")\n@dataclass\nclass CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass\nclass DefaultCommonTrainingTaskConfig(CommonTrainingTaskConfig):\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (",
+        "peekOfCode": "class TrainingTaskConfig(TaskConfig):\n    best_training_checkpoint: str = SI(\"${infrastructure.mlflow.artifact_uri}/best-checkpoints/last.ckpt\")\n    last_training_checkpoint: str = SI(\"${infrastructure.mlflow.artifact_uri}/last-checkpoints/last.ckpt\")\n@dataclass\nclass TarModelExportingTrainingTaskConfig(TrainingTaskConfig):\n    tar_model_export_path: str = MISSING\n@dataclass\nclass CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass",
+        "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelExportingTrainingTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.training.training_task_schemas",
+        "description": "bullyguard.config_schemas.training.training_task_schemas",
+        "peekOfCode": "class TarModelExportingTrainingTaskConfig(TrainingTaskConfig):\n    tar_model_export_path: str = MISSING\n@dataclass\nclass CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass\nclass DefaultCommonTrainingTaskConfig(TarModelExportingTrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.tar_model_exporting_training_task.TarModelExportingTrainingTask\"\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (",
         "detail": "bullyguard.config_schemas.training.training_task_schemas",
         "documentation": {}
     },
@@ -2692,7 +2951,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.training_task_schemas",
         "description": "bullyguard.config_schemas.training.training_task_schemas",
-        "peekOfCode": "class CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass\nclass DefaultCommonTrainingTaskConfig(CommonTrainingTaskConfig):\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (\n        data_module_schemas.ScrappedDataTextClassificationDataModuleConfig()\n    )\n    lightning_module: training_lightning_module_schemas.TrainingLightningModuleConfig = (\n        training_lightning_module_schemas.BullyguardBinaryTextClassificationTrainingLightningModuleConfig()",
+        "peekOfCode": "class CommonTrainingTaskConfig(TrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.common_training_task.CommonTrainingTask\"\n@dataclass\nclass DefaultCommonTrainingTaskConfig(TarModelExportingTrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.tar_model_exporting_training_task.TarModelExportingTrainingTask\"\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (\n        data_module_schemas.ScrappedDataTextClassificationDataModuleConfig()\n    )\n    lightning_module: training_lightning_module_schemas.TrainingLightningModuleConfig = (",
         "detail": "bullyguard.config_schemas.training.training_task_schemas",
         "documentation": {}
     },
@@ -2701,7 +2960,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.training.training_task_schemas",
         "description": "bullyguard.config_schemas.training.training_task_schemas",
-        "peekOfCode": "class DefaultCommonTrainingTaskConfig(CommonTrainingTaskConfig):\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (\n        data_module_schemas.ScrappedDataTextClassificationDataModuleConfig()\n    )\n    lightning_module: training_lightning_module_schemas.TrainingLightningModuleConfig = (\n        training_lightning_module_schemas.BullyguardBinaryTextClassificationTrainingLightningModuleConfig()\n    )\n    trainer: trainer_schemas.TrainerConfig = trainer_schemas.GPUDev()\ndef setup_config() -> None:",
+        "peekOfCode": "class DefaultCommonTrainingTaskConfig(TarModelExportingTrainingTaskConfig):\n    _target_: str = \"bullyguard.training.tasks.tar_model_exporting_training_task.TarModelExportingTrainingTask\"\n    name: str = \"binary_text_classfication_task\"\n    data_module: data_module_schemas.DataModuleConfig = (\n        data_module_schemas.ScrappedDataTextClassificationDataModuleConfig()\n    )\n    lightning_module: training_lightning_module_schemas.TrainingLightningModuleConfig = (\n        training_lightning_module_schemas.BullyguardBinaryTextClassificationTrainingLightningModuleConfig()\n    )\n    trainer: trainer_schemas.TrainerConfig = trainer_schemas.GPUDev()",
         "detail": "bullyguard.config_schemas.training.training_task_schemas",
         "documentation": {}
     },
@@ -2823,21 +3082,246 @@
         "documentation": {}
     },
     {
-        "label": "Transformation",
+        "label": "TarModelExporter",
         "kind": 6,
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
-        "peekOfCode": "class Transformation(ABC):\n    @abstractmethod\n    def __call__(self, texts: list[str]) -> BatchEncoding:\n        ...\nclass HuggingFaceTokenizationTransformation(Transformation):\n    def __init__(self, pretrained_tokenizer_name_or_path: str, max_sequence_length: int) -> None:\n        super().__init__()\n        self.max_sequence_length = max_sequence_length\n        self.tokenizer = self.get_tokenizer(pretrained_tokenizer_name_or_path)\n    def __call__(self, texts: list[str]) -> BatchEncoding:",
-        "detail": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "class TarModelExporter:\n    def __init__(\n        self,\n        model_state_dict_path: str,\n        model_config: Any,\n        tar_model_export_path: str,\n    ) -> None:\n        self.model_state_dict_path = model_state_dict_path\n        self.model_config = model_config\n        self.tar_model_export_path = tar_model_export_path",
+        "detail": "bullyguard.models.common.exporter",
         "documentation": {}
     },
     {
-        "label": "HuggingFaceTokenizationTransformation",
+        "label": "TarModelLoader",
         "kind": 6,
-        "importPath": "bullyguard.data_modules.transformations",
-        "description": "bullyguard.data_modules.transformations",
-        "peekOfCode": "class HuggingFaceTokenizationTransformation(Transformation):\n    def __init__(self, pretrained_tokenizer_name_or_path: str, max_sequence_length: int) -> None:\n        super().__init__()\n        self.max_sequence_length = max_sequence_length\n        self.tokenizer = self.get_tokenizer(pretrained_tokenizer_name_or_path)\n    def __call__(self, texts: list[str]) -> BatchEncoding:\n        output: BatchEncoding = self.tokenizer.batch_encode_plus(\n            texts, truncation=True, padding=True, return_tensors=\"pt\", max_length=self.max_sequence_length\n        )\n        return output",
-        "detail": "bullyguard.data_modules.transformations",
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "class TarModelLoader:\n    def __init__(self, exported_model_path: str) -> None:\n        self.exported_model_path = exported_model_path\n        self.replace_module_from = MODELS_MODULE_PATH.split(\"/\")[0]\n        self.replace_module_to = TEMP_MODELS_MODULE_PATH.split(\"/\")[0]\n        self.logger = get_logger(self.__class__.__name__)\n    def load(self) -> Any:\n        temp_export_path = \"/tmp/temp_bullyguard\"\n        with local_rank_zero_first():\n            if get_local_rank() in [0, -1]:",
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS_MODULE_PATH",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "MODELS_MODULE_PATH = \"bullyguard/models\"\nTEMP_MODELS_MODULE_PATH = \"temp_module/models\"\nMODEL_CONFIG_PATH = \"model_config.yaml\"\nSTATE_DICT_PATH = \"model_state_dict.pth\"\nEXPORTED_MODEL_FILE_NAME = \"exported_model.tar.gz\"\nclass TarModelExporter:\n    def __init__(\n        self,\n        model_state_dict_path: str,\n        model_config: Any,",
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "TEMP_MODELS_MODULE_PATH",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "TEMP_MODELS_MODULE_PATH = \"temp_module/models\"\nMODEL_CONFIG_PATH = \"model_config.yaml\"\nSTATE_DICT_PATH = \"model_state_dict.pth\"\nEXPORTED_MODEL_FILE_NAME = \"exported_model.tar.gz\"\nclass TarModelExporter:\n    def __init__(\n        self,\n        model_state_dict_path: str,\n        model_config: Any,\n        tar_model_export_path: str,",
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_CONFIG_PATH",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "MODEL_CONFIG_PATH = \"model_config.yaml\"\nSTATE_DICT_PATH = \"model_state_dict.pth\"\nEXPORTED_MODEL_FILE_NAME = \"exported_model.tar.gz\"\nclass TarModelExporter:\n    def __init__(\n        self,\n        model_state_dict_path: str,\n        model_config: Any,\n        tar_model_export_path: str,\n    ) -> None:",
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "STATE_DICT_PATH",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "STATE_DICT_PATH = \"model_state_dict.pth\"\nEXPORTED_MODEL_FILE_NAME = \"exported_model.tar.gz\"\nclass TarModelExporter:\n    def __init__(\n        self,\n        model_state_dict_path: str,\n        model_config: Any,\n        tar_model_export_path: str,\n    ) -> None:\n        self.model_state_dict_path = model_state_dict_path",
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "EXPORTED_MODEL_FILE_NAME",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "peekOfCode": "EXPORTED_MODEL_FILE_NAME = \"exported_model.tar.gz\"\nclass TarModelExporter:\n    def __init__(\n        self,\n        model_state_dict_path: str,\n        model_config: Any,\n        tar_model_export_path: str,\n    ) -> None:\n        self.model_state_dict_path = model_state_dict_path\n        self.model_config = model_config",
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "choose_file_system",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_dir: bool = file_system.isdir(path)\n    return is_dir",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_yaml_file",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_dir: bool = file_system.isdir(path)\n    return is_dir\ndef is_file(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_file: bool = file_system.isfile(path)",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_dir",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def is_dir(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_dir: bool = file_system.isdir(path)\n    return is_dir\ndef is_file(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_file: bool = file_system.isfile(path)\n    return is_file\ndef make_dirs(path: str) -> None:\n    file_system = choose_file_system(path)",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def is_file(path: str) -> bool:\n    file_system = choose_file_system(path)\n    is_file: bool = file_system.isfile(path)\n    return is_file\ndef make_dirs(path: str) -> None:\n    file_system = choose_file_system(path)\n    file_system.makedirs(path, exist_ok=True)\ndef list_paths(path: str) -> list[str]:\n    file_system = choose_file_system(path)\n    if not is_dir(path):",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_dirs",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def make_dirs(path: str) -> None:\n    file_system = choose_file_system(path)\n    file_system.makedirs(path, exist_ok=True)\ndef list_paths(path: str) -> list[str]:\n    file_system = choose_file_system(path)\n    if not is_dir(path):\n        return []\n    paths: list[str] = file_system.ls(path)\n    if GCS_FILE_SYSTEM_NAME in file_system.protocol:\n        gs_paths: list[str] = [f\"{GCS_PREFIX}{path}\" for path in paths]",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "list_paths",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def list_paths(path: str) -> list[str]:\n    file_system = choose_file_system(path)\n    if not is_dir(path):\n        return []\n    paths: list[str] = file_system.ls(path)\n    if GCS_FILE_SYSTEM_NAME in file_system.protocol:\n        gs_paths: list[str] = [f\"{GCS_PREFIX}{path}\" for path in paths]\n        return gs_paths\n    return paths\ndef copy_file(source_file: str, target_path: str) -> None:",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "copy_file",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def copy_file(source_file: str, target_path: str) -> None:\n    with open_file(source_file, mode=\"rb\") as source, open_file(target_path, \"wb\") as target:\n        content = source.read()\n        target.write(content)\ndef copy_dir(source_dir: str, target_dir: str) -> None:\n    if not is_dir(target_dir):\n        make_dirs(target_dir)\n    source_files = list_paths(source_dir)\n    for source_file in source_files:\n        target_file = os.path.join(target_dir, os.path.basename(source_file))",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "copy_dir",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def copy_dir(source_dir: str, target_dir: str) -> None:\n    if not is_dir(target_dir):\n        make_dirs(target_dir)\n    source_files = list_paths(source_dir)\n    for source_file in source_files:\n        target_file = os.path.join(target_dir, os.path.basename(source_file))\n        if is_file(source_file):\n            with open_file(source_file, mode=\"rb\") as source, open_file(target_file, mode=\"wb\") as target:\n                content = source.read()\n                target.write(content)",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_gcs_path_to_local_path",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def convert_gcs_path_to_local_path(path: str) -> str:\n    if path.startswith(GCS_PREFIX):\n        path = path.rstrip(\"/\")\n        local_path = os.path.join(TMP_FILE_PATH, os.path.split(path)[-1])\n        return local_path\n    return path\ndef cache_gcs_resource_locally(path: str) -> str:\n    if path.startswith(GCS_PREFIX):\n        local_path = convert_gcs_path_to_local_path(path)\n        if os.path.exists(local_path):",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "cache_gcs_resource_locally",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def cache_gcs_resource_locally(path: str) -> str:\n    if path.startswith(GCS_PREFIX):\n        local_path = convert_gcs_path_to_local_path(path)\n        if os.path.exists(local_path):\n            return local_path\n        if is_dir(path):\n            os.makedirs(local_path, exist_ok=True)\n            copy_dir(path, local_path)\n        else:\n            copy_file(path, local_path)",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "translate_gcs_dir_to_local",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "def translate_gcs_dir_to_local(path: str) -> str:\n    if path.startswith(GCS_PREFIX):\n        path = path.rstrip(\"/\")\n        local_path = os.path.join(TMP_FILE_PATH, os.path.split(path)[-1])\n        os.makedirs(local_path, exist_ok=True)\n        copy_dir(path, local_path)\n        return local_path\n    return path",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "GCS_PREFIX",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "GCS_PREFIX = \"gs://\"\nGCS_FILE_SYSTEM_NAME = \"gcs\"\nLOCAL_FILE_SYSTEM_NAME = \"file\"\nTMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "GCS_FILE_SYSTEM_NAME",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "GCS_FILE_SYSTEM_NAME = \"gcs\"\nLOCAL_FILE_SYSTEM_NAME = \"file\"\nTMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "LOCAL_FILE_SYSTEM_NAME",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "LOCAL_FILE_SYSTEM_NAME = \"file\"\nTMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TMP_FILE_PATH",
+        "kind": 5,
+        "importPath": "bullyguard.models.common.io_utils",
+        "description": "bullyguard.models.common.io_utils",
+        "peekOfCode": "TMP_FILE_PATH = \"/tmp/\"\ndef choose_file_system(path: str) -> AbstractFileSystem:\n    return filesystem(GCS_FILE_SYSTEM_NAME) if path.startswith(GCS_PREFIX) else filesystem(LOCAL_FILE_SYSTEM_NAME)\ndef open_file(path: str, mode: str = \"r\") -> Any:\n    file_system = choose_file_system(path)\n    return file_system.open(path, mode)\ndef write_yaml_file(yaml_file_path: str, yaml_file_content: dict[Any, Any]) -> None:\n    with open_file(yaml_file_path, \"w\") as yaml_file:\n        yaml.dump(yaml_file_content, yaml_file)\ndef is_dir(path: str) -> bool:",
+        "detail": "bullyguard.models.common.io_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_local_rank",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
+        "peekOfCode": "def get_local_rank() -> int:\n    return int(os.getenv(\"LOCAL_RANK\", -1))\ndef get_global_rank() -> int:\n    return int(os.getenv(\"RANK\", get_local_rank()))\n@contextmanager\ndef local_rank_zero_first() -> Generator[None, None, None]:\n    if not torch.distributed.is_initialized() and os.getenv(\"RANK\") is not None:\n        raise RuntimeError(\"RANK is set but torch.distributed is not initialized\")\n    if torch.distributed.is_initialized():\n        rank = get_local_rank()",
+        "detail": "bullyguard.models.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_global_rank",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
+        "peekOfCode": "def get_global_rank() -> int:\n    return int(os.getenv(\"RANK\", get_local_rank()))\n@contextmanager\ndef local_rank_zero_first() -> Generator[None, None, None]:\n    if not torch.distributed.is_initialized() and os.getenv(\"RANK\") is not None:\n        raise RuntimeError(\"RANK is set but torch.distributed is not initialized\")\n    if torch.distributed.is_initialized():\n        rank = get_local_rank()\n        if rank not in [-1, 0]:\n            torch.distributed.barrier()  # type: ignore",
+        "detail": "bullyguard.models.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "local_rank_zero_first",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
+        "peekOfCode": "def local_rank_zero_first() -> Generator[None, None, None]:\n    if not torch.distributed.is_initialized() and os.getenv(\"RANK\") is not None:\n        raise RuntimeError(\"RANK is set but torch.distributed is not initialized\")\n    if torch.distributed.is_initialized():\n        rank = get_local_rank()\n        if rank not in [-1, 0]:\n            torch.distributed.barrier()  # type: ignore\n        yield\n        if rank == 0:\n            torch.distributed.barrier()  # type: ignore",
+        "detail": "bullyguard.models.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "global_rank_zero_first",
+        "kind": 2,
+        "importPath": "bullyguard.models.common.utils",
+        "description": "bullyguard.models.common.utils",
+        "peekOfCode": "def global_rank_zero_first() -> Generator[None, None, None]:\n    if not torch.distributed.is_initialized() and os.getenv(\"RANK\") is not None:\n        raise RuntimeError(\"RANK is set but torch.distributed is not initialized\")\n    if torch.distributed.is_initialized():\n        rank = get_global_rank()\n        if rank not in [-1, 0]:\n            torch.distributed.barrier()  # type: ignore\n        yield\n        if rank == 0:\n            torch.distributed.barrier()  # type: ignore",
+        "detail": "bullyguard.models.common.utils",
         "documentation": {}
     },
     {
@@ -2967,11 +3451,38 @@
         "documentation": {}
     },
     {
+        "label": "Transformation",
+        "kind": 6,
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
+        "peekOfCode": "class Transformation(ABC):\n    @abstractmethod\n    def __call__(self, texts: list[str]) -> BatchEncoding:\n        ...\nclass HuggingFaceTokenizationTransformation(Transformation):\n    def __init__(self, pretrained_tokenizer_name_or_path: str, max_sequence_length: int) -> None:\n        super().__init__()\n        self.max_sequence_length = max_sequence_length\n        self.tokenizer = self.get_tokenizer(pretrained_tokenizer_name_or_path)\n    def __call__(self, texts: list[str]) -> BatchEncoding:",
+        "detail": "bullyguard.models.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceTokenizationTransformation",
+        "kind": 6,
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
+        "peekOfCode": "class HuggingFaceTokenizationTransformation(Transformation):\n    def __init__(self, pretrained_tokenizer_name_or_path: str, max_sequence_length: int) -> None:\n        super().__init__()\n        self.max_sequence_length = max_sequence_length\n        self.tokenizer = self.get_tokenizer(pretrained_tokenizer_name_or_path)\n    def __call__(self, texts: list[str]) -> BatchEncoding:\n        output: BatchEncoding = self.tokenizer.batch_encode_plus(\n            texts, truncation=True, padding=True, return_tensors=\"pt\", max_length=self.max_sequence_length\n        )\n        return output",
+        "detail": "bullyguard.models.transformations",
+        "documentation": {}
+    },
+    {
         "label": "TrainingLightningModule",
         "kind": 6,
         "importPath": "bullyguard.training.lightning_modules.bases",
         "description": "bullyguard.training.lightning_modules.bases",
         "peekOfCode": "class TrainingLightningModule(LightningModule):\n    def __init__(\n        self,\n        model: Model,\n        loss: LossFunction,\n        optimizer: PartialOptimizerType,\n        scheduler: Optional[LightningScheduler] = None,\n    ) -> None:\n        super().__init__()\n        self.model = model",
+        "detail": "bullyguard.training.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "ModelStateDictExportingTrainingLightningModule",
+        "kind": 6,
+        "importPath": "bullyguard.training.lightning_modules.bases",
+        "description": "bullyguard.training.lightning_modules.bases",
+        "peekOfCode": "class ModelStateDictExportingTrainingLightningModule(TrainingLightningModule):\n    @abstractmethod\n    def export_model_state_dict(self, checkpoint_path: str) -> str:\n        \"\"\"\n        Export model state dict from LightningModule checkpoint and save it\n        to the same location as the checkpoint_path, and return the save path\n        \"\"\"\n    def common_export_model_state_dict(self, checkpoint_path: str) -> str:\n        with open_file(checkpoint_path, \"rb\") as f:\n            state_dict = torch.load(f, map_location=torch.device(\"cpu\"), weights_only=False)[\"state_dict\"]",
         "detail": "bullyguard.training.lightning_modules.bases",
         "documentation": {}
     },
@@ -2989,7 +3500,7 @@
         "kind": 6,
         "importPath": "bullyguard.training.lightning_modules.binary_text_classification",
         "description": "bullyguard.training.lightning_modules.binary_text_classification",
-        "peekOfCode": "class BinaryTextClassificationTrainingLightningModule(TrainingLightningModule):\n    def __init__(\n        self,\n        model: Model,\n        loss: LossFunction,\n        optimizer: PartialOptimizerType,\n        scheduler: Optional[LightningScheduler] = None,\n    ) -> None:\n        super().__init__(model=model, loss=loss, optimizer=optimizer, scheduler=scheduler)\n        self.training_accuracy = BinaryAccuracy()",
+        "peekOfCode": "class BinaryTextClassificationTrainingLightningModule(ModelStateDictExportingTrainingLightningModule):\n    def __init__(\n        self,\n        model: Model,\n        loss: LossFunction,\n        optimizer: PartialOptimizerType,\n        scheduler: Optional[LightningScheduler] = None,\n    ) -> None:\n        super().__init__(model=model, loss=loss, optimizer=optimizer, scheduler=scheduler)\n        self.training_accuracy = BinaryAccuracy()",
         "detail": "bullyguard.training.lightning_modules.binary_text_classification",
         "documentation": {}
     },
@@ -3009,6 +3520,15 @@
         "description": "bullyguard.training.tasks.common_training_task",
         "peekOfCode": "class CommonTrainingTask(TrainingTask):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: TrainingLightningModule,\n        trainer: Trainer,\n        best_training_checkpoint: str,\n        last_training_checkpoint: str,\n    ) -> None:",
         "detail": "bullyguard.training.tasks.common_training_task",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelExportingTrainingTask",
+        "kind": 6,
+        "importPath": "bullyguard.training.tasks.tar_model_exporting_training_task",
+        "description": "bullyguard.training.tasks.tar_model_exporting_training_task",
+        "peekOfCode": "class TarModelExportingTrainingTask(TrainingTask):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: ModelStateDictExportingTrainingLightningModule,\n        trainer: Trainer,\n        best_training_checkpoint: str,\n        last_training_checkpoint: str,\n        tar_model_export_path: str,",
+        "detail": "bullyguard.training.tasks.tar_model_exporting_training_task",
         "documentation": {}
     },
     {

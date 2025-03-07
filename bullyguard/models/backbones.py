@@ -2,7 +2,7 @@ from torch import nn
 from transformers import AutoConfig, AutoModel, BatchEncoding
 from transformers.modeling_outputs import BaseModelOutputWithPooling
 
-from bullyguard.data_modules.transformations import Transformation
+from bullyguard.models.transformations import Transformation
 from bullyguard.utils.io_utils import translate_gcs_dir_to_local
 
 

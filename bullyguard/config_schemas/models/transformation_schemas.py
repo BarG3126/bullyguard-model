@@ -15,7 +15,7 @@ class TransformationConfig(LoggableParamsMixin):
 
 @dataclass
 class HuggingFaceTokenizationTransformationConfig(TransformationConfig):
-    _target_: str = "bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation"
+    _target_: str = "bullyguard.models.transformations.HuggingFaceTokenizationTransformation"
     pretrained_tokenizer_name_or_path: str = MISSING
     max_sequence_length: int = MISSING
 

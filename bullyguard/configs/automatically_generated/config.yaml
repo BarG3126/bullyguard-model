@@ -21,15 +21,15 @@ infrastructure:
     mlflow_internal_tracking_uri: http://127.0.0.1:6101
     experiment_name: Default
     run_name: null
-    run_id: 3951f7f750514180a3bc458228592859
+    run_id: 8ce1e9010cd4408ca3cf189b622b0d1f
     experiment_id: '0'
-    experiment_url: http://127.0.0.1:6101/#/experiments/0/runs/3951f7f750514180a3bc458228592859
-    artifact_uri: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts
+    experiment_url: http://127.0.0.1:6101/#/experiments/0/runs/8ce1e9010cd4408ca3cf189b622b0d1f
+    artifact_uri: /mlflow-artifact-store/0/8ce1e9010cd4408ca3cf189b622b0d1f/artifacts
 save_last_checkpoint_every_n_train_steps: 500
 seed: 1234
 tasks:
   binary_text_classification_task:
-    _target_: bullyguard.training.tasks.common_training_task.CommonTrainingTask
+    _target_: bullyguard.training.tasks.tar_model_exporting_training_task.TarModelExportingTrainingTask
     name: binary_text_classfication_task
     data_module:
       _target_: bullyguard.data_modules.data_modules.TextClassificationDataModule
@@ -43,7 +43,7 @@ tasks:
       dev_df_path: gs://bullyguard/data/processed/rebalanced_splits/dev.parquet
       test_df_path: gs://bullyguard/data/processed/rebalanced_splits/test.parquet
       transformation:
-        _target_: bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation
+        _target_: bullyguard.models.transformations.HuggingFaceTokenizationTransformation
         pretrained_tokenizer_name_or_path: gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer
         max_sequence_length: 200
       text_column_name: cleaned_text
@@ -55,7 +55,7 @@ tasks:
         backbone:
           _target_: bullyguard.models.backbones.HuggingFaceBackbone
           transformation:
-            _target_: bullyguard.data_modules.transformations.HuggingFaceTokenizationTransformation
+            _target_: bullyguard.models.transformations.HuggingFaceTokenizationTransformation
             pretrained_tokenizer_name_or_path: gs://bullyguard/data/processed/rebalanced_splits/trained_tokenizer
             max_sequence_length: 200
           pretrained_model_name_or_path: prajjwal1/bert-tiny
@@ -127,10 +127,10 @@ tasks:
         save_dir: null
         prefix: ''
         artifact_location: null
-        run_id: 3951f7f750514180a3bc458228592859
+        run_id: 8ce1e9010cd4408ca3cf189b622b0d1f
       callbacks:
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/best-checkpoints/
+        dirpath: /mlflow-artifact-store/0/8ce1e9010cd4408ca3cf189b622b0d1f/artifacts/best-checkpoints/
         filename: null
         monitor: validation_f1_score
         verbose: false
@@ -144,7 +144,7 @@ tasks:
         every_n_epochs: null
         save_on_train_epoch_end: null
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/last-checkpoints/
+        dirpath: /mlflow-artifact-store/0/8ce1e9010cd4408ca3cf189b622b0d1f/artifacts/last-checkpoints/
         filename: checkpoint-{epoch}
         monitor: null
         verbose: false
@@ -189,5 +189,6 @@ tasks:
       sync_batchnorm: true
       reload_dataloaders_every_n_epochs: 0
       default_root_dir: ./data/pytorch-lightning
-    best_training_checkpoint: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/best-checkpoints/best.ckpt
-    last_training_checkpoint: /mlflow-artifact-store/0/3951f7f750514180a3bc458228592859/artifacts/last-checkpoints/last.ckpt
+    best_training_checkpoint: /mlflow-artifact-store/0/8ce1e9010cd4408ca3cf189b622b0d1f/artifacts/best-checkpoints/last.ckpt
+    last_training_checkpoint: /mlflow-artifact-store/0/8ce1e9010cd4408ca3cf189b622b0d1f/artifacts/last-checkpoints/last.ckpt
+    tar_model_export_path: /mlflow-artifact-store/0/8ce1e9010cd4408ca3cf189b622b0d1f/artifacts/exported_model.tar.gz

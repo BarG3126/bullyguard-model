@@ -4,7 +4,7 @@ from typing import Optional
 from torch import Tensor, nn
 from transformers import BatchEncoding
 
-from bullyguard.data_modules.transformations import Transformation
+from bullyguard.models.transformations import Transformation
 from bullyguard.models.adapters import Adapter
 from bullyguard.models.backbones import Backbone
 from bullyguard.models.heads import Head
