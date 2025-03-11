@@ -13,6 +13,7 @@ if TYPE_CHECKING:
 
 @get_config_and_dict_config(config_path="../configs", config_name="config")
 def generate_final_config(config: "Config", dict_config: DictConfig) -> None:
+
     with activate_mlflow(
         config.infrastructure.mlflow.experiment_name,
         run_id=config.infrastructure.mlflow.run_id,

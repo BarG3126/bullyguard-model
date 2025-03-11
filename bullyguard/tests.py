@@ -16,30 +16,37 @@
 # print(output)
 # print(output.shape)
 
-import hydra
+# import hydra
 
-from hydra.utils import instantiate
-from omegaconf import DictConfig, OmegaConf
+# from hydra.utils import instantiate
+# from omegaconf import DictConfig, OmegaConf
 
 from bullyguard.config_schemas.training.training_task_schemas import setup_config
+from bullyguard.models.common.exporter import TarModelLoader
 
 setup_config()
 
 
-@hydra.main(config_name="test_training_task", version_base=None)
-def main(config: DictConfig) -> None:
-    print(60 * "#")
-    print(OmegaConf.to_yaml(config))
-    print(60 * "#")
+# @hydra.main(config_name="test_training_task", version_base=None)
+# def main(config: DictConfig) -> None:
+#     print(60 * "#")
+#     print(OmegaConf.to_yaml(config))
+#     print(60 * "#")
 
-    # model = instantiate(config)
-    # print(model)
+#     # model = instantiate(config)
+#     # print(model)
 
-    # texts = ["hello, how are you?"]
-    # encodings = model.backbone.transformation(texts)
+#     # texts = ["hello, how are you?"]
+#     # encodings = model.backbone.transformation(texts)
 
-    # output = model(encodings)
-    # print(f"{output.shape=}")
+#     # output = model(encodings)
+#     # print(f"{output.shape=}")
+
+def main() -> None:
+    model_loader = TarModelLoader("/mlflow-artifact-store/0/f161d7e33b494bed8ef184a823a60585/artifacts/exported_model.tar.gz")
+    model = model_loader.load()
+
+    print(model)
 
 
 if __name__ == "__main__":

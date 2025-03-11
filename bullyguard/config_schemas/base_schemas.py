@@ -8,7 +8,7 @@ from bullyguard.utils.mixins import LoggableParamsMixin
 
 
 @dataclass
-class LightningModuleConfig:
+class LightningModuleConfig(LoggableParamsMixin):
     _target_: str = MISSING
 
 

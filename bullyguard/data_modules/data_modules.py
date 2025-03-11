@@ -6,7 +6,7 @@ from torch.utils.data import BatchSampler, DataLoader, Dataset, Sampler, default
 from transformers import BatchEncoding
 
 from bullyguard.data_modules.datasets import TextClassificationDataset
-from bullyguard.models.transformations import HuggingFaceTokenizationTransformation
+from bullyguard.models.transformations import HuggingFaceTokenizationTransformation, Transformation
 
 
 class DataModule(LightningDataModule):
@@ -50,7 +50,7 @@ class DataModule(LightningDataModule):
 
 
 class PartialDataModuleType(Protocol):
-    def __call__(self, transformation: HuggingFaceTokenizationTransformation) -> DataModule:
+    def __call__(self, transformation: Transformation) -> DataModule:
         ...
 
 

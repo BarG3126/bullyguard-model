@@ -17,86 +17,6 @@
         "documentation": {}
     },
     {
-        "label": "field",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "field",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "field",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
         "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
@@ -129,7 +49,23 @@
         "documentation": {}
     },
     {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
         "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
         "importPath": "dataclasses",
         "description": "dataclasses",
         "isExtraImport": true,
@@ -177,139 +113,99 @@
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "omegaconf",
         "documentation": {}
     },
     {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
         "isExtraImport": true,
-        "detail": "hydra.core.config_store",
-        "documentation": {}
-    },
-    {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
-        "isExtraImport": true,
-        "detail": "hydra.core.config_store",
-        "documentation": {}
-    },
-    {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
-        "isExtraImport": true,
-        "detail": "hydra.core.config_store",
-        "documentation": {}
-    },
-    {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
-        "isExtraImport": true,
-        "detail": "hydra.core.config_store",
-        "documentation": {}
-    },
-    {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
-        "isExtraImport": true,
-        "detail": "hydra.core.config_store",
-        "documentation": {}
-    },
-    {
-        "label": "ConfigStore",
-        "importPath": "hydra.core.config_store",
-        "description": "hydra.core.config_store",
-        "isExtraImport": true,
-        "detail": "hydra.core.config_store",
+        "detail": "omegaconf",
         "documentation": {}
     },
     {
@@ -521,19 +417,19 @@
         "documentation": {}
     },
     {
-        "label": "DictConfig",
-        "importPath": "omegaconf",
-        "description": "omegaconf",
+        "label": "LightningModuleConfig",
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
         "isExtraImport": true,
-        "detail": "omegaconf",
+        "detail": "bullyguard.config_schemas.base_schemas",
         "documentation": {}
     },
     {
-        "label": "OmegaConf",
-        "importPath": "omegaconf",
-        "description": "omegaconf",
+        "label": "TaskConfig",
+        "importPath": "bullyguard.config_schemas.base_schemas",
+        "description": "bullyguard.config_schemas.base_schemas",
         "isExtraImport": true,
-        "detail": "omegaconf",
+        "detail": "bullyguard.config_schemas.base_schemas",
         "documentation": {}
     },
     {
@@ -569,6 +465,150 @@
         "documentation": {}
     },
     {
+        "label": "evaluation_lightning_module_schemas",
+        "importPath": "bullyguard.config_schemas.evaluation",
+        "description": "bullyguard.config_schemas.evaluation",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
         "label": "Config",
         "importPath": "bullyguard.config_schemas.config_schema",
         "description": "bullyguard.config_schemas.config_schema",
@@ -598,6 +638,14 @@
         "description": "bullyguard.config_schemas.training.training_task_schemas",
         "isExtraImport": true,
         "detail": "bullyguard.config_schemas.training.training_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultCommonEvaluationTaskConfig",
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
         "documentation": {}
     },
     {
@@ -706,6 +754,54 @@
     },
     {
         "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -1313,6 +1409,30 @@
         "documentation": {}
     },
     {
+        "label": "LightningModule",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "lightning.pytorch",
+        "description": "lightning.pytorch",
+        "isExtraImport": true,
+        "detail": "lightning.pytorch",
+        "documentation": {}
+    },
+    {
         "label": "Trainer",
         "importPath": "lightning.pytorch",
         "description": "lightning.pytorch",
@@ -1326,6 +1446,22 @@
         "isExtraImport": true,
         "importPath": "torch",
         "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
         "detail": "torch",
         "documentation": {}
     },
@@ -1498,6 +1634,14 @@
         "documentation": {}
     },
     {
+        "label": "BatchEncoding",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
         "label": "AutoConfig",
         "importPath": "transformers",
         "description": "transformers",
@@ -1610,12 +1754,453 @@
         "documentation": {}
     },
     {
+        "label": "Transformation",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.transformations",
+        "documentation": {}
+    },
+    {
+        "label": "Transformation",
+        "importPath": "bullyguard.models.transformations",
+        "description": "bullyguard.models.transformations",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.transformations",
+        "documentation": {}
+    },
+    {
         "label": "pandas",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "pandas",
         "description": "pandas",
         "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bullyguard.models.models",
+        "description": "bullyguard.models.models",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow",
+        "description": "mlflow",
+        "detail": "mlflow",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryAccuracy",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryConfusionMatrix",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryF1Score",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryAccuracy",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryConfusionMatrix",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryF1Score",
+        "importPath": "torchmetrics.classification",
+        "description": "torchmetrics.classification",
+        "isExtraImport": true,
+        "detail": "torchmetrics.classification",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_local_rank",
+        "importPath": "bullyguard.utils.torch_utils",
+        "description": "bullyguard.utils.torch_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.torch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationLightningModule",
+        "importPath": "bullyguard.evaluation.lightning_modules.bases",
+        "description": "bullyguard.evaluation.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.evaluation.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationLightningModule",
+        "importPath": "bullyguard.evaluation.lightning_modules.bases",
+        "description": "bullyguard.evaluation.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.evaluation.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "PartialEvaluationLightningModuleType",
+        "importPath": "bullyguard.evaluation.lightning_modules.bases",
+        "description": "bullyguard.evaluation.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.evaluation.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "PartialEvaluationLightningModuleType",
+        "importPath": "bullyguard.evaluation.lightning_modules.bases",
+        "description": "bullyguard.evaluation.lightning_modules.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.evaluation.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "DataModule",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "PartialDataModuleType",
+        "importPath": "bullyguard.data_modules.data_modules",
+        "description": "bullyguard.data_modules.data_modules",
+        "isExtraImport": true,
+        "detail": "bullyguard.data_modules.data_modules",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelLoader",
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelExporter",
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelLoader",
+        "importPath": "bullyguard.models.common.exporter",
+        "description": "bullyguard.models.common.exporter",
+        "isExtraImport": true,
+        "detail": "bullyguard.models.common.exporter",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_artifacts_for_reproducibility",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_artifacts_for_reproducibility",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_training_hparams",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelEvaluationTask",
+        "importPath": "bullyguard.evaluation.tasks.bases",
+        "description": "bullyguard.evaluation.tasks.bases",
+        "isExtraImport": true,
+        "detail": "bullyguard.evaluation.tasks.bases",
         "documentation": {}
     },
     {
@@ -1652,14 +2237,6 @@
         "importPath": "tempfile",
         "description": "tempfile",
         "detail": "tempfile",
-        "documentation": {}
-    },
-    {
-        "label": "instantiate",
-        "importPath": "hydra.utils",
-        "description": "hydra.utils",
-        "isExtraImport": true,
-        "detail": "hydra.utils",
         "documentation": {}
     },
     {
@@ -1913,70 +2490,6 @@
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
         "label": "Adapter",
         "importPath": "bullyguard.models.adapters",
         "description": "bullyguard.models.adapters",
@@ -2017,22 +2530,6 @@
         "documentation": {}
     },
     {
-        "label": "Model",
-        "importPath": "bullyguard.models.models",
-        "description": "bullyguard.models.models",
-        "isExtraImport": true,
-        "detail": "bullyguard.models.models",
-        "documentation": {}
-    },
-    {
-        "label": "Model",
-        "importPath": "bullyguard.models.models",
-        "description": "bullyguard.models.models",
-        "isExtraImport": true,
-        "detail": "bullyguard.models.models",
-        "documentation": {}
-    },
-    {
         "label": "LossFunction",
         "importPath": "bullyguard.training.loss_functions",
         "description": "bullyguard.training.loss_functions",
@@ -2062,47 +2559,6 @@
         "description": "bullyguard.training.schedulers",
         "isExtraImport": true,
         "detail": "bullyguard.training.schedulers",
-        "documentation": {}
-    },
-    {
-        "label": "defaultdict",
-        "importPath": "collections",
-        "description": "collections",
-        "isExtraImport": true,
-        "detail": "collections",
-        "documentation": {}
-    },
-    {
-        "label": "mlflow",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "mlflow",
-        "description": "mlflow",
-        "detail": "mlflow",
-        "documentation": {}
-    },
-    {
-        "label": "BinaryAccuracy",
-        "importPath": "torchmetrics.classification",
-        "description": "torchmetrics.classification",
-        "isExtraImport": true,
-        "detail": "torchmetrics.classification",
-        "documentation": {}
-    },
-    {
-        "label": "BinaryConfusionMatrix",
-        "importPath": "torchmetrics.classification",
-        "description": "torchmetrics.classification",
-        "isExtraImport": true,
-        "detail": "torchmetrics.classification",
-        "documentation": {}
-    },
-    {
-        "label": "BinaryF1Score",
-        "importPath": "torchmetrics.classification",
-        "description": "torchmetrics.classification",
-        "isExtraImport": true,
-        "detail": "torchmetrics.classification",
         "documentation": {}
     },
     {
@@ -2146,22 +2602,6 @@
         "documentation": {}
     },
     {
-        "label": "plot_confusion_matrix",
-        "importPath": "bullyguard.utils.torch_utils",
-        "description": "bullyguard.utils.torch_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.torch_utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_local_rank",
-        "importPath": "bullyguard.utils.torch_utils",
-        "description": "bullyguard.utils.torch_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.torch_utils",
-        "documentation": {}
-    },
-    {
         "label": "partial",
         "importPath": "functools",
         "description": "functools",
@@ -2170,54 +2610,6 @@
         "documentation": {}
     },
     {
-        "label": "DataModule",
-        "importPath": "bullyguard.data_modules.data_modules",
-        "description": "bullyguard.data_modules.data_modules",
-        "isExtraImport": true,
-        "detail": "bullyguard.data_modules.data_modules",
-        "documentation": {}
-    },
-    {
-        "label": "PartialDataModuleType",
-        "importPath": "bullyguard.data_modules.data_modules",
-        "description": "bullyguard.data_modules.data_modules",
-        "isExtraImport": true,
-        "detail": "bullyguard.data_modules.data_modules",
-        "documentation": {}
-    },
-    {
-        "label": "DataModule",
-        "importPath": "bullyguard.data_modules.data_modules",
-        "description": "bullyguard.data_modules.data_modules",
-        "isExtraImport": true,
-        "detail": "bullyguard.data_modules.data_modules",
-        "documentation": {}
-    },
-    {
-        "label": "PartialDataModuleType",
-        "importPath": "bullyguard.data_modules.data_modules",
-        "description": "bullyguard.data_modules.data_modules",
-        "isExtraImport": true,
-        "detail": "bullyguard.data_modules.data_modules",
-        "documentation": {}
-    },
-    {
-        "label": "DataModule",
-        "importPath": "bullyguard.data_modules.data_modules",
-        "description": "bullyguard.data_modules.data_modules",
-        "isExtraImport": true,
-        "detail": "bullyguard.data_modules.data_modules",
-        "documentation": {}
-    },
-    {
-        "label": "PartialDataModuleType",
-        "importPath": "bullyguard.data_modules.data_modules",
-        "description": "bullyguard.data_modules.data_modules",
-        "isExtraImport": true,
-        "detail": "bullyguard.data_modules.data_modules",
-        "documentation": {}
-    },
-    {
         "label": "TrainingTask",
         "importPath": "bullyguard.training.tasks.bases",
         "description": "bullyguard.training.tasks.bases",
@@ -2231,62 +2623,6 @@
         "description": "bullyguard.training.tasks.bases",
         "isExtraImport": true,
         "detail": "bullyguard.training.tasks.bases",
-        "documentation": {}
-    },
-    {
-        "label": "activate_mlflow",
-        "importPath": "bullyguard.utils.mlflow_utils",
-        "description": "bullyguard.utils.mlflow_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.mlflow_utils",
-        "documentation": {}
-    },
-    {
-        "label": "log_artifacts_for_reproducibility",
-        "importPath": "bullyguard.utils.mlflow_utils",
-        "description": "bullyguard.utils.mlflow_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.mlflow_utils",
-        "documentation": {}
-    },
-    {
-        "label": "activate_mlflow",
-        "importPath": "bullyguard.utils.mlflow_utils",
-        "description": "bullyguard.utils.mlflow_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.mlflow_utils",
-        "documentation": {}
-    },
-    {
-        "label": "log_artifacts_for_reproducibility",
-        "importPath": "bullyguard.utils.mlflow_utils",
-        "description": "bullyguard.utils.mlflow_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.mlflow_utils",
-        "documentation": {}
-    },
-    {
-        "label": "activate_mlflow",
-        "importPath": "bullyguard.utils.mlflow_utils",
-        "description": "bullyguard.utils.mlflow_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.mlflow_utils",
-        "documentation": {}
-    },
-    {
-        "label": "log_training_hparams",
-        "importPath": "bullyguard.utils.mlflow_utils",
-        "description": "bullyguard.utils.mlflow_utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.mlflow_utils",
-        "documentation": {}
-    },
-    {
-        "label": "TarModelExporter",
-        "importPath": "bullyguard.models.common.exporter",
-        "description": "bullyguard.models.common.exporter",
-        "isExtraImport": true,
-        "detail": "bullyguard.models.common.exporter",
         "documentation": {}
     },
     {
@@ -2425,11 +2761,74 @@
         "documentation": {}
     },
     {
+        "label": "EvaluationLightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "peekOfCode": "class EvaluationLightningModuleConfig(LightningModuleConfig):\n    _target_: str = MISSING\n    _partial_: bool = False\n    def loggable_params(self) -> list[str]:\n        return [\"_target_\"]\n@dataclass\nclass PartialEvaluationLightningModuleConfig(EvaluationLightningModuleConfig):\n    _partial_: bool = True\n@dataclass\nclass BinaryTextEvaluationLightningModuleConfig(PartialEvaluationLightningModuleConfig):",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PartialEvaluationLightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "peekOfCode": "class PartialEvaluationLightningModuleConfig(EvaluationLightningModuleConfig):\n    _partial_: bool = True\n@dataclass\nclass BinaryTextEvaluationLightningModuleConfig(PartialEvaluationLightningModuleConfig):\n    _target_: str = \"bullyguard.evaluation.lightning_modules.binary_text_evaluation.BinaryTextEvaluationLightningModule\"",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryTextEvaluationLightningModuleConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "peekOfCode": "class BinaryTextEvaluationLightningModuleConfig(PartialEvaluationLightningModuleConfig):\n    _target_: str = \"bullyguard.evaluation.lightning_modules.binary_text_evaluation.BinaryTextEvaluationLightningModule\"",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_lightning_module_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "peekOfCode": "class EvaluationTaskConfig(TaskConfig):\n    pass\n@dataclass\nclass TarModelEvaluationTaskConfig(EvaluationTaskConfig):\n    tar_model_path: str = MISSING\n    lightning_module: evaluation_lightning_module_schemas.PartialEvaluationLightningModuleConfig = MISSING\n@dataclass\nclass CommonEvaluationTaskConfig(TarModelEvaluationTaskConfig):\n    _target_: str = \"bullyguard.evaluation.tasks.common_evaluation_task.CommonEvaluationTask\"\n@dataclass",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelEvaluationTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "peekOfCode": "class TarModelEvaluationTaskConfig(EvaluationTaskConfig):\n    tar_model_path: str = MISSING\n    lightning_module: evaluation_lightning_module_schemas.PartialEvaluationLightningModuleConfig = MISSING\n@dataclass\nclass CommonEvaluationTaskConfig(TarModelEvaluationTaskConfig):\n    _target_: str = \"bullyguard.evaluation.tasks.common_evaluation_task.CommonEvaluationTask\"\n@dataclass\nclass DefaultCommonEvaluationTaskConfig(CommonEvaluationTaskConfig):\n    name: str = \"binary_text_evaluation_task\"\n    lightning_module: evaluation_lightning_module_schemas.PartialEvaluationLightningModuleConfig = evaluation_lightning_module_schemas.BinaryTextEvaluationLightningModuleConfig()",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CommonEvaluationTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "peekOfCode": "class CommonEvaluationTaskConfig(TarModelEvaluationTaskConfig):\n    _target_: str = \"bullyguard.evaluation.tasks.common_evaluation_task.CommonEvaluationTask\"\n@dataclass\nclass DefaultCommonEvaluationTaskConfig(CommonEvaluationTaskConfig):\n    name: str = \"binary_text_evaluation_task\"\n    lightning_module: evaluation_lightning_module_schemas.PartialEvaluationLightningModuleConfig = evaluation_lightning_module_schemas.BinaryTextEvaluationLightningModuleConfig()",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultCommonEvaluationTaskConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "peekOfCode": "class DefaultCommonEvaluationTaskConfig(CommonEvaluationTaskConfig):\n    name: str = \"binary_text_evaluation_task\"\n    lightning_module: evaluation_lightning_module_schemas.PartialEvaluationLightningModuleConfig = evaluation_lightning_module_schemas.BinaryTextEvaluationLightningModuleConfig()",
+        "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "documentation": {}
+    },
+    {
         "label": "LocalBertExperiment",
         "kind": 6,
         "importPath": "bullyguard.config_schemas.experiment.bert.local_bert",
         "description": "bullyguard.config_schemas.experiment.bert.local_bert",
-        "peekOfCode": "class LocalBertExperiment(Config):\n    tasks: dict[str, TaskConfig] = field(\n        default_factory=lambda: {\n            \"binary_text_classification_task\": DefaultCommonTrainingTaskConfig(),\n        }\n    )\nFinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([]),\n)",
+        "peekOfCode": "class LocalBertExperiment(Config):\n    tasks: dict[str, TaskConfig] = field(\n        default_factory=lambda: {\n            \"binary_text_classification_task\": DefaultCommonTrainingTaskConfig(),\n            \"binary_text_evaluation_task\": DefaultCommonEvaluationTaskConfig(),\n        }\n    )\nFinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([",
         "detail": "bullyguard.config_schemas.experiment.bert.local_bert",
         "documentation": {}
     },
@@ -2438,7 +2837,7 @@
         "kind": 5,
         "importPath": "bullyguard.config_schemas.experiment.bert.local_bert",
         "description": "bullyguard.config_schemas.experiment.bert.local_bert",
-        "peekOfCode": "FinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([]),\n)\ncs = ConfigStore.instance()\ncs.store(name=\"local_bert\", group=\"experiment/bert\", node=FinalLocalBertExperiment, package=\"_global_\")",
+        "peekOfCode": "FinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([\n        \"tasks.binary_text_evaluation_task.tar_model_path=${tasks.binary_text_classification_task.tar_model_export_path}\",\n        \"tasks.binary_text_evaluation_task.data_module=${tasks.binary_text_classification_task.data_module}\",\n        \"tasks.binary_text_evaluation_task.trainer=${tasks.binary_text_classification_task.trainer}\",\n    ]),\n)\ncs = ConfigStore.instance()\ncs.store(name=\"local_bert\", group=\"experiment/bert\", node=FinalLocalBertExperiment, package=\"_global_\")",
         "detail": "bullyguard.config_schemas.experiment.bert.local_bert",
         "documentation": {}
     },
@@ -2978,7 +3377,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.base_schemas",
         "description": "bullyguard.config_schemas.base_schemas",
-        "peekOfCode": "class LightningModuleConfig:\n    _target_: str = MISSING\n@dataclass\nclass TaskConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING\n    def loggable_params(self) -> list[str]:",
+        "peekOfCode": "class LightningModuleConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n@dataclass\nclass TaskConfig(LoggableParamsMixin):\n    _target_: str = MISSING\n    name: str = MISSING\n    data_module: DataModuleConfig = MISSING\n    lightning_module: LightningModuleConfig = MISSING\n    trainer: TrainerConfig = MISSING\n    def loggable_params(self) -> list[str]:",
         "detail": "bullyguard.config_schemas.base_schemas",
         "documentation": {}
     },
@@ -3059,7 +3458,7 @@
         "kind": 6,
         "importPath": "bullyguard.data_modules.data_modules",
         "description": "bullyguard.data_modules.data_modules",
-        "peekOfCode": "class PartialDataModuleType(Protocol):\n    def __call__(self, transformation: HuggingFaceTokenizationTransformation) -> DataModule:\n        ...\nclass TextClassificationDataModule(DataModule):\n    def __init__(\n        self,\n        train_df_path: str,\n        dev_df_path: str,\n        test_df_path: str,\n        transformation: HuggingFaceTokenizationTransformation,",
+        "peekOfCode": "class PartialDataModuleType(Protocol):\n    def __call__(self, transformation: Transformation) -> DataModule:\n        ...\nclass TextClassificationDataModule(DataModule):\n    def __init__(\n        self,\n        train_df_path: str,\n        dev_df_path: str,\n        test_df_path: str,\n        transformation: HuggingFaceTokenizationTransformation,",
         "detail": "bullyguard.data_modules.data_modules",
         "documentation": {}
     },
@@ -3079,6 +3478,60 @@
         "description": "bullyguard.data_modules.datasets",
         "peekOfCode": "class TextClassificationDataset(Dataset):\n    def __init__(self, df_path: str, text_column_name: str, label_column_name: str) -> None:\n        super().__init__()\n        self.df = pd.read_parquet(df_path)\n        self.text_column_name = text_column_name\n        self.label_column_name = label_column_name\n    def __getitem__(self, idx: int) -> tuple[str, Tensor]:\n        row = self.df.iloc[idx]\n        text = row[self.text_column_name]\n        label = row[self.label_column_name]",
         "detail": "bullyguard.data_modules.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationLightningModule",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.lightning_modules.bases",
+        "description": "bullyguard.evaluation.lightning_modules.bases",
+        "peekOfCode": "class EvaluationLightningModule(LightningModule):\n    def __init__(self, model: Model) -> None:\n        super().__init__()\n        self.model = model\n    @abstractmethod\n    def test_step(self, batch: Any, batch_idx: int) -> Tensor:\n        ...\n    @abstractmethod\n    def get_transformation(self) -> Transformation:\n        ...",
+        "detail": "bullyguard.evaluation.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "PartialEvaluationLightningModuleType",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.lightning_modules.bases",
+        "description": "bullyguard.evaluation.lightning_modules.bases",
+        "peekOfCode": "class PartialEvaluationLightningModuleType(Protocol):\n    def __call__(self, model: Model) -> EvaluationLightningModule:\n        ...",
+        "detail": "bullyguard.evaluation.lightning_modules.bases",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryTextEvaluationLightningModule",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.lightning_modules.binary_text_evaluation",
+        "description": "bullyguard.evaluation.lightning_modules.binary_text_evaluation",
+        "peekOfCode": "class BinaryTextEvaluationLightningModule(EvaluationLightningModule):\n    def __init__(\n        self,\n        model: Model,\n    ) -> None:\n        super().__init__(model=model)\n        self.test_accuracy = BinaryAccuracy()\n        self.test_f1_score = BinaryF1Score()\n        self.test_confusion_matrix = BinaryConfusionMatrix()\n        self.test_step_outputs: dict[str, list[Tensor]] = defaultdict(list)",
+        "detail": "bullyguard.evaluation.lightning_modules.binary_text_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluationTask",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.tasks.bases",
+        "description": "bullyguard.evaluation.tasks.bases",
+        "peekOfCode": "class EvaluationTask(ABC):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: EvaluationLightningModule,\n        trainer: Trainer,\n    ) -> None:\n        super().__init__()\n        self.name = name",
+        "detail": "bullyguard.evaluation.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "TarModelEvaluationTask",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.tasks.bases",
+        "description": "bullyguard.evaluation.tasks.bases",
+        "peekOfCode": "class TarModelEvaluationTask(EvaluationTask):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: PartialEvaluationLightningModuleType,\n        trainer: Trainer,\n        tar_model_path: str,\n    ) -> None:\n        model = TarModelLoader(tar_model_path).load()",
+        "detail": "bullyguard.evaluation.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "CommonEvaluationTask",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.tasks.common_evaluation_task",
+        "description": "bullyguard.evaluation.tasks.common_evaluation_task",
+        "peekOfCode": "class CommonEvaluationTask(TarModelEvaluationTask):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: PartialEvaluationLightningModuleType,\n        trainer: Trainer,\n        tar_model_path: str,\n    ) -> None:\n        super().__init__(",
+        "detail": "bullyguard.evaluation.tasks.common_evaluation_task",
         "documentation": {}
     },
     {
@@ -3851,7 +4304,7 @@
         "kind": 2,
         "importPath": "bullyguard.tests",
         "description": "bullyguard.tests",
-        "peekOfCode": "def main(config: DictConfig) -> None:\n    print(60 * \"#\")\n    print(OmegaConf.to_yaml(config))\n    print(60 * \"#\")\n    # model = instantiate(config)\n    # print(model)\n    # texts = [\"hello, how are you?\"]\n    # encodings = model.backbone.transformation(texts)\n    # output = model(encodings)\n    # print(f\"{output.shape=}\")",
+        "peekOfCode": "def main() -> None:\n    model_loader = TarModelLoader(\"/mlflow-artifact-store/0/f161d7e33b494bed8ef184a823a60585/artifacts/exported_model.tar.gz\")\n    model = model_loader.load()\n    print(model)\nif __name__ == \"__main__\":\n    main()",
         "detail": "bullyguard.tests",
         "documentation": {}
     }
