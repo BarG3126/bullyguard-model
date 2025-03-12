@@ -21,10 +21,10 @@ infrastructure:
     mlflow_internal_tracking_uri: http://127.0.0.1:6101
     experiment_name: Default
     run_name: null
-    run_id: 32f38cba35db4898957b7689f8c60f56
+    run_id: d89175b1b95b48f698a341d8499cc0fe
     experiment_id: '0'
-    experiment_url: http://127.0.0.1:6101/#/experiments/0/runs/32f38cba35db4898957b7689f8c60f56
-    artifact_uri: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts
+    experiment_url: http://127.0.0.1:6101/#/experiments/0/runs/d89175b1b95b48f698a341d8499cc0fe
+    artifact_uri: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts
 save_last_checkpoint_every_n_train_steps: 500
 seed: 1234
 tasks:
@@ -127,10 +127,10 @@ tasks:
         save_dir: null
         prefix: ''
         artifact_location: null
-        run_id: 32f38cba35db4898957b7689f8c60f56
+        run_id: d89175b1b95b48f698a341d8499cc0fe
       callbacks:
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/best-checkpoints/
+        dirpath: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/best-checkpoints/
         filename: null
         monitor: validation_f1_score
         verbose: false
@@ -144,7 +144,7 @@ tasks:
         every_n_epochs: null
         save_on_train_epoch_end: null
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/last-checkpoints/
+        dirpath: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/last-checkpoints/
         filename: checkpoint-{epoch}
         monitor: null
         verbose: false
@@ -189,9 +189,9 @@ tasks:
       sync_batchnorm: true
       reload_dataloaders_every_n_epochs: 0
       default_root_dir: ./data/pytorch-lightning
-    best_training_checkpoint: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/best-checkpoints/last.ckpt
-    last_training_checkpoint: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/last-checkpoints/last.ckpt
-    tar_model_export_path: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/exported_model.tar.gz
+    best_training_checkpoint: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/best-checkpoints/last.ckpt
+    last_training_checkpoint: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/last-checkpoints/last.ckpt
+    tar_model_export_path: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/exported_model.tar.gz
   binary_text_evaluation_task:
     _target_: bullyguard.evaluation.tasks.common_evaluation_task.CommonEvaluationTask
     name: binary_text_evaluation_task
@@ -231,10 +231,10 @@ tasks:
         save_dir: null
         prefix: ''
         artifact_location: null
-        run_id: 32f38cba35db4898957b7689f8c60f56
+        run_id: d89175b1b95b48f698a341d8499cc0fe
       callbacks:
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/best-checkpoints/
+        dirpath: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/best-checkpoints/
         filename: null
         monitor: validation_f1_score
         verbose: false
@@ -248,7 +248,7 @@ tasks:
         every_n_epochs: null
         save_on_train_epoch_end: null
       - _target_: lightning.pytorch.callbacks.ModelCheckpoint
-        dirpath: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/last-checkpoints/
+        dirpath: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/last-checkpoints/
         filename: checkpoint-{epoch}
         monitor: null
         verbose: false
@@ -293,4 +293,23 @@ tasks:
       sync_batchnorm: true
       reload_dataloaders_every_n_epochs: 0
       default_root_dir: ./data/pytorch-lightning
-    tar_model_path: /mlflow-artifact-store/0/32f38cba35db4898957b7689f8c60f56/artifacts/exported_model.tar.gz
+    tar_model_path: /mlflow-artifact-store/0/d89175b1b95b48f698a341d8499cc0fe/artifacts/exported_model.tar.gz
+model_selector:
+  _target_: bullyguard.evaluation.model_selector.ModelSelector
+  mlflow_run_id: d89175b1b95b48f698a341d8499cc0fe
+  must_be_better_metric_comparers:
+    f1_score:
+      _target_: bullyguard.evaluation.model_selector.MetricComparer
+      bigger_is_better: true
+      can_be_equal: false
+      metric_name: test_f1_score
+      threshold: 0.0
+    model_size:
+      _target_: bullyguard.evaluation.model_selector.MetricComparer
+      bigger_is_better: false
+      can_be_equal: true
+      metric_name: model_size
+      threshold: 0.0
+  to_be_thresholded_metric_comparers: {}
+  threshold: 0.0
+registered_model_name: bert_tiny

@@ -16,6 +16,7 @@ class Config:
     seed: int = 1234
     tasks: dict[str, TaskConfig] = MISSING
     model_selector: Optional[model_selector_schemas.ModelSelectorConfig] = None
+    registered_model_name: Optional[str] = None
 
 
 def setup_config() -> None:

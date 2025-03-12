@@ -1,8 +1,8 @@
 from dataclasses import dataclass, field
-
+from typing import Optional
 from hydra.core.config_store import ConfigStore
 from omegaconf import OmegaConf
-
+from bullyguard.config_schemas.evaluation import model_selector_schemas
 from bullyguard.config_schemas.base_schemas import TaskConfig
 from bullyguard.config_schemas.config_schema import Config
 from bullyguard.config_schemas.training.training_task_schemas import DefaultCommonTrainingTaskConfig
@@ -17,6 +17,11 @@ class LocalBertExperiment(Config):
             "binary_text_evaluation_task": DefaultCommonEvaluationTaskConfig(),
         }
     )
+
+    model_selector: Optional[
+        model_selector_schemas.ModelSelectorConfig
+    ] = model_selector_schemas.BullyingDetectionModelSelectorConfig()
+    registered_model_name: Optional[str] = "bert_tiny"
 
 
 FinalLocalBertExperiment = OmegaConf.merge(

@@ -513,6 +513,22 @@
         "documentation": {}
     },
     {
+        "label": "model_selector_schemas",
+        "importPath": "bullyguard.config_schemas.evaluation",
+        "description": "bullyguard.config_schemas.evaluation",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Optional",
         "importPath": "typing",
         "description": "typing",
@@ -2220,7 +2236,39 @@
         "documentation": {}
     },
     {
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
+        "isExtraImport": true,
+        "detail": "hydra.utils",
+        "documentation": {}
+    },
+    {
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
+        "isExtraImport": true,
+        "detail": "hydra.utils",
+        "documentation": {}
+    },
+    {
+        "label": "instantiate",
+        "importPath": "hydra.utils",
+        "description": "hydra.utils",
+        "isExtraImport": true,
+        "detail": "hydra.utils",
+        "documentation": {}
+    },
+    {
         "label": "activate_mlflow",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_model",
         "importPath": "bullyguard.utils.mlflow_utils",
         "description": "bullyguard.utils.mlflow_utils",
         "isExtraImport": true,
@@ -2381,22 +2429,6 @@
         "importPath": "tempfile",
         "description": "tempfile",
         "detail": "tempfile",
-        "documentation": {}
-    },
-    {
-        "label": "instantiate",
-        "importPath": "hydra.utils",
-        "description": "hydra.utils",
-        "isExtraImport": true,
-        "detail": "hydra.utils",
-        "documentation": {}
-    },
-    {
-        "label": "instantiate",
-        "importPath": "hydra.utils",
-        "description": "hydra.utils",
-        "isExtraImport": true,
-        "detail": "hydra.utils",
         "documentation": {}
     },
     {
@@ -2789,6 +2821,22 @@
         "documentation": {}
     },
     {
+        "label": "PythonModel",
+        "importPath": "mlflow.pyfunc",
+        "description": "mlflow.pyfunc",
+        "isExtraImport": true,
+        "detail": "mlflow.pyfunc",
+        "documentation": {}
+    },
+    {
+        "label": "MLFlowConfig",
+        "importPath": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "description": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.infrastructure.infrastructure_schema",
+        "documentation": {}
+    },
+    {
         "label": "itertools",
         "kind": 6,
         "isExtraImport": true,
@@ -2994,7 +3042,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.experiment.bert.local_bert",
         "description": "bullyguard.config_schemas.experiment.bert.local_bert",
-        "peekOfCode": "class LocalBertExperiment(Config):\n    tasks: dict[str, TaskConfig] = field(\n        default_factory=lambda: {\n            \"binary_text_classification_task\": DefaultCommonTrainingTaskConfig(),\n            \"binary_text_evaluation_task\": DefaultCommonEvaluationTaskConfig(),\n        }\n    )\nFinalLocalBertExperiment = OmegaConf.merge(\n    LocalBertExperiment,\n    OmegaConf.from_dotlist([",
+        "peekOfCode": "class LocalBertExperiment(Config):\n    tasks: dict[str, TaskConfig] = field(\n        default_factory=lambda: {\n            \"binary_text_classification_task\": DefaultCommonTrainingTaskConfig(),\n            \"binary_text_evaluation_task\": DefaultCommonEvaluationTaskConfig(),\n        }\n    )\n    model_selector: Optional[\n        model_selector_schemas.ModelSelectorConfig\n    ] = model_selector_schemas.BullyingDetectionModelSelectorConfig()",
         "detail": "bullyguard.config_schemas.experiment.bert.local_bert",
         "documentation": {}
     },
@@ -3561,7 +3609,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.config_schema",
         "description": "bullyguard.config_schemas.config_schema",
-        "peekOfCode": "class Config:\n    infrastructure: infrastructure_schema.InfrastructureConfig = infrastructure_schema.InfrastructureConfig()\n    save_last_checkpoint_every_n_train_steps: int = 500\n    seed: int = 1234\n    tasks: dict[str, TaskConfig] = MISSING\n    model_selector: Optional[model_selector_schemas.ModelSelectorConfig] = None\ndef setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    model_selector_schemas.setup_config()",
+        "peekOfCode": "class Config:\n    infrastructure: infrastructure_schema.InfrastructureConfig = infrastructure_schema.InfrastructureConfig()\n    save_last_checkpoint_every_n_train_steps: int = 500\n    seed: int = 1234\n    tasks: dict[str, TaskConfig] = MISSING\n    model_selector: Optional[model_selector_schemas.ModelSelectorConfig] = None\n    registered_model_name: Optional[str] = None\ndef setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()",
         "detail": "bullyguard.config_schemas.config_schema",
         "documentation": {}
     },
@@ -4394,6 +4442,15 @@
         "documentation": {}
     },
     {
+        "label": "DummyWrapper",
+        "kind": 6,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "class DummyWrapper(PythonModel):  # type: ignore\n    def load_context(self, context: Any) -> None:\n        pass\n    def predict(self, model_input: list[Any], params: Optional[dict[str, Any]] = None) -> Optional[float]:\n        pass\ndef log_model(mlflow_config: MLFlowConfig, new_best_run_tag: str, registered_model_name: str) -> None:\n    experiment_name = mlflow_config.experiment_name\n    run_id = mlflow_config.run_id\n    run_name = mlflow_config.run_name\n    with activate_mlflow(experiment_name=experiment_name, run_id=run_id, run_name=run_name) as _:",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
         "label": "activate_mlflow",
         "kind": 2,
         "importPath": "bullyguard.utils.mlflow_utils",
@@ -4452,7 +4509,16 @@
         "kind": 2,
         "importPath": "bullyguard.utils.mlflow_utils",
         "description": "bullyguard.utils.mlflow_utils",
-        "peekOfCode": "def get_best_run() -> dict[str, Any]:\n    best_runs = mlflow.search_runs(get_all_experiment_ids(), filter_string=\"tag.best_run LIKE 'v%'\")\n    if len(best_runs) == 0:\n        return {}\n    indices = best_runs[\"tags.best_run\"].str.split(\"v\").str[-1].astype(int).sort_values()\n    best_runs = best_runs.reindex(index=indices.index)\n    best_runs_dict: dict[str, Any] = best_runs.iloc[-1].to_dict()\n    return best_runs_dict",
+        "peekOfCode": "def get_best_run() -> dict[str, Any]:\n    best_runs = mlflow.search_runs(get_all_experiment_ids(), filter_string=\"tag.best_run LIKE 'v%'\")\n    if len(best_runs) == 0:\n        return {}\n    indices = best_runs[\"tags.best_run\"].str.split(\"v\").str[-1].astype(int).sort_values()\n    best_runs = best_runs.reindex(index=indices.index)\n    best_runs_dict: dict[str, Any] = best_runs.iloc[-1].to_dict()\n    return best_runs_dict\nclass DummyWrapper(PythonModel):  # type: ignore\n    def load_context(self, context: Any) -> None:",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_model",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def log_model(mlflow_config: MLFlowConfig, new_best_run_tag: str, registered_model_name: str) -> None:\n    experiment_name = mlflow_config.experiment_name\n    run_id = mlflow_config.run_id\n    run_name = mlflow_config.run_name\n    with activate_mlflow(experiment_name=experiment_name, run_id=run_id, run_name=run_name) as _:\n        mlflow.pyfunc.log_model(\n            artifact_path=\"\", python_model=DummyWrapper(), registered_model_name=registered_model_name\n        )\n        mlflow.set_tag(\"best_run\", new_best_run_tag)",
         "detail": "bullyguard.utils.mlflow_utils",
         "documentation": {}
     },

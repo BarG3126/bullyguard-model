@@ -3,9 +3,9 @@ import os
 
 from contextlib import contextmanager
 from typing import Any, Iterable, Generator, Optional, TYPE_CHECKING
-
+from mlflow.pyfunc import PythonModel
 import mlflow
-
+from bullyguard.config_schemas.infrastructure.infrastructure_schema import MLFlowConfig
 from bullyguard.utils.mixins import LoggableParamsMixin
 
 MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI")
@@ -86,3 +86,23 @@ def get_best_run() -> dict[str, Any]:
     best_runs = best_runs.reindex(index=indices.index)
     best_runs_dict: dict[str, Any] = best_runs.iloc[-1].to_dict()
     return best_runs_dict
+
+
+class DummyWrapper(PythonModel):  # type: ignore
+    def load_context(self, context: Any) -> None:
+        pass
+
+    def predict(self, model_input: list[Any], params: Optional[dict[str, Any]] = None) -> Optional[float]:
+        pass
+
+
+def log_model(mlflow_config: MLFlowConfig, new_best_run_tag: str, registered_model_name: str) -> None:
+    experiment_name = mlflow_config.experiment_name
+    run_id = mlflow_config.run_id
+    run_name = mlflow_config.run_name
+
+    with activate_mlflow(experiment_name=experiment_name, run_id=run_id, run_name=run_name) as _:
+        mlflow.pyfunc.log_model(
+            artifact_path="", python_model=DummyWrapper(), registered_model_name=registered_model_name
+        )
+        mlflow.set_tag("best_run", new_best_run_tag)
