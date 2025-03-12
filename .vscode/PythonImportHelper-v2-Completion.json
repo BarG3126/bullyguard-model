@@ -81,6 +81,22 @@
         "documentation": {}
     },
     {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
         "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
@@ -202,6 +218,22 @@
     },
     {
         "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING",
+        "importPath": "omegaconf",
+        "description": "omegaconf",
+        "isExtraImport": true,
+        "detail": "omegaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SI",
         "importPath": "omegaconf",
         "description": "omegaconf",
         "isExtraImport": true,
@@ -473,6 +505,502 @@
         "documentation": {}
     },
     {
+        "label": "model_selector_schemas",
+        "importPath": "bullyguard.config_schemas.evaluation",
+        "description": "bullyguard.config_schemas.evaluation",
+        "isExtraImport": true,
+        "detail": "bullyguard.config_schemas.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigStore",
+        "importPath": "hydra.core.config_store",
+        "description": "hydra.core.config_store",
+        "isExtraImport": true,
+        "detail": "hydra.core.config_store",
+        "documentation": {}
+    },
+    {
         "label": "ConfigStore",
         "importPath": "hydra.core.config_store",
         "description": "hydra.core.config_store",
@@ -646,454 +1174,6 @@
         "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
         "isExtraImport": true,
         "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Callable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Protocol",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Protocol",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Generator",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Literal",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Callable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Iterable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Literal",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Protocol",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Iterable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Generator",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
         "documentation": {}
     },
     {
@@ -2148,6 +2228,22 @@
         "documentation": {}
     },
     {
+        "label": "get_best_run",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_client",
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
         "label": "activate_mlflow",
         "importPath": "bullyguard.utils.mlflow_utils",
         "description": "bullyguard.utils.mlflow_utils",
@@ -2201,6 +2297,54 @@
         "description": "bullyguard.evaluation.tasks.bases",
         "isExtraImport": true,
         "detail": "bullyguard.evaluation.tasks.bases",
+        "documentation": {}
+    },
+    {
+        "label": "Run",
+        "importPath": "mlflow.entities",
+        "description": "mlflow.entities",
+        "isExtraImport": true,
+        "detail": "mlflow.entities",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "bullyguard.utils.utils",
+        "description": "bullyguard.utils.utils",
+        "isExtraImport": true,
+        "detail": "bullyguard.utils.utils",
         "documentation": {}
     },
     {
@@ -2301,38 +2445,6 @@
         "description": "bullyguard.models.common.utils",
         "isExtraImport": true,
         "detail": "bullyguard.models.common.utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
-        "documentation": {}
-    },
-    {
-        "label": "get_logger",
-        "importPath": "bullyguard.utils.utils",
-        "description": "bullyguard.utils.utils",
-        "isExtraImport": true,
-        "detail": "bullyguard.utils.utils",
         "documentation": {}
     },
     {
@@ -2821,6 +2933,60 @@
         "description": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
         "peekOfCode": "class DefaultCommonEvaluationTaskConfig(CommonEvaluationTaskConfig):\n    name: str = \"binary_text_evaluation_task\"\n    lightning_module: evaluation_lightning_module_schemas.PartialEvaluationLightningModuleConfig = evaluation_lightning_module_schemas.BinaryTextEvaluationLightningModuleConfig()",
         "detail": "bullyguard.config_schemas.evaluation.evaluation_task_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "MetricComparerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "description": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "peekOfCode": "class MetricComparerConfig:\n    _target_: str = \"bullyguard.evaluation.model_selector.MetricComparer\"\n    bigger_is_better: bool = MISSING\n    can_be_equal: bool = False\n    metric_name: str = MISSING\n    threshold: float = 0.0\n@dataclass\nclass BinaryF1ScoreMetricComparerConfig(MetricComparerConfig):\n    bigger_is_better: bool = True\n    metric_name: str = \"test_f1_score\"",
+        "detail": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryF1ScoreMetricComparerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "description": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "peekOfCode": "class BinaryF1ScoreMetricComparerConfig(MetricComparerConfig):\n    bigger_is_better: bool = True\n    metric_name: str = \"test_f1_score\"\n@dataclass\nclass ModelSizeMetricComparerConfig(MetricComparerConfig):\n    bigger_is_better: bool = False\n    metric_name: str = \"model_size\"\n    can_be_equal: bool = True\n@dataclass\nclass ModelSelectorConfig:",
+        "detail": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSizeMetricComparerConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "description": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "peekOfCode": "class ModelSizeMetricComparerConfig(MetricComparerConfig):\n    bigger_is_better: bool = False\n    metric_name: str = \"model_size\"\n    can_be_equal: bool = True\n@dataclass\nclass ModelSelectorConfig:\n    _target_: str = \"bullyguard.evaluation.model_selector.ModelSelector\"\n    mlflow_run_id: Optional[str] = SI(\"${infrastructure.mlflow.run_id}\")\n    must_be_better_metric_comparers: dict[str, MetricComparerConfig] = field(default_factory=lambda: {})\n    to_be_thresholded_metric_comparers: dict[str, MetricComparerConfig] = field(default_factory=lambda: {})",
+        "detail": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSelectorConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "description": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "peekOfCode": "class ModelSelectorConfig:\n    _target_: str = \"bullyguard.evaluation.model_selector.ModelSelector\"\n    mlflow_run_id: Optional[str] = SI(\"${infrastructure.mlflow.run_id}\")\n    must_be_better_metric_comparers: dict[str, MetricComparerConfig] = field(default_factory=lambda: {})\n    to_be_thresholded_metric_comparers: dict[str, MetricComparerConfig] = field(default_factory=lambda: {})\n    threshold: float = 0.0\n@dataclass\nclass BullyingDetectionModelSelectorConfig(ModelSelectorConfig):\n    must_be_better_metric_comparers: dict[str, MetricComparerConfig] = field(\n        default_factory=lambda: {",
+        "detail": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BullyingDetectionModelSelectorConfig",
+        "kind": 6,
+        "importPath": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "description": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "peekOfCode": "class BullyingDetectionModelSelectorConfig(ModelSelectorConfig):\n    must_be_better_metric_comparers: dict[str, MetricComparerConfig] = field(\n        default_factory=lambda: {\n            \"f1_score\": BinaryF1ScoreMetricComparerConfig(),\n            \"model_size\": ModelSizeMetricComparerConfig(),\n        }\n    )\ndef setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(name=\"metric_comparer_schema\", group=\"model_selector/metric_comparers\", node=MetricComparerConfig)",
+        "detail": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "description": "bullyguard.config_schemas.evaluation.model_selector_schemas",
+        "peekOfCode": "def setup_config() -> None:\n    cs = ConfigStore.instance()\n    cs.store(name=\"metric_comparer_schema\", group=\"model_selector/metric_comparers\", node=MetricComparerConfig)\n    cs.store(name=\"model_selector_schema\", group=\"model_selector\", node=ModelSelectorConfig)",
+        "detail": "bullyguard.config_schemas.evaluation.model_selector_schemas",
         "documentation": {}
     },
     {
@@ -3395,7 +3561,7 @@
         "kind": 6,
         "importPath": "bullyguard.config_schemas.config_schema",
         "description": "bullyguard.config_schemas.config_schema",
-        "peekOfCode": "class Config:\n    infrastructure: infrastructure_schema.InfrastructureConfig = infrastructure_schema.InfrastructureConfig()\n    save_last_checkpoint_every_n_train_steps: int = 500\n    seed: int = 1234\n    tasks: dict[str, TaskConfig] = MISSING\ndef setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(name=\"config_schema\", node=Config)",
+        "peekOfCode": "class Config:\n    infrastructure: infrastructure_schema.InfrastructureConfig = infrastructure_schema.InfrastructureConfig()\n    save_last_checkpoint_every_n_train_steps: int = 500\n    seed: int = 1234\n    tasks: dict[str, TaskConfig] = MISSING\n    model_selector: Optional[model_selector_schemas.ModelSelectorConfig] = None\ndef setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    model_selector_schemas.setup_config()",
         "detail": "bullyguard.config_schemas.config_schema",
         "documentation": {}
     },
@@ -3404,7 +3570,7 @@
         "kind": 2,
         "importPath": "bullyguard.config_schemas.config_schema",
         "description": "bullyguard.config_schemas.config_schema",
-        "peekOfCode": "def setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(name=\"config_schema\", node=Config)",
+        "peekOfCode": "def setup_config() -> None:\n    infrastructure_schema.setup_config()\n    training_task_schemas.setup_config()\n    model_selector_schemas.setup_config()\n    cs = ConfigStore.instance()\n    cs.store(name=\"config_schema\", node=Config)",
         "detail": "bullyguard.config_schemas.config_schema",
         "documentation": {}
     },
@@ -3532,6 +3698,24 @@
         "description": "bullyguard.evaluation.tasks.common_evaluation_task",
         "peekOfCode": "class CommonEvaluationTask(TarModelEvaluationTask):\n    def __init__(\n        self,\n        name: str,\n        data_module: Union[DataModule, PartialDataModuleType],\n        lightning_module: PartialEvaluationLightningModuleType,\n        trainer: Trainer,\n        tar_model_path: str,\n    ) -> None:\n        super().__init__(",
         "detail": "bullyguard.evaluation.tasks.common_evaluation_task",
+        "documentation": {}
+    },
+    {
+        "label": "MetricComparer",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.model_selector",
+        "description": "bullyguard.evaluation.model_selector",
+        "peekOfCode": "class MetricComparer:\n    def __init__(self, bigger_is_better: bool, can_be_equal: bool, metric_name: str, threshold: float = 0.0) -> None:\n        self.bigger_is_better = bigger_is_better\n        self.can_be_equal = can_be_equal\n        self.metric_name = metric_name\n        self.threshold = threshold\n    def is_metric_better(self, run: Run, best_run_data: dict[str, Any]) -> bool:\n        if not best_run_data:\n            return True\n        current_metric_value = self.get_current_metric_value(run)",
+        "detail": "bullyguard.evaluation.model_selector",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSelector",
+        "kind": 6,
+        "importPath": "bullyguard.evaluation.model_selector",
+        "description": "bullyguard.evaluation.model_selector",
+        "peekOfCode": "class ModelSelector:\n    def __init__(\n        self,\n        mlflow_run_id: str,\n        must_be_better_metric_comparers: dict[str, MetricComparer] = {},\n        to_be_thresholded_metric_comparers: dict[str, MetricComparer] = {},\n        threshold: float = 0.0,\n    ) -> None:\n        if not must_be_better_metric_comparers and not to_be_thresholded_metric_comparers:\n            raise ValueError(",
+        "detail": "bullyguard.evaluation.model_selector",
         "documentation": {}
     },
     {
@@ -4242,6 +4426,33 @@
         "importPath": "bullyguard.utils.mlflow_utils",
         "description": "bullyguard.utils.mlflow_utils",
         "peekOfCode": "def log_training_hparams(config: \"Config\") -> None:\n    logged_nodes = set()\n    def loggable_params(node: Any, path: list[str]) -> Generator[tuple[str, Any], None, None]:\n        if isinstance(node, LoggableParamsMixin) and id(node) not in logged_nodes:\n            for param_name in node.loggable_params():\n                yield \".\".join(path + [param_name]), getattr(node, param_name)\n            logged_nodes.add(id(node))\n        children = None\n        if isinstance(node, dict):\n            children = node.items()",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_client",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def get_client() -> mlflow.tracking.MlflowClient:\n    return mlflow.tracking.MlflowClient(MLFLOW_TRACKING_URI)\ndef get_all_experiment_ids() -> list[str]:\n    return [exp.experiment_id for exp in mlflow.search_experiments()]\ndef get_best_run() -> dict[str, Any]:\n    best_runs = mlflow.search_runs(get_all_experiment_ids(), filter_string=\"tag.best_run LIKE 'v%'\")\n    if len(best_runs) == 0:\n        return {}\n    indices = best_runs[\"tags.best_run\"].str.split(\"v\").str[-1].astype(int).sort_values()\n    best_runs = best_runs.reindex(index=indices.index)",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_experiment_ids",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def get_all_experiment_ids() -> list[str]:\n    return [exp.experiment_id for exp in mlflow.search_experiments()]\ndef get_best_run() -> dict[str, Any]:\n    best_runs = mlflow.search_runs(get_all_experiment_ids(), filter_string=\"tag.best_run LIKE 'v%'\")\n    if len(best_runs) == 0:\n        return {}\n    indices = best_runs[\"tags.best_run\"].str.split(\"v\").str[-1].astype(int).sort_values()\n    best_runs = best_runs.reindex(index=indices.index)\n    best_runs_dict: dict[str, Any] = best_runs.iloc[-1].to_dict()\n    return best_runs_dict",
+        "detail": "bullyguard.utils.mlflow_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_best_run",
+        "kind": 2,
+        "importPath": "bullyguard.utils.mlflow_utils",
+        "description": "bullyguard.utils.mlflow_utils",
+        "peekOfCode": "def get_best_run() -> dict[str, Any]:\n    best_runs = mlflow.search_runs(get_all_experiment_ids(), filter_string=\"tag.best_run LIKE 'v%'\")\n    if len(best_runs) == 0:\n        return {}\n    indices = best_runs[\"tags.best_run\"].str.split(\"v\").str[-1].astype(int).sort_values()\n    best_runs = best_runs.reindex(index=indices.index)\n    best_runs_dict: dict[str, Any] = best_runs.iloc[-1].to_dict()\n    return best_runs_dict",
         "detail": "bullyguard.utils.mlflow_utils",
         "documentation": {}
     },

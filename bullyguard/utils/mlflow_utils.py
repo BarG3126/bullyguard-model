@@ -67,3 +67,22 @@ def log_training_hparams(config: "Config") -> None:
 
     params = dict(loggable_params(config, []))
     mlflow.log_params(params)
+
+
+def get_client() -> mlflow.tracking.MlflowClient:
+    return mlflow.tracking.MlflowClient(MLFLOW_TRACKING_URI)
+
+
+def get_all_experiment_ids() -> list[str]:
+    return [exp.experiment_id for exp in mlflow.search_experiments()]
+
+
+def get_best_run() -> dict[str, Any]:
+    best_runs = mlflow.search_runs(get_all_experiment_ids(), filter_string="tag.best_run LIKE 'v%'")
+    if len(best_runs) == 0:
+        return {}
+
+    indices = best_runs["tags.best_run"].str.split("v").str[-1].astype(int).sort_values()
+    best_runs = best_runs.reindex(index=indices.index)
+    best_runs_dict: dict[str, Any] = best_runs.iloc[-1].to_dict()
+    return best_runs_dict
